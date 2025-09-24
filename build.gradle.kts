@@ -37,6 +37,9 @@ tasks.withType<Jar> {
     // Set a fixed, simple name for the output JAR
     archiveFileName.set("app.jar")
 
+    // Tell Gradle to exclude any duplicate files found in the META-INF directory.
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
     // This is crucial: Bundle all dependencies into the JAR to make it runnable
     from(sourceSets.main.get().output)
     dependsOn(configurations.runtimeClasspath)
