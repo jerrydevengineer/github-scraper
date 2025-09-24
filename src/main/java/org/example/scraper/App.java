@@ -13,7 +13,8 @@ import java.time.LocalDate;
 
 public class App {
     // The URL for the API
-    private static final String API_URL = "https://api.gitterapp.com/repositories?language=java&since=daily";
+//    private static final String API_URL = "https://api.gitterapp.com/repositories?language=java&since=daily";
+    private static final String API_BASE_URL = "https://api.g-h-t.de/repositories";
 
     public static void main(String[] args) throws IOException {
         // 1. Read the language from the environment variable
@@ -34,11 +35,12 @@ public class App {
         System.out.println("Fetching trending repositories for language: " + language);
 
         // 2. Build the API URL dynamically
-        String apiUrl = "https://api.gitterapp.com/repositories?language=" + language + "&since=" + timeframe;
+//        String apiUrl = "https://api.gitterapp.com/repositories?language=" + language + "&since=" + timeframe;
+        String apiUrl = API_BASE_URL + "?language=" + language + "&since=" + timeframe;
 
         // 3. Fetch the data from the API
         OkHttpClient client = new OkHttpClient();
-        Request request = new Request.Builder().url(API_URL).build();
+        Request request = new Request.Builder().url(apiUrl).build();
         Response response = client.newCall(request).execute();
         String jsonData = response.body().string();
 
