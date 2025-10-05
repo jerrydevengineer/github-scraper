@@ -25,6 +25,8 @@ dependencies {
 
     // For parsing JSON data into Java/Kotlin objects
     implementation("com.fasterxml.jackson.core:jackson-databind:2.17.1")
+
+    implementation("org.jsoup:jsoup:1.17.2")
 }
 
 // 5. Application Block: Configure the main entry point of your app
