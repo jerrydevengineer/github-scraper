@@ -44,6 +44,10 @@ public class App {
         Response response = client.newCall(request).execute();
         String jsonData = response.body().string();
 
+        if (!response.isSuccessful()) {
+            throw new IOException("Unexpected API response code: " + response.code() + " with body: " + jsonData);
+        }
+
         // 4. Parse the JSON data
         ObjectMapper mapper = new ObjectMapper();
         JsonNode repos = mapper.readTree(jsonData);
