@@ -50,3 +50,23 @@ jobs:
         with:
           commit_message: "Docs: Update daily trending repositories report"
           file_pattern: "*.md"
+
+  # --- TO SEND A SLACK NOTIFICATION ---
+  send-slack-notification:
+    runs-on: ubuntu-latest
+    needs: build_and_run_scraper # This ensures this job only runs AFTER the scraper job
+    if: success() # And only if the scraper job was successful
+    steps:
+      - name: Send Slack Notification on Success
+        id: slack
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          # This is the ID of the channel or user you want to message
+          # For a public channel: C024BE91L
+          # For a direct message to yourself: U024BE7LH (your Member ID)
+          channel-id: 'C09K5U3QHPB'
+          # This is the message that will be sent
+          slack-message: "✅ GitHub scraper ran successfully! View the latest report: ${{ github.server_url }}/${{ github.repository }}/blob/main/TRENDING.md"
+        env:
+          # You MUST create a secret in your repository called SLACK_BOT_TOKEN
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
