@@ -66,7 +66,7 @@ jobs:
           # For a direct message to yourself: U024BE7LH (your Member ID)
           channel-id: 'C09K5U3QHPB'
           # This is the message that will be sent
-          slack-message: "✅ GitHub scraper ran successfully! View the latest report: ${{ github.server_url }}/${{ github.repository }}/blob/main/TRENDING.md"
+          slack-message: "✅ GitHub scraper ran successfully! View the latest report: ${{ github.server_url }}/${{ github.repository }}/blob/master/TRENDING.md"
         env:
           # You MUST create a secret in your repository called SLACK_BOT_TOKEN
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
