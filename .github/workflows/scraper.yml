@@ -1,4 +1,10 @@
 name: Daily GitHub Trending Scraper
+
+# This grants the workflow the necessary permissions to write back to the repo.
+permissions:
+  contents: write
+# ------------------------------------
+
 # test
 on:
   # Run this workflow automatically every day at 1 AM UTC
