@@ -2,10 +2,10 @@
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 21,798 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
-| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 26,501 | Learn System Design concepts and prepare for interviews using free resources. |
+| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 21,800 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 26,503 | Learn System Design concepts and prepare for interviews using free resources. |
 | 3 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,070 | Quarkus: Supersonic Subatomic Java. |
-| 4 | [apache / beam](https://github.com/apache/beam) | 8,315 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 4 | [apache / beam](https://github.com/apache/beam) | 8,316 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
 | 5 | [languagetool-org / languagetool](https://github.com/languagetool-org/languagetool) | 13,637 | Style and Grammar Checker for 25+ Languages |
 | 6 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,480 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
 | 7 | [apache / cassandra](https://github.com/apache/cassandra) | 9,406 | Apache Cassandra® |
@@ -16,9 +16,9 @@
 | 12 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 1,880 | An unofficial rules engine for the world's greatest card game. |
 | 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 74,939 | Free and Open Source, Distributed, RESTful Search Engine |
 | 14 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,697 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 15 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,423 | Open-Source Web UI for Apache Kafka Management |
+| 15 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,424 | Open-Source Web UI for Apache Kafka Management |
 | 16 | [google / guava](https://github.com/google/guava) | 51,166 | Google core libraries for Java |
-| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 18,515 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 18,516 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
 | 18 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,424 | Apache Kafka® running on Kubernetes |
 | 19 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 78,598 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
 | 20 | [vespa-engine / vespa](https://github.com/vespa-engine/vespa) | 6,388 | AI + Data, online. https://vespa.ai |
