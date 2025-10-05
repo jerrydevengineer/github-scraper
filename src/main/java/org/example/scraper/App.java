@@ -48,6 +48,8 @@ public class App {
             throw new IOException("Unexpected API response code: " + response.code() + " with body: " + jsonData);
         }
 
+        System.out.println("Unexpected API response code: " + response.code() + " with body: " + jsonData);
+
         // 4. Parse the JSON data
         ObjectMapper mapper = new ObjectMapper();
         JsonNode repos = mapper.readTree(jsonData);
