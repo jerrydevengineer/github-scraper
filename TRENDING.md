@@ -1,25 +1,25 @@
-# Top Trending Java Repositories - 2025-10-07
+# Top Trending Java Repositories - 2025-10-08
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 22,212 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
-| 2 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,257 | No clever tagline needed. |
-| 3 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 92,907 | Design patterns implemented in Java |
-| 4 | [DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) | 171 | Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️ |
-| 5 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 63,784 | All Algorithms implemented in Java |
-| 6 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 20,846 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 7 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,703 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 8 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,613 | The API and the developer guide for Shizuku and Sui. |
-| 9 | [termux / termux-app](https://github.com/termux/termux-app) | 45,682 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 10 | [apache / fluss](https://github.com/apache/fluss) | 1,490 | Apache Fluss is a streaming storage built for real-time analytics. |
-| 11 | [apache / maven](https://github.com/apache/maven) | 4,793 | Apache Maven core |
-| 12 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,141 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 13 | [termux / termux-api](https://github.com/termux/termux-api) | 3,053 | Termux add-on app which exposes device functionality as API to command line programs. |
-| 14 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,194 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
-| 15 | [apache / kafka](https://github.com/apache/kafka) | 31,033 | Mirror of Apache Kafka |
-| 16 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 24,776 | Browse media content with your own rules on Android TV |
-| 17 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 35,280 | A libre lightweight streaming front-end for Android. |
-| 18 | [apache / camel](https://github.com/apache/camel) | 5,981 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
-| 19 | [apache / flink](https://github.com/apache/flink) | 25,336 | Apache Flink |
-| 20 | [apache / ozone](https://github.com/apache/ozone) | 1,033 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
-| 21 | [apache / gravitino](https://github.com/apache/gravitino) | 2,111 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 1 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,118 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| 2 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 63,819 | All Algorithms implemented in Java |
+| 3 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 92,933 | Design patterns implemented in Java |
+| 4 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 18,617 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 5 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 45,673 | Free universal database tool and SQL client |
+| 6 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,505 | Jenkins automation server |
+| 7 | [plantuml / plantuml](https://github.com/plantuml/plantuml) | 12,150 | Generate diagrams from textual description |
+| 8 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 15,168 | Graphs for Everyone |
+| 9 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 2,592 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 10 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 68,378 | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| 11 | [freeplane / freeplane](https://github.com/freeplane/freeplane) | 3,526 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way. |
+| 12 | [openjdk / jdk](https://github.com/openjdk/jdk) | 21,834 | JDK main-line development https://openjdk.org/projects/jdk |
+| 13 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 24,624 | a fast, scalable, multi-language and extensible build system |
+| 14 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 13,572 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 15 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 33,397 | A browser automation framework and ecosystem. |
+| 16 | [freeok / so-novel](https://github.com/freeok/so-novel) | 4,497 | 小说下载｜网文下载 | 网络小说 |
+| 17 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 30,202 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
+| 18 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 22,305 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| 19 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 426 | All Code of LLD Playlist |
+| 20 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,189 | The ZAP by Checkmarx Core project |
+| 21 | [jenkinsci / configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) | 2,762 | Jenkins Configuration as Code Plugin |
