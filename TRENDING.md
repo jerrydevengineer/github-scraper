@@ -1,24 +1,24 @@
-# Top Trending Java Repositories - 2025-10-09
+# Top Trending Java Repositories - 2025-10-10
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,046 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 2 | [timestored / qstudio](https://github.com/timestored/qstudio) | 928 | qStudio - Free SQL Analysis Tool |
-| 3 | [qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) | 2,224 | 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top http://www.722shop.top:6401 |
-| 4 | [oracle / graal](https://github.com/oracle/graal) | 21,202 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
-| 5 | [flyway / flyway](https://github.com/flyway/flyway) | 9,155 | Flyway by Redgate • Database Migrations Made Easy. |
-| 6 | [hapifhir / hapi-fhir](https://github.com/hapifhir/hapi-fhir) | 2,206 | 🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers |
-| 7 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,708 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 8 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 30,201 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
-| 9 | [freeplane / freeplane](https://github.com/freeplane/freeplane) | 3,526 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way. |
-| 10 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 15,174 | Graphs for Everyone |
-| 11 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 61,109 | Ghidra is a software reverse engineering (SRE) framework |
-| 12 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,322 | Spring Security |
-| 13 | [DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) | 237 | Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️ |
-| 14 | [plantuml / plantuml](https://github.com/plantuml/plantuml) | 12,152 | Generate diagrams from textual description |
-| 15 | [apache / pulsar](https://github.com/apache/pulsar) | 14,906 | Apache Pulsar - distributed pub-sub messaging system |
-| 16 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 24,627 | a fast, scalable, multi-language and extensible build system |
-| 17 | [xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 20,096 | ehviewer，用爱发电，快乐前行 |
-| 18 | [trinodb / trino](https://github.com/trinodb/trino) | 11,993 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 19 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 674 | Datadog APM client for Java |
-| 20 | [freeok / so-novel](https://github.com/freeok/so-novel) | 4,514 | 小说下载｜网文下载 | 网络小说 |
+| 1 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,168 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 30,042 | Open Source Identity and Access Management For Modern Applications and Services |
+| 3 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 33,496 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 4 | [qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) | 2,250 | 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top http://www.722shop.top:6401 |
+| 5 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 30,195 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
+| 6 | [oracle / graal](https://github.com/oracle/graal) | 21,217 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
+| 7 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 4,717 | 🧩 Patches for ReVanced |
+| 8 | [grpc / grpc-java](https://github.com/grpc/grpc-java) | 11,867 | The Java gRPC implementation. HTTP/2 based RPC |
+| 9 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,047 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
+| 10 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,448 | Open-Source Web UI for Apache Kafka Management |
+| 11 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 23,094 | A tool for reverse engineering Android apk files |
+| 12 | [androidx / media](https://github.com/androidx/media) | 2,442 | Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android |
+| 13 | [material-components / material-components-android](https://github.com/material-components/material-components-android) | 16,977 | Modular and customizable Material Design UI components for Android |
+| 14 | [openjdk / jdk](https://github.com/openjdk/jdk) | 21,848 | JDK main-line development https://openjdk.org/projects/jdk |
+| 15 | [Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) | 1,279 | The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications, translation, and more. Devs now write 1 app that runs on any pair of smart glases. |
+| 16 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,349 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| 17 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,197 | No description available. |
+| 18 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 9,220 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
+| 19 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,514 | Jenkins automation server |
+| 20 | [alibaba / DataX](https://github.com/alibaba/DataX) | 16,851 | DataX是阿里云DataWorks数据集成的开源版本。 |
