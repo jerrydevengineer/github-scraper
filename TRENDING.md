@@ -1,26 +1,24 @@
-# Top Trending Java Repositories - 2025-10-14
+# Top Trending Java Repositories - 2025-10-15
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 35,344 | A libre lightweight streaming front-end for Android. |
-| 2 | [freeok / so-novel](https://github.com/freeok/so-novel) | 5,017 | 小说下载｜网文下载 | 网络小说 |
-| 3 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6,205 | Agentic AI Framework for Java Developers |
-| 4 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,632 | The API and the developer guide for Shizuku and Sui. |
-| 5 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,536 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 6 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,052 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
-| 7 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,347 | A podcast manager for Android |
-| 8 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 152,122 | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
-| 9 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 11,763 | Access your entire server infrastructure from your local desktop |
-| 10 | [apache / hbase](https://github.com/apache/hbase) | 5,413 | Apache HBase |
-| 11 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 3,512 | Modern super user interface implementation on Android. |
-| 12 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 21,753 | LSPosed Framework |
-| 13 | [Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) | 1,948 | 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮 |
-| 14 | [runelite / runelite](https://github.com/runelite/runelite) | 5,131 | Open source Old School RuneScape client |
-| 15 | [netty / netty](https://github.com/netty/netty) | 34,491 | Netty project - an event-driven asynchronous network application framework |
-| 16 | [openjdk / jdk](https://github.com/openjdk/jdk) | 21,864 | JDK main-line development https://openjdk.org/projects/jdk |
-| 17 | [Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) | 3,953 | Customizable and privacy-conscious open-source keyboard |
-| 18 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 26,665 | Learn System Design concepts and prepare for interviews using free resources. |
-| 19 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,292 | No clever tagline needed. |
-| 20 | [apache / ofbiz-framework](https://github.com/apache/ofbiz-framework) | 947 | Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions. |
-| 21 | [gnembon / fabric-carpet](https://github.com/gnembon/fabric-carpet) | 1,905 | Fabric Carpet |
-| 22 | [xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | 1,465 | It's a Virtual Machine App for Android Which is Based on QEMU |
+| 1 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6,287 | Agentic AI Framework for Java Developers |
+| 2 | [apache / doris](https://github.com/apache/doris) | 14,429 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 3 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 6,911 | An Application Framework for AI Engineering |
+| 4 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,026 | Free and Open Source, Distributed, RESTful Search Engine |
+| 5 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 44,055 | 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~ |
+| 6 | [Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) | 1,977 | 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮 |
+| 7 | [loks666 / get_jobs](https://github.com/loks666/get_jobs) | 4,414 | 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘) |
+| 8 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 24,433 | 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 9 | [dataease / dataease](https://github.com/dataease/dataease) | 22,084 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 10 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 117,806 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation |
+| 11 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 78,675 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 12 | [netty / netty](https://github.com/netty/netty) | 34,494 | Netty project - an event-driven asynchronous network application framework |
+| 13 | [skylot / jadx](https://github.com/skylot/jadx) | 45,779 | Dex to Java decompiler |
+| 14 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,438 | Apache Kafka® running on Kubernetes |
+| 15 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 33,603 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 16 | [baomidou / mybatis-plus](https://github.com/baomidou/mybatis-plus) | 17,148 | An powerful enhanced toolkit of MyBatis for simplify development |
+| 17 | [trinodb / trino](https://github.com/trinodb/trino) | 12,016 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 18 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 45,757 | Free universal database tool and SQL client |
+| 19 | [apache / flink](https://github.com/apache/flink) | 25,353 | Apache Flink |
+| 20 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 9,277 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
