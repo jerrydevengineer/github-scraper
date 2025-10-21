@@ -1,26 +1,24 @@
-# Top Trending Java Repositories - 2025-10-20
+# Top Trending Java Repositories - 2025-10-21
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 46,091 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 22,639 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
-| 3 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2,746 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 4 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,009 | IntelliJ IDEA & IntelliJ Platform |
-| 5 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,244 | google maps for block game |
-| 6 | [camunda / camunda](https://github.com/camunda/camunda) | 3,830 | Process Orchestration Framework |
-| 7 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,156 | Design patterns implemented in Java |
-| 8 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 24,955 | Browse media content with your own rules on Android TV |
-| 9 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,447 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 10 | [Sketchware-Pro / Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) | 1,304 | Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro. |
-| 11 | [apache / cassandra](https://github.com/apache/cassandra) | 9,430 | Apache Cassandra® |
-| 12 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,035 | The automation tower defense RTS |
-| 13 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 33,479 | A browser automation framework and ecosystem. |
-| 14 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,560 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 15 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 4,740 | The main repository of Telegram X — official alternative Telegram client for Android. |
-| 16 | [xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 20,282 | ehviewer，用爱发电，快乐前行 |
-| 17 | [halo-dev / halo](https://github.com/halo-dev/halo) | 37,126 | 强大易用的开源建站工具。 |
-| 18 | [debezium / debezium](https://github.com/debezium/debezium) | 11,968 | Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ. |
-| 19 | [HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) | 664 | A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development. |
-| 20 | [limboemu / limbo](https://github.com/limboemu/limbo) | 3,131 | Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions. |
-| 21 | [apache / hbase](https://github.com/apache/hbase) | 5,425 | Apache HBase |
-| 22 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 2,982 | Based Minecraft utility mod. |
+| 1 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,161 | The automation tower defense RTS |
+| 2 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,027 | Spring Framework |
+| 3 | [termux / termux-api](https://github.com/termux/termux-api) | 3,091 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 4 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 21,817 | LSPosed Framework |
+| 5 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 20,926 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 6 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,446 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 7 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 63,991 | All Algorithms implemented in Java |
+| 8 | [termux / termux-app](https://github.com/termux/termux-app) | 46,129 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 9 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,560 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 10 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,248 | google maps for block game |
+| 11 | [openjdk / jdk](https://github.com/openjdk/jdk) | 21,904 | JDK main-line development https://openjdk.org/projects/jdk |
+| 12 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 78,741 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 13 | [netty / netty](https://github.com/netty/netty) | 34,519 | Netty project - an event-driven asynchronous network application framework |
+| 14 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,330 | No clever tagline needed. |
+| 15 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,261 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 16 | [microg / GmsCore](https://github.com/microg/GmsCore) | 11,193 | Free implementation of Play Services |
+| 17 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2,766 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 18 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,658 | The API and the developer guide for Shizuku and Sui. |
+| 19 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,715 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 20 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 24,965 | Browse media content with your own rules on Android TV |
