@@ -1,25 +1,27 @@
-# Top Trending Java Repositories - 2025-10-22
+# Top Trending Java Repositories - 2025-10-23
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,313 | The automation tower defense RTS |
-| 2 | [apache / kafka](https://github.com/apache/kafka) | 31,131 | Mirror of Apache Kafka |
-| 3 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 10,785 | 开源的端到端产品级通用智能体 |
-| 4 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,333 | Spring Security |
-| 5 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 78,753 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 6 | [redisson / redisson](https://github.com/redisson/redisson) | 24,073 | Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. |
-| 7 | [metersphere / metersphere](https://github.com/metersphere/metersphere) | 12,575 | MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。 |
-| 8 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 7,234 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 9 | [gyoogle / tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) | 16,665 | 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖 |
-| 10 | [apache / lucene](https://github.com/apache/lucene) | 3,199 | Apache Lucene open-source search software |
-| 11 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 45,869 | Free universal database tool and SQL client |
-| 12 | [YunaiV / yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 17,986 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 13 | [dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) | 7,255 | OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. |
-| 14 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,656 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
-| 15 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,078 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 16 | [awsdocs / aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | 10,241 | Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. |
-| 17 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,588 | Open-Source Web UI for managing Apache Kafka clusters |
-| 18 | [brettwooldridge / HikariCP](https://github.com/brettwooldridge/HikariCP) | 20,781 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. |
-| 19 | [apache / beam](https://github.com/apache/beam) | 8,338 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 20 | [traccar / traccar](https://github.com/traccar/traccar) | 6,554 | Traccar GPS Tracking System |
-| 21 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,172 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 1 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,398 | The automation tower defense RTS |
+| 2 | [debezium / debezium](https://github.com/debezium/debezium) | 11,984 | Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ. |
+| 3 | [traccar / traccar](https://github.com/traccar/traccar) | 6,560 | Traccar GPS Tracking System |
+| 4 | [trinodb / trino](https://github.com/trinodb/trino) | 12,048 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 5 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 61,484 | Ghidra is a software reverse engineering (SRE) framework |
+| 6 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 78,763 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 7 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 24,482 | 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 8 | [apache / hbase](https://github.com/apache/hbase) | 5,431 | Apache HBase |
+| 9 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 6,363 | WEB VIDEO PLATFORM是一个基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将不带国标功能的摄像机/直播流/直播推流转发到其他国标平台。 |
+| 10 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 44,124 | 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、MybatisPlus，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~ |
+| 11 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 26,819 | Learn System Design concepts and prepare for interviews using free resources. |
+| 12 | [graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) | 6,069 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
+| 13 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,082 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 14 | [apache / beam](https://github.com/apache/beam) | 8,343 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 15 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 20,941 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 16 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 6,989 | An Application Framework for AI Engineering |
+| 17 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,121 | Quarkus: Supersonic Subatomic Java. |
+| 18 | [redisson / redisson](https://github.com/redisson/redisson) | 24,078 | Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. |
+| 19 | [apache / tika](https://github.com/apache/tika) | 3,378 | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
+| 20 | [apache / pulsar](https://github.com/apache/pulsar) | 14,924 | Apache Pulsar - distributed pub-sub messaging system |
+| 21 | [apache / cassandra](https://github.com/apache/cassandra) | 9,439 | Apache Cassandra® |
+| 22 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 69,028 | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| 23 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,044 | Spring Framework |
