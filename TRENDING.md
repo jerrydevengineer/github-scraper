@@ -1,27 +1,26 @@
-# Top Trending Java Repositories - 2025-10-30
+# Top Trending Java Repositories - 2025-10-31
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6,710 | Agentic AI Framework for Java Developers |
-| 2 | [apache / fineract](https://github.com/apache/fineract) | 1,847 | Apache Fineract |
-| 3 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 10,778 | 开源的端到端产品级通用智能体 |
-| 4 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,324 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 5 | [openjdk / jdk](https://github.com/openjdk/jdk) | 21,943 | JDK main-line development https://openjdk.org/projects/jdk |
-| 6 | [apache / nifi](https://github.com/apache/nifi) | 5,778 | Apache NiFi |
-| 7 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 11,801 | 🔎 Open source distributed and RESTful search engine. |
-| 8 | [apache / tika](https://github.com/apache/tika) | 3,387 | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
-| 9 | [apache / polaris](https://github.com/apache/polaris) | 1,710 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 10 | [apache / paimon](https://github.com/apache/paimon) | 3,047 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
-| 11 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,487 | Apache Kafka® running on Kubernetes |
-| 12 | [halo-dev / halo](https://github.com/halo-dev/halo) | 37,186 | 强大易用的开源建站工具。 |
-| 13 | [google / adk-java](https://github.com/google/adk-java) | 783 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
-| 14 | [Consensys / teku](https://github.com/Consensys/teku) | 737 | 🚀 Open-source Ethereum consensus client written in Java |
-| 15 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,126 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 16 | [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) | 7,536 | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
-| 17 | [micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) | 4,743 | An application observability facade for the most popular observability tools. Think SLF4J, but for observability. |
-| 18 | [apache / hadoop](https://github.com/apache/hadoop) | 15,335 | Apache Hadoop |
-| 19 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,283 | The ZAP by Checkmarx Core project |
-| 20 | [spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) | 899 | No description available. |
-| 21 | [YunaiV / yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 18,027 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 22 | [DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) | 297 | Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️ |
-| 23 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,079 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
+| 1 | [apache / nifi](https://github.com/apache/nifi) | 5,780 | Apache NiFi |
+| 2 | [apache / fory](https://github.com/apache/fory) | 3,837 | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. |
+| 3 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 6,378 | MCP Server for Ghidra |
+| 4 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 7,446 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 5 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 69,354 | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| 6 | [apache / cassandra](https://github.com/apache/cassandra) | 9,455 | Apache Cassandra® |
+| 7 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,139 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 8 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,044 | An Application Framework for AI Engineering |
+| 9 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,313 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 10 | [apache / flink](https://github.com/apache/flink) | 25,425 | Apache Flink |
+| 11 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 13,912 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 12 | [rememberber / MooTool](https://github.com/rememberber/MooTool) | 1,746 | Handy tool set for developers. 开发者常备小工具 |
+| 13 | [joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) | 950 | 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案 |
+| 14 | [termux / termux-api](https://github.com/termux/termux-api) | 3,117 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 15 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,027 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 16 | [apache / iceberg](https://github.com/apache/iceberg) | 8,147 | Apache Iceberg |
+| 17 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 10,597 | 开源的端到端产品级通用智能体 |
+| 18 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,184 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 19 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,173 | The Metadata Platform for your Data and AI Stack |
+| 20 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,826 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
+| 21 | [YunaiV / yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 18,032 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 22 | [apache / kafka](https://github.com/apache/kafka) | 31,188 | Mirror of Apache Kafka |
