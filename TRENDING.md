@@ -1,23 +1,26 @@
-# Top Trending Java Repositories - 2025-11-04
+# Top Trending Java Repositories - 2025-11-05
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 35,511 | A libre lightweight streaming front-end for Android. |
-| 2 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 25,169 | Browse media content with your own rules on Android TV |
-| 3 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,151 | Quarkus: Supersonic Subatomic Java. |
-| 4 | [apache / beam](https://github.com/apache/beam) | 8,354 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 5 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 4,806 | The main repository of Telegram X — official alternative Telegram client for Android. |
-| 6 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 33,959 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 7 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 33,570 | A browser automation framework and ecosystem. |
-| 8 | [apache / dubbo](https://github.com/apache/dubbo) | 41,556 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 9 | [runelite / runelite](https://github.com/runelite/runelite) | 5,154 | Open source Old School RuneScape client |
-| 10 | [termux / termux-app](https://github.com/termux/termux-app) | 46,553 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 11 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 5,598 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
-| 12 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,082 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
-| 13 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 61,807 | Ghidra is a software reverse engineering (SRE) framework |
-| 14 | [xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 20,484 | ehviewer，用爱发电，快乐前行 |
-| 15 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,625 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 16 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,474 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 17 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,021 | Add-ons for openHAB |
-| 18 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,287 | google maps for block game |
-| 19 | [PaperMC / Velocity](https://github.com/PaperMC/Velocity) | 2,045 | The modern, next-generation Minecraft server proxy. |
+| 1 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 24,701 | a fast, scalable, multi-language and extensible build system |
+| 2 | [apache / cassandra](https://github.com/apache/cassandra) | 9,469 | Apache Cassandra® |
+| 3 | [dataease / dataease](https://github.com/dataease/dataease) | 22,247 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 4 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2,828 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 5 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 44,223 | 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、MybatisPlus，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~ |
+| 6 | [metersphere / metersphere](https://github.com/metersphere/metersphere) | 12,600 | MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。 |
+| 7 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 46,050 | Free universal database tool and SQL client |
+| 8 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,646 | Open-Source Web UI for managing Apache Kafka clusters |
+| 9 | [apache / flink](https://github.com/apache/flink) | 25,441 | Apache Flink |
+| 10 | [apache / iceberg](https://github.com/apache/iceberg) | 8,166 | Apache Iceberg |
+| 11 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,844 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
+| 12 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 3,772 | [NeoForge Mod] Building Tools and Aesthetic Technology |
+| 13 | [google / adk-java](https://github.com/google/adk-java) | 802 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| 14 | [apache / kafka](https://github.com/apache/kafka) | 31,222 | Mirror of Apache Kafka |
+| 15 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,367 | Free and Open Source, Distributed, RESTful Search Engine |
+| 16 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,159 | Quarkus: Supersonic Subatomic Java. |
+| 17 | [material-components / material-components-android](https://github.com/material-components/material-components-android) | 17,003 | Modular and customizable Material Design UI components for Android |
+| 18 | [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) | 4,279 | RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。 |
+| 19 | [apache / lucene](https://github.com/apache/lucene) | 3,219 | Apache Lucene open-source search software |
+| 20 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 7,530 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 21 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 10,663 | 开源的端到端产品级通用智能体 |
+| 22 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 13,891 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
