@@ -1,22 +1,24 @@
-# Top Trending Java Repositories - 2025-12-04
+# Top Trending Java Repositories - 2025-12-05
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [google / adk-java](https://github.com/google/adk-java) | 1,047 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
-| 2 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 19,876 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 3 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,415 | google maps for block game |
-| 4 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 7,309 | Agentic AI Framework for Java Developers |
-| 5 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 11,254 | 开源的端到端产品级通用智能体 |
-| 6 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 13,687 | Universal File Online Preview Project based on Spring-Boot |
-| 7 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,511 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
-| 8 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 24,760 | 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 9 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 27,978 | Learn System Design concepts and prepare for interviews using free resources. |
-| 10 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2,944 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 11 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,293 | Spring Framework |
-| 12 | [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) | 4,474 | RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。 |
-| 13 | [flyway / flyway](https://github.com/flyway/flyway) | 9,342 | Flyway by Redgate • Database Migrations Made Easy. |
-| 14 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,726 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 15 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,364 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 16 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,029 | An unofficial rules engine for the world's greatest card game. |
-| 17 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,229 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 18 | [spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) | 994 | No description available. |
+| 1 | [dataease / dataease](https://github.com/dataease/dataease) | 22,568 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 2 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 6,462 | WEB VIDEO PLATFORM是一个基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将不带国标功能的摄像机/直播流/直播推流转发到其他国标平台。 |
+| 3 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,637 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 4 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,415 | All Algorithms implemented in Java |
+| 5 | [grpc / grpc-java](https://github.com/grpc/grpc-java) | 11,918 | The Java gRPC implementation. HTTP/2 based RPC |
+| 6 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 34,460 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 7 | [apache / commons-lang](https://github.com/apache/commons-lang) | 2,886 | Apache Commons Lang |
+| 8 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,316 | An Application Framework for AI Engineering |
+| 9 | [apache / gravitino](https://github.com/apache/gravitino) | 2,419 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 10 | [apache / cassandra](https://github.com/apache/cassandra) | 9,514 | Apache Cassandra® |
+| 11 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 24,859 | a fast, scalable, multi-language and extensible build system |
+| 12 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,587 | Free and Open Source, Distributed, RESTful Search Engine |
+| 13 | [androidx / media](https://github.com/androidx/media) | 2,557 | Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android |
+| 14 | [apache / jmeter](https://github.com/apache/jmeter) | 9,125 | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services |
+| 15 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,512 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| 16 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,256 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 17 | [apache / maven](https://github.com/apache/maven) | 4,862 | Apache Maven core |
+| 18 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,157 | JDK main-line development https://openjdk.org/projects/jdk |
+| 19 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,226 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 20 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 31,443 | Open Source Identity and Access Management For Modern Applications and Services |
