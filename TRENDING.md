@@ -1,28 +1,26 @@
-# Top Trending Java Repositories - 2025-12-06
+# Top Trending Java Repositories - 2025-12-07
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,590 | Apache Kafka® running on Kubernetes |
-| 2 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 30,550 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
-| 3 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,791 | Open-Source Web UI for managing Apache Kafka clusters |
-| 4 | [dataease / dataease](https://github.com/dataease/dataease) | 22,584 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 5 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,735 | Jenkins automation server |
-| 6 | [apache / flink](https://github.com/apache/flink) | 25,554 | Apache Flink |
-| 7 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 9,865 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 8 | [trinodb / trino](https://github.com/trinodb/trino) | 12,242 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 9 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,552 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 10 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,564 | No clever tagline needed. |
-| 11 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 11,288 | 开源的端到端产品级通用智能体 |
-| 12 | [apache / nifi](https://github.com/apache/nifi) | 5,858 | Apache NiFi |
-| 13 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 24,863 | a fast, scalable, multi-language and extensible build system |
-| 14 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 31,458 | Open Source Identity and Access Management For Modern Applications and Services |
-| 15 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,233 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 16 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 62,509 | Ghidra is a software reverse engineering (SRE) framework |
-| 17 | [deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) | 4,710 | An Engine-Agnostic Deep Learning Framework in Java |
-| 18 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,266 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 19 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 23,480 | A tool for reverse engineering Android apk files |
-| 20 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,208 | No description available. |
-| 21 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,593 | Free and Open Source, Distributed, RESTful Search Engine |
-| 22 | [apache / kafka](https://github.com/apache/kafka) | 31,458 | Mirror of Apache Kafka |
-| 23 | [grpc / grpc-java](https://github.com/grpc/grpc-java) | 11,918 | The Java gRPC implementation. HTTP/2 based RPC |
-| 24 | [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava) | 48,472 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. |
+| 1 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 119,708 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation |
+| 2 | [karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) | 4,335 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| 3 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,741 | Jenkins automation server |
+| 4 | [termux / termux-app](https://github.com/termux/termux-app) | 47,497 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 5 | [apache / fluss](https://github.com/apache/fluss) | 1,642 | Apache Fluss is a streaming storage built for real-time analytics. |
+| 6 | [apache / hbase](https://github.com/apache/hbase) | 5,507 | Apache HBase |
+| 7 | [google / guava](https://github.com/google/guava) | 51,326 | Google core libraries for Java |
+| 8 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 1,306 | 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce. |
+| 9 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 6,645 | MCP Server for Ghidra |
+| 10 | [apache / paimon](https://github.com/apache/paimon) | 3,107 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
+| 11 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,431 | All Algorithms implemented in Java |
+| 12 | [doocs / leetcode](https://github.com/doocs/leetcode) | 35,225 | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| 13 | [antlr / antlr4](https://github.com/antlr/antlr4) | 18,550 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. |
+| 14 | [unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) | 3,203 | Open, Multi-modal Catalog for Data & AI |
+| 15 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,314 | Quarkus: Supersonic Subatomic Java. |
+| 16 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,568 | No clever tagline needed. |
+| 17 | [alibaba / DataX](https://github.com/alibaba/DataX) | 16,982 | DataX是阿里云DataWorks数据集成的开源版本。 |
+| 18 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 6,101 | A rewrite of Tachiyomi for the Desktop |
+| 19 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 26,618 | Browse media content with your own rules on Android TV |
+| 20 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 13,995 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 21 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,912 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
+| 22 | [Azure / azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | 2,544 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. |
