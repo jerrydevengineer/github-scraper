@@ -1,23 +1,24 @@
-# Top Trending Java Repositories - 2025-12-09
+# Top Trending Java Repositories - 2025-12-10
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 25,817 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
-| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 47,562 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 3 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,580 | No clever tagline needed. |
-| 4 | [microg / GmsCore](https://github.com/microg/GmsCore) | 11,536 | Free implementation of Play Services |
-| 5 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,434 | google maps for block game |
-| 6 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 28,116 | Learn System Design concepts and prepare for interviews using free resources. |
-| 7 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 6,984 | A full-featured package manager and viewer for Android |
-| 8 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,909 | The automation tower defense RTS |
-| 9 | [risin42 / NagramX](https://github.com/risin42/NagramX) | 939 | A variant of Nagram with additional features. |
-| 10 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,539 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 11 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 30,864 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
-| 12 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 6,111 | A rewrite of Tachiyomi for the Desktop |
-| 13 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,095 | WhatsApp tools for Android |
-| 14 | [traccar / traccar](https://github.com/traccar/traccar) | 6,711 | Traccar GPS Tracking System |
-| 15 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,272 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 16 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 19,959 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 17 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,094 | Based Minecraft utility mod. |
-| 18 | [apache / hbase](https://github.com/apache/hbase) | 5,515 | Apache HBase |
-| 19 | [ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | 1,339 | Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices. |
+| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 25,952 | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| 2 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 62,633 | Ghidra is a software reverse engineering (SRE) framework |
+| 3 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 502 | All Code of LLD Playlist |
+| 4 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 28,136 | Learn System Design concepts and prepare for interviews using free resources. |
+| 5 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 8,508 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 6 | [kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) | 931 | TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
+| 7 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,485 | The ZAP by Checkmarx Core project |
+| 8 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,034 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 9 | [apache / tika](https://github.com/apache/tika) | 3,454 | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
+| 10 | [gyoogle / tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) | 16,889 | 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖 |
+| 11 | [androidx / media](https://github.com/androidx/media) | 2,573 | Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android |
+| 12 | [bastillion-io / Bastillion](https://github.com/bastillion-io/Bastillion) | 3,415 | A modern, web-based SSH console and key management tool. Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard. |
+| 13 | [apache / fesod](https://github.com/apache/fesod) | 5,473 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
+| 14 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 152,962 | Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！ |
+| 15 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,326 | Quarkus: Supersonic Subatomic Java. |
+| 16 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,757 | Jenkins automation server |
+| 17 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,440 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 18 | [apache / poi](https://github.com/apache/poi) | 2,163 | Mirror of Apache POI gitbox. The Java API for Microsoft Documents. |
+| 19 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,268 | IntelliJ IDEA & IntelliJ Platform |
+| 20 | [apache / nifi](https://github.com/apache/nifi) | 5,863 | Apache NiFi |
