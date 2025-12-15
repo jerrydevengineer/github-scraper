@@ -1,21 +1,25 @@
-# Top Trending Java Repositories - 2025-12-14
+# Top Trending Java Repositories - 2025-12-15
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) | 1,532 | Android Virtual Keyboard Input via ADB (Useful for Test Automation) |
-| 2 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 794 | Plugin for JADX to integrate MCP server |
-| 3 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,314 | The Metadata Platform for your Data and AI Stack |
-| 4 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,932 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
-| 5 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,353 | Spring Framework |
-| 6 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,687 | Open-Source Web UI for Apache Kafka Management |
-| 7 | [octoshrimpy / quik](https://github.com/octoshrimpy/quik) | 1,873 | The most beautiful SMS messenger for Android - Revived |
-| 8 | [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) | 4,410 | SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms. |
-| 9 | [apache / cassandra](https://github.com/apache/cassandra) | 9,536 | Apache Cassandra® |
-| 10 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,467 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 11 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,486 | Design patterns implemented in Java |
-| 12 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 20,061 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 13 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 9,940 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 14 | [apache / hertzbeat](https://github.com/apache/hertzbeat) | 6,892 | An AI-powered next-generation open source real-time observability system. |
-| 15 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,819 | Open-Source Web UI for managing Apache Kafka clusters |
-| 16 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,421 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 17 | [karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) | 4,354 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| 1 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 14,577 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 2 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 20,147 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 3 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,312 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 4 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 26,922 | Browse media content with your own rules on Android TV |
+| 5 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,111 | Based Minecraft utility mod. |
+| 6 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,413 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
+| 7 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,274 | LSPosed Framework |
+| 8 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,768 | The API and the developer guide for Shizuku and Sui. |
+| 9 | [xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 21,234 | ehviewer，用爱发电，快乐前行 |
+| 10 | [microg / GmsCore](https://github.com/microg/GmsCore) | 11,585 | Free implementation of Play Services |
+| 11 | [trinodb / trino](https://github.com/trinodb/trino) | 12,274 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 12 | [apache / fineract](https://github.com/apache/fineract) | 1,917 | Apache Fineract |
+| 13 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,955 | The automation tower defense RTS |
+| 14 | [xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | 1,768 | It's a Virtual Machine App for Android Which is Based on QEMU |
+| 15 | [termux / termux-app](https://github.com/termux/termux-app) | 47,760 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 16 | [tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) | 3,992 | Java implementation of the Tron whitepaper |
+| 17 | [apache / seatunnel](https://github.com/apache/seatunnel) | 8,964 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 18 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,040 | Example Fabric mod |
+| 19 | [senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) | 1,548 | Android Virtual Keyboard Input via ADB (Useful for Test Automation) |
+| 20 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,380 | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
+| 21 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 62,770 | Ghidra is a software reverse engineering (SRE) framework |
