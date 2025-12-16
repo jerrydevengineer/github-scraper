@@ -1,25 +1,26 @@
-# Top Trending Java Repositories - 2025-12-15
+# Top Trending Java Repositories - 2025-12-16
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 14,577 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 2 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 20,147 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 3 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,312 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 4 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 26,922 | Browse media content with your own rules on Android TV |
-| 5 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,111 | Based Minecraft utility mod. |
-| 6 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,413 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
-| 7 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,274 | LSPosed Framework |
-| 8 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,768 | The API and the developer guide for Shizuku and Sui. |
-| 9 | [xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 21,234 | ehviewer，用爱发电，快乐前行 |
-| 10 | [microg / GmsCore](https://github.com/microg/GmsCore) | 11,585 | Free implementation of Play Services |
-| 11 | [trinodb / trino](https://github.com/trinodb/trino) | 12,274 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 12 | [apache / fineract](https://github.com/apache/fineract) | 1,917 | Apache Fineract |
-| 13 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,955 | The automation tower defense RTS |
-| 14 | [xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | 1,768 | It's a Virtual Machine App for Android Which is Based on QEMU |
-| 15 | [termux / termux-app](https://github.com/termux/termux-app) | 47,760 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 16 | [tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) | 3,992 | Java implementation of the Tron whitepaper |
-| 17 | [apache / seatunnel](https://github.com/apache/seatunnel) | 8,964 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 18 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,040 | Example Fabric mod |
-| 19 | [senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) | 1,548 | Android Virtual Keyboard Input via ADB (Useful for Test Automation) |
-| 20 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,380 | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
-| 21 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 62,770 | Ghidra is a software reverse engineering (SRE) framework |
+| 1 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 26,948 | Browse media content with your own rules on Android TV |
+| 2 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,322 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 3 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,345 | Quarkus: Supersonic Subatomic Java. |
+| 4 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 20,194 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 5 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,965 | The automation tower defense RTS |
+| 6 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 14,602 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 7 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,473 | A podcast manager for Android |
+| 8 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 28,274 | Learn System Design concepts and prepare for interviews using free resources. |
+| 9 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 35,920 | A libre lightweight streaming front-end for Android. |
+| 10 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,502 | All Algorithms implemented in Java |
+| 11 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,753 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 12 | [termux / termux-app](https://github.com/termux/termux-app) | 47,790 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,646 | Free and Open Source, Distributed, RESTful Search Engine |
+| 14 | [prestodb / presto](https://github.com/prestodb/presto) | 16,593 | The official home of the Presto distributed SQL query engine for big data |
+| 15 | [in28minutes / master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot) | 1,766 | Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud |
+| 16 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,026 | Add-ons for openHAB |
+| 17 | [xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) | 2,022 | Vulkan renderer mod for Minecraft. |
+| 18 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 2,858 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 19 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,900 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
+| 20 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,043 | Example Fabric mod |
+| 21 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 389 | An LoD rendering mod for minecraft |
+| 22 | [shmuelzon / home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) | 802 | Home Assistant Floor Plan Generator Plugin For Sweet Home 3D |
