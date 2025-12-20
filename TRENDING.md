@@ -1,27 +1,28 @@
-# Top Trending Java Repositories - 2025-12-19
+# Top Trending Java Repositories - 2025-12-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,330 | The Metadata Platform for your Data and AI Stack |
-| 2 | [nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) | 1,981 | An NFC research toolkit application for Android |
-| 3 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 443 | An LoD rendering mod for minecraft |
-| 4 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 47,864 | Free universal database tool and SQL client |
-| 5 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,634 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 6 | [debezium / debezium](https://github.com/debezium/debezium) | 12,191 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 7 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,238 | JDK main-line development https://openjdk.org/projects/jdk |
-| 8 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 28,385 | Learn System Design concepts and prepare for interviews using free resources. |
-| 9 | [apache / maven](https://github.com/apache/maven) | 4,891 | Apache Maven core |
-| 10 | [apache / doris](https://github.com/apache/doris) | 14,754 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 11 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,445 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 12 | [antlr / antlr4](https://github.com/antlr/antlr4) | 18,577 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. |
-| 13 | [karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) | 4,395 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
-| 14 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 11,371 | 开源的端到端产品级通用智能体 |
-| 15 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,338 | No description available. |
-| 16 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2,986 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 17 | [dataease / dataease](https://github.com/dataease/dataease) | 22,755 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 18 | [graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) | 6,159 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
-| 19 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,537 | All Algorithms implemented in Java |
-| 20 | [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) | 4,488 | SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms. |
-| 21 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,060 | 🔎 Open source distributed and RESTful search engine. |
-| 22 | [alibaba / COLA](https://github.com/alibaba/COLA) | 12,797 | 🥤 COLA: Clean Object-oriented & Layered Architecture |
-| 23 | [redisson / redisson](https://github.com/redisson/redisson) | 24,172 | Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. |
+| 1 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,354 | Quarkus: Supersonic Subatomic Java. |
+| 2 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,454 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 3 | [dataease / dataease](https://github.com/dataease/dataease) | 22,764 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 4 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,643 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 5 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,677 | Free and Open Source, Distributed, RESTful Search Engine |
+| 6 | [karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) | 4,403 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| 7 | [apache / fineract](https://github.com/apache/fineract) | 1,921 | Apache Fineract |
+| 8 | [apache / cassandra](https://github.com/apache/cassandra) | 9,541 | Apache Cassandra® |
+| 9 | [apache / flink-cdc](https://github.com/apache/flink-cdc) | 6,306 | Flink CDC is a streaming data integration tool |
+| 10 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,325 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
+| 11 | [apache / dubbo](https://github.com/apache/dubbo) | 41,655 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 12 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 15,575 | Graphs for Everyone |
+| 13 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 120,466 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation |
+| 14 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,702 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 15 | [OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) | 11,661 | OpenRefine is a free, open source power tool for working with messy data and improving it |
+| 16 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 457 | An LoD rendering mod for minecraft |
+| 17 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 25,991 | The automation tower defense RTS |
+| 18 | [apache / nifi](https://github.com/apache/nifi) | 5,879 | Apache NiFi |
+| 19 | [apache / beam](https://github.com/apache/beam) | 8,411 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 20 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,606 | Apache Kafka® running on Kubernetes |
+| 21 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,305 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
+| 22 | [oracle / graal](https://github.com/oracle/graal) | 21,371 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
+| 23 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 8,777 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 24 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,454 | An Application Framework for AI Engineering |
