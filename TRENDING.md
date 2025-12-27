@@ -1,27 +1,24 @@
-# Top Trending Java Repositories - 2025-12-26
+# Top Trending Java Repositories - 2025-12-27
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [halo-dev / halo](https://github.com/halo-dev/halo) | 37,557 | 强大易用的开源建站工具。 |
-| 2 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,311 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 3 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,143 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 4 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 13,815 | Universal File Online Preview Project based on Spring-Boot |
-| 5 | [apache / fory](https://github.com/apache/fory) | 4,148 | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. |
-| 6 | [freeok / so-novel](https://github.com/freeok/so-novel) | 5,827 | 小说下载｜网文下载 | 网络小说 |
-| 7 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,123 | WhatsApp tools for Android |
-| 8 | [apache / dubbo](https://github.com/apache/dubbo) | 41,676 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 9 | [dromara / Sa-Token](https://github.com/dromara/Sa-Token) | 18,433 | 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0 |
-| 10 | [apache / fluss](https://github.com/apache/fluss) | 1,689 | Apache Fluss is a streaming storage built for real-time analytics. |
-| 11 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,012 | A libre lightweight streaming front-end for Android. |
-| 12 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,775 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 13 | [apache / seatunnel](https://github.com/apache/seatunnel) | 8,992 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 14 | [apache / polaris](https://github.com/apache/polaris) | 1,777 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 15 | [apache / hbase](https://github.com/apache/hbase) | 5,540 | Apache HBase |
-| 16 | [gsantner / markor](https://github.com/gsantner/markor) | 4,968 | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. |
-| 17 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 1,520 | 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce. |
-| 18 | [jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) | 55 | Minecraft mod that allows players to wear collars |
-| 19 | [google / guava](https://github.com/google/guava) | 51,363 | Google core libraries for Java |
-| 20 | [libgdx / libgdx](https://github.com/libgdx/libgdx) | 24,640 | Desktop/Android/HTML5/iOS Java game development framework |
-| 21 | [questdb / questdb](https://github.com/questdb/questdb) | 16,498 | QuestDB is a high performance, open-source, time-series database |
-| 22 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 47,957 | Free universal database tool and SQL client |
-| 23 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,957 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
+| 1 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,261 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 2 | [apache / hbase](https://github.com/apache/hbase) | 5,544 | Apache HBase |
+| 3 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,380 | LSPosed Framework |
+| 4 | [baomidou / mybatis-plus](https://github.com/baomidou/mybatis-plus) | 17,260 | An powerful enhanced toolkit of MyBatis for simplify development |
+| 5 | [mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) | 20,330 | MyBatis SQL mapper framework for Java |
+| 6 | [apache / hadoop](https://github.com/apache/hadoop) | 15,427 | Apache Hadoop |
+| 7 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 931 | Plugin for JADX to integrate MCP server |
+| 8 | [jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) | 7,786 | An open-source BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的低代码报表工具和大屏设计器！完全在线傻瓜式设计，高效的降低报表开发难度，解决各类报表难题。 |
+| 9 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,958 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
+| 10 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,447 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 11 | [apache / hudi](https://github.com/apache/hudi) | 6,050 | Upserts, Deletes And Incremental Processing on Big Data. |
+| 12 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,038 | LSPosed Framework resuscitated |
+| 13 | [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) | 4,554 | SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms. |
+| 14 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,912 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
+| 15 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 28,603 | Learn System Design concepts and prepare for interviews using free resources. |
+| 16 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 9,494 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
+| 17 | [termux / termux-app](https://github.com/termux/termux-app) | 48,150 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 18 | [apache / flink](https://github.com/apache/flink) | 25,638 | Apache Flink |
+| 19 | [apache / paimon](https://github.com/apache/paimon) | 3,134 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
+| 20 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,728 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
