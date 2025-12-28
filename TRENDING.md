@@ -1,24 +1,22 @@
-# Top Trending Java Repositories - 2025-12-27
+# Top Trending Java Repositories - 2025-12-28
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,261 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 2 | [apache / hbase](https://github.com/apache/hbase) | 5,544 | Apache HBase |
-| 3 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,380 | LSPosed Framework |
-| 4 | [baomidou / mybatis-plus](https://github.com/baomidou/mybatis-plus) | 17,260 | An powerful enhanced toolkit of MyBatis for simplify development |
-| 5 | [mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) | 20,330 | MyBatis SQL mapper framework for Java |
-| 6 | [apache / hadoop](https://github.com/apache/hadoop) | 15,427 | Apache Hadoop |
-| 7 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 931 | Plugin for JADX to integrate MCP server |
-| 8 | [jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) | 7,786 | An open-source BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的低代码报表工具和大屏设计器！完全在线傻瓜式设计，高效的降低报表开发难度，解决各类报表难题。 |
-| 9 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 28,958 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
-| 10 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,447 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 11 | [apache / hudi](https://github.com/apache/hudi) | 6,050 | Upserts, Deletes And Incremental Processing on Big Data. |
-| 12 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,038 | LSPosed Framework resuscitated |
-| 13 | [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) | 4,554 | SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms. |
-| 14 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,912 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
-| 15 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 28,603 | Learn System Design concepts and prepare for interviews using free resources. |
-| 16 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 9,494 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
-| 17 | [termux / termux-app](https://github.com/termux/termux-app) | 48,150 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 18 | [apache / flink](https://github.com/apache/flink) | 25,638 | Apache Flink |
-| 19 | [apache / paimon](https://github.com/apache/paimon) | 3,134 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
-| 20 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,728 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 1 | [Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) | 1,397 | Advanced Text Editor for Android |
+| 2 | [apache / fesod](https://github.com/apache/fesod) | 5,590 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
+| 3 | [halo-dev / halo](https://github.com/halo-dev/halo) | 37,581 | 强大易用的开源建站工具。 |
+| 4 | [apache / shardingsphere](https://github.com/apache/shardingsphere) | 20,608 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
+| 5 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 24,867 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 6 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,691 | No clever tagline needed. |
+| 7 | [dromara / Sa-Token](https://github.com/dromara/Sa-Token) | 18,439 | 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0 |
+| 8 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,492 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 9 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,779 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 10 | [jetlinks / jetlinks-community](https://github.com/jetlinks/jetlinks-community) | 6,299 | JetLinks 基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。 |
+| 11 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 24,936 | a fast, scalable, multi-language and extensible build system |
+| 12 | [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) | 7,843 | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
+| 13 | [apache / flink-cdc](https://github.com/apache/flink-cdc) | 6,310 | Flink CDC is a streaming data integration tool |
+| 14 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,389 | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
+| 15 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 535 | All Code of LLD Playlist |
+| 16 | [higress-group / himarket](https://github.com/higress-group/himarket) | 474 | HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats. |
+| 17 | [fabric8io / kubernetes-client](https://github.com/fabric8io/kubernetes-client) | 3,604 | Java client for Kubernetes & OpenShift |
+| 18 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 3,869 | [NeoForge Mod] Building Tools and Aesthetic Technology |
