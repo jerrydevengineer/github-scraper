@@ -1,25 +1,28 @@
-# Top Trending Java Repositories - 2026-01-02
+# Top Trending Java Repositories - 2026-01-03
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,201 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 2 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 6,957 | MCP Server for Ghidra |
-| 3 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,225 | Automated mass refactoring of source code. |
-| 4 | [diffplug / spotless](https://github.com/diffplug/spotless) | 5,232 | Keep your code spotless |
-| 5 | [apache / gravitino](https://github.com/apache/gravitino) | 2,609 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 6 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,153 | Based Minecraft utility mod. |
-| 7 | [google / guava](https://github.com/google/guava) | 51,381 | Google core libraries for Java |
-| 8 | [trinodb / trino](https://github.com/trinodb/trino) | 12,356 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 9 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,020 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 10 | [apache / kafka](https://github.com/apache/kafka) | 31,634 | Mirror of Apache Kafka |
-| 11 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,178 | Ghidra is a software reverse engineering (SRE) framework |
-| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,477 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 13 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,012 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 14 | [apache / skywalking](https://github.com/apache/skywalking) | 24,673 | APM, Application Performance Monitoring System |
-| 15 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,533 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 16 | [apache / beam](https://github.com/apache/beam) | 8,431 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 17 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,514 | google maps for block game |
-| 18 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,430 | LSPosed Framework |
-| 19 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,296 | JDK main-line development https://openjdk.org/projects/jdk |
-| 20 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,492 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
-| 21 | [EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | 23,101 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. |
+| 1 | [apache / fineract](https://github.com/apache/fineract) | 1,948 | Apache Fineract |
+| 2 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,594 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 3 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 6,969 | MCP Server for Ghidra |
+| 4 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,079 | An unofficial rules engine for the world's greatest card game. |
+| 5 | [termux / termux-app](https://github.com/termux/termux-app) | 48,380 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 6 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,553 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| 7 | [apache / flink](https://github.com/apache/flink) | 25,663 | Apache Flink |
+| 8 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,154 | Based Minecraft utility mod. |
+| 9 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 27,341 | Browse media content with your own rules on Android TV |
+| 10 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 14,937 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 11 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,114 | The automation tower defense RTS |
+| 12 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 20,680 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 13 | [googlesamples / mlkit](https://github.com/googlesamples/mlkit) | 4,080 | A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS |
+| 14 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,582 | The ZAP by Checkmarx Core project |
+| 15 | [mamiiblt / instafel](https://github.com/mamiiblt/instafel) | 733 | Instafel provides fast & up-to-date Instagram Alpha experience for everyone! |
+| 16 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,778 | Free and Open Source, Distributed, RESTful Search Engine |
+| 17 | [awsdocs / aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | 10,329 | Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. |
+| 18 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,487 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 19 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,382 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 20 | [google / gson](https://github.com/google/gson) | 24,293 | A Java serialization/deserialization library to convert Java Objects into JSON and back |
+| 21 | [ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | 1,396 | Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices. |
+| 22 | [gsantner / markor](https://github.com/gsantner/markor) | 4,989 | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. |
+| 23 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,040 | Add-ons for openHAB |
+| 24 | [19MisterX98 / SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) | 1,470 | No description available. |
