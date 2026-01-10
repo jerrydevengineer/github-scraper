@@ -1,27 +1,23 @@
-# Top Trending Java Repositories - 2026-01-09
+# Top Trending Java Repositories - 2026-01-10
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 12,892 | Access your entire server infrastructure from your local desktop |
-| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,131 | Open Source Identity and Access Management For Modern Applications and Services |
-| 3 | [OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) | 1,550 | Open Adversarial Exposure Validation Platform |
-| 4 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,615 | An Application Framework for AI Engineering |
-| 5 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 11,082 | 开源的端到端产品级通用智能体 |
-| 6 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,577 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 7 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,456 | Spring Framework |
-| 8 | [exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) | 7,622 | Leading free and open-source face recognition system |
-| 9 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 121,279 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 10 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,420 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
-| 11 | [CarGuo / GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 21,320 | 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 |
-| 12 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,047 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 13 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,228 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 14 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,336 | JDK main-line development https://openjdk.org/projects/jdk |
-| 15 | [camunda / camunda](https://github.com/camunda/camunda) | 3,964 | Process Orchestration Framework |
-| 16 | [apache / gravitino](https://github.com/apache/gravitino) | 2,639 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 17 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,367 | Ghidra is a software reverse engineering (SRE) framework |
-| 18 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,822 | Free and Open Source, Distributed, RESTful Search Engine |
-| 19 | [plantuml / plantuml](https://github.com/plantuml/plantuml) | 12,502 | Generate diagrams from textual description |
-| 20 | [apache / iceberg](https://github.com/apache/iceberg) | 8,411 | Apache Iceberg |
-| 21 | [apache / nifi](https://github.com/apache/nifi) | 5,895 | Apache NiFi |
-| 22 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,920 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
-| 23 | [Gedsh / InviZible](https://github.com/Gedsh/InviZible) | 2,286 | Android application for online privacy and security |
+| 1 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,085 | Access your entire server infrastructure from your local desktop |
+| 2 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,153 | Free universal database tool and SQL client |
+| 3 | [apache / kafka](https://github.com/apache/kafka) | 31,674 | Mirror of Apache Kafka |
+| 4 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,586 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 5 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 44,966 | 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~ |
+| 6 | [OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) | 1,564 | Open Adversarial Exposure Validation Platform |
+| 7 | [apache / hadoop](https://github.com/apache/hadoop) | 15,441 | Apache Hadoop |
+| 8 | [apache / cassandra](https://github.com/apache/cassandra) | 9,575 | Apache Cassandra® |
+| 9 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,053 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 10 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,614 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
+| 11 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,490 | IntelliJ IDEA & IntelliJ Platform |
+| 12 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 7,828 | Agentic AI Framework for Java Developers |
+| 13 | [apache / dubbo](https://github.com/apache/dubbo) | 41,702 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 14 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,387 | Quarkus: Supersonic Subatomic Java. |
+| 15 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,307 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
+| 16 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,086 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 17 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,147 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 18 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,904 | Open-Source Web UI for managing Apache Kafka clusters |
+| 19 | [apache / ozone](https://github.com/apache/ozone) | 1,130 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
