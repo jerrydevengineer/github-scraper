@@ -1,23 +1,26 @@
-# Top Trending Java Repositories - 2026-01-10
+# Top Trending Java Repositories - 2026-01-11
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,085 | Access your entire server infrastructure from your local desktop |
-| 2 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,153 | Free universal database tool and SQL client |
-| 3 | [apache / kafka](https://github.com/apache/kafka) | 31,674 | Mirror of Apache Kafka |
-| 4 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,586 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 5 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 44,966 | 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~ |
-| 6 | [OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) | 1,564 | Open Adversarial Exposure Validation Platform |
-| 7 | [apache / hadoop](https://github.com/apache/hadoop) | 15,441 | Apache Hadoop |
-| 8 | [apache / cassandra](https://github.com/apache/cassandra) | 9,575 | Apache Cassandra® |
-| 9 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,053 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 10 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,614 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
-| 11 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,490 | IntelliJ IDEA & IntelliJ Platform |
-| 12 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 7,828 | Agentic AI Framework for Java Developers |
-| 13 | [apache / dubbo](https://github.com/apache/dubbo) | 41,702 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 14 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,387 | Quarkus: Supersonic Subatomic Java. |
-| 15 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,307 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 16 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,086 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
-| 17 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,147 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 18 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,904 | Open-Source Web UI for managing Apache Kafka clusters |
-| 19 | [apache / ozone](https://github.com/apache/ozone) | 1,130 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
+| 1 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,272 | Access your entire server infrastructure from your local desktop |
+| 2 | [mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) | 20,341 | MyBatis SQL mapper framework for Java |
+| 3 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,244 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 4 | [google / guava](https://github.com/google/guava) | 51,416 | Google core libraries for Java |
+| 5 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,837 | Free and Open Source, Distributed, RESTful Search Engine |
+| 6 | [apache / polaris](https://github.com/apache/polaris) | 1,798 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
+| 7 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 6,569 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
+| 8 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,054 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 9 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,469 | Spring Framework |
+| 10 | [alibaba / arthas](https://github.com/alibaba/arthas) | 37,007 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
+| 11 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,784 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 12 | [apache / gravitino](https://github.com/apache/gravitino) | 2,646 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 13 | [apache / pulsar](https://github.com/apache/pulsar) | 15,041 | Apache Pulsar - distributed pub-sub messaging system |
+| 14 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,708 | All Algorithms implemented in Java |
+| 15 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 121,380 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 16 | [OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) | 1,569 | Open Adversarial Exposure Validation Platform |
+| 17 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,415 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 18 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,383 | No description available. |
+| 19 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,543 | google maps for block game |
+| 20 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,501 | IntelliJ IDEA & IntelliJ Platform |
+| 21 | [apache / ozone](https://github.com/apache/ozone) | 1,133 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
+| 22 | [oracle / graal](https://github.com/oracle/graal) | 21,400 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
