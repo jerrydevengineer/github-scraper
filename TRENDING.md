@@ -1,26 +1,26 @@
-# Top Trending Java Repositories - 2026-01-11
+# Top Trending Java Repositories - 2026-01-12
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,272 | Access your entire server infrastructure from your local desktop |
-| 2 | [mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) | 20,341 | MyBatis SQL mapper framework for Java |
-| 3 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,244 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 4 | [google / guava](https://github.com/google/guava) | 51,416 | Google core libraries for Java |
-| 5 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,837 | Free and Open Source, Distributed, RESTful Search Engine |
-| 6 | [apache / polaris](https://github.com/apache/polaris) | 1,798 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 7 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 6,569 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 8 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,054 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 9 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,469 | Spring Framework |
-| 10 | [alibaba / arthas](https://github.com/alibaba/arthas) | 37,007 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
-| 11 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,784 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 12 | [apache / gravitino](https://github.com/apache/gravitino) | 2,646 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 13 | [apache / pulsar](https://github.com/apache/pulsar) | 15,041 | Apache Pulsar - distributed pub-sub messaging system |
-| 14 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,708 | All Algorithms implemented in Java |
-| 15 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 121,380 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 16 | [OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) | 1,569 | Open Adversarial Exposure Validation Platform |
-| 17 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,415 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
-| 18 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,383 | No description available. |
-| 19 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,543 | google maps for block game |
-| 20 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,501 | IntelliJ IDEA & IntelliJ Platform |
-| 21 | [apache / ozone](https://github.com/apache/ozone) | 1,133 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
-| 22 | [oracle / graal](https://github.com/oracle/graal) | 21,400 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
+| 1 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 20,901 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 2 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,813 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 3 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,606 | Design patterns implemented in Java |
+| 4 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 27,514 | Browse media content with your own rules on Android TV |
+| 5 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,348 | JDK main-line development https://openjdk.org/projects/jdk |
+| 6 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,323 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
+| 7 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,625 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 8 | [apache / hadoop](https://github.com/apache/hadoop) | 15,443 | Apache Hadoop |
+| 9 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,843 | The API and the developer guide for Shizuku and Sui. |
+| 10 | [apache / hertzbeat](https://github.com/apache/hertzbeat) | 6,987 | An AI-powered next-generation open source real-time observability system. |
+| 11 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 647 | An LoD rendering mod for minecraft |
+| 12 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,477 | Spring Framework |
+| 13 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,382 | Access your entire server infrastructure from your local desktop |
+| 14 | [apache / ozone](https://github.com/apache/ozone) | 1,134 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
+| 15 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,065 | Open-source third-party Telegram client with not many but useful modifications. |
+| 16 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,178 | Free universal database tool and SQL client |
+| 17 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,545 | google maps for block game |
+| 18 | [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | 1,688 | NewPipe's core library for extracting data from streaming sites |
+| 19 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,716 | All Algorithms implemented in Java |
+| 20 | [TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) | 2,333 | TrackerControl Android: monitor and control trackers and ads. |
+| 21 | [questdb / questdb](https://github.com/questdb/questdb) | 16,544 | QuestDB is a high performance, open-source, time-series database |
+| 22 | [google / guava](https://github.com/google/guava) | 51,417 | Google core libraries for Java |
