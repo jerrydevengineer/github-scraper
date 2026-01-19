@@ -1,18 +1,23 @@
-# Top Trending Java Repositories - 2026-01-18
+# Top Trending Java Repositories - 2026-01-19
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / nifi](https://github.com/apache/nifi) | 5,912 | Apache NiFi |
-| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,243 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 3 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,001 | Agentic AI Framework for Java Developers |
-| 4 | [jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 11,151 | 开源的端到端产品级通用智能体 |
-| 5 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,634 | The ZAP by Checkmarx Core project |
-| 6 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,285 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 7 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 15,736 | Graphs for Everyone |
-| 8 | [microg / GmsCore](https://github.com/microg/GmsCore) | 11,942 | Free implementation of Play Services |
-| 9 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,409 | Quarkus: Supersonic Subatomic Java. |
-| 10 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,517 | Spring Framework |
-| 11 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,375 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,620 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 13 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,430 | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
-| 14 | [apache / solr](https://github.com/apache/solr) | 1,549 | Apache Solr open-source search software |
+| 1 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,129 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 2 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,755 | All Algorithms implemented in Java |
+| 3 | [runelite / runelite](https://github.com/runelite/runelite) | 5,252 | Open source Old School RuneScape client |
+| 4 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 587 | All Code of LLD Playlist |
+| 5 | [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava) | 48,517 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. |
+| 6 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,565 | google maps for block game |
+| 7 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,113 | An unofficial rules engine for the world's greatest card game. |
+| 8 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,448 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 9 | [deltazefiro / Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) | 2,684 | Hide your private files and apps with a single click. |
+| 10 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,104 | Learn System Design concepts and prepare for interviews using free resources. |
+| 11 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,267 | LSPosed Framework resuscitated |
+| 12 | [19MisterX98 / SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) | 1,490 | No description available. |
+| 13 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,683 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 14 | [LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) | 8,736 | LSPatch: A non-root Xposed framework extending from LSPosed |
+| 15 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,106 | Open-source third-party Telegram client with not many but useful modifications. |
+| 16 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 23,700 | A tool for reverse engineering Android apk files |
+| 17 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,088 | Example Fabric mod |
+| 18 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,569 | LSPosed Framework |
+| 19 | [termux / termux-app](https://github.com/termux/termux-app) | 48,971 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
