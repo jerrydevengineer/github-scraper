@@ -1,23 +1,25 @@
-# Top Trending Java Repositories - 2026-01-22
+# Top Trending Java Repositories - 2026-01-23
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,465 | The Metadata Platform for your Data and AI Stack |
-| 2 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,663 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 3 | [apache / flink](https://github.com/apache/flink) | 25,734 | Apache Flink |
-| 4 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,935 | No clever tagline needed. |
-| 5 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,389 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 6 | [apache / beam](https://github.com/apache/beam) | 8,454 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 7 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,965 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 8 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,812 | Open-Source Web UI for Apache Kafka Management |
-| 9 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,564 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 10 | [spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) | 1,095 | No description available. |
-| 11 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,334 | Free universal database tool and SQL client |
-| 12 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,781 | All Algorithms implemented in Java |
-| 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 75,936 | Free and Open Source, Distributed, RESTful Search Engine |
-| 14 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,221 | No description available. |
-| 15 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,016 | a fast, scalable, multi-language and extensible build system |
-| 16 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,647 | Design patterns implemented in Java |
-| 17 | [alibaba / DataX](https://github.com/alibaba/DataX) | 17,083 | DataX是阿里云DataWorks数据集成的开源版本。 |
-| 18 | [dataease / dataease](https://github.com/dataease/dataease) | 23,209 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 19 | [vespa-engine / vespa](https://github.com/vespa-engine/vespa) | 6,738 | AI + Data, online. https://vespa.ai |
+| 1 | [apache / nifi](https://github.com/apache/nifi) | 5,925 | Apache NiFi |
+| 2 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,950 | No clever tagline needed. |
+| 3 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,352 | Free universal database tool and SQL client |
+| 4 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,358 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 5 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,658 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 6 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,973 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 7 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,214 | Learn System Design concepts and prepare for interviews using free resources. |
+| 8 | [apache / fesod](https://github.com/apache/fesod) | 5,744 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
+| 9 | [apache / doris](https://github.com/apache/doris) | 14,914 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 10 | [OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) | 11,702 | OpenRefine is a free, open source power tool for working with messy data and improving it |
+| 11 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,411 | Spring Security |
+| 12 | [skylot / jadx](https://github.com/skylot/jadx) | 46,986 | Dex to Java decompiler |
+| 13 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,566 | Access your entire server infrastructure from your local desktop |
+| 14 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,569 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 15 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,477 | The Metadata Platform for your Data and AI Stack |
+| 16 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,746 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 17 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29,021 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
+| 18 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,950 | Open-Source Web UI for managing Apache Kafka clusters |
+| 19 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,675 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 20 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,825 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 21 | [neoforged / NeoForge](https://github.com/neoforged/NeoForge) | 1,775 | Neo Modding API for Minecraft: Java Edition, based on Forge |
