@@ -1,25 +1,26 @@
-# Top Trending Java Repositories - 2026-01-23
+# Top Trending Java Repositories - 2026-01-24
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / nifi](https://github.com/apache/nifi) | 5,925 | Apache NiFi |
-| 2 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 11,950 | No clever tagline needed. |
-| 3 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,352 | Free universal database tool and SQL client |
-| 4 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,358 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 5 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,658 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 6 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,973 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 7 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,214 | Learn System Design concepts and prepare for interviews using free resources. |
-| 8 | [apache / fesod](https://github.com/apache/fesod) | 5,744 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
-| 9 | [apache / doris](https://github.com/apache/doris) | 14,914 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 10 | [OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) | 11,702 | OpenRefine is a free, open source power tool for working with messy data and improving it |
-| 11 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,411 | Spring Security |
-| 12 | [skylot / jadx](https://github.com/skylot/jadx) | 46,986 | Dex to Java decompiler |
-| 13 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,566 | Access your entire server infrastructure from your local desktop |
-| 14 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,569 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 15 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,477 | The Metadata Platform for your Data and AI Stack |
-| 16 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,746 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 17 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29,021 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
-| 18 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,950 | Open-Source Web UI for managing Apache Kafka clusters |
-| 19 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,675 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 20 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,825 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 21 | [neoforged / NeoForge](https://github.com/neoforged/NeoForge) | 1,775 | Neo Modding API for Minecraft: Java Edition, based on Forge |
+| 1 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,410 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 2 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,582 | IntelliJ IDEA & IntelliJ Platform |
+| 3 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,667 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 4 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,944 | Jenkins automation server |
+| 5 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,980 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 6 | [google / gson](https://github.com/google/gson) | 24,326 | A Java serialization/deserialization library to convert Java Objects into JSON and back |
+| 7 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,315 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 8 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,306 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 9 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,842 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 10 | [apache / shardingsphere](https://github.com/apache/shardingsphere) | 20,648 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
+| 11 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,263 | Learn System Design concepts and prepare for interviews using free resources. |
+| 12 | [Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) | 1,605 | Advanced Text Editor for Android |
+| 13 | [alibaba / DataX](https://github.com/alibaba/DataX) | 17,088 | DataX是阿里云DataWorks数据集成的开源版本。 |
+| 14 | [apache / nifi](https://github.com/apache/nifi) | 5,928 | Apache NiFi |
+| 15 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,494 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
+| 16 | [gyoogle / tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) | 17,050 | 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖 |
+| 17 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,040 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
+| 18 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,537 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 19 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,590 | Access your entire server infrastructure from your local desktop |
+| 20 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,309 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 21 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,421 | Quarkus: Supersonic Subatomic Java. |
+| 22 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 64,810 | Everything you need to know to get the job. |
