@@ -1,26 +1,27 @@
-# Top Trending Java Repositories - 2026-01-24
+# Top Trending Java Repositories - 2026-01-25
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,410 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 2 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,582 | IntelliJ IDEA & IntelliJ Platform |
-| 3 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,667 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 4 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,944 | Jenkins automation server |
-| 5 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,980 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 6 | [google / gson](https://github.com/google/gson) | 24,326 | A Java serialization/deserialization library to convert Java Objects into JSON and back |
-| 7 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,315 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 8 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,306 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 9 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,842 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
-| 10 | [apache / shardingsphere](https://github.com/apache/shardingsphere) | 20,648 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
-| 11 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,263 | Learn System Design concepts and prepare for interviews using free resources. |
-| 12 | [Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) | 1,605 | Advanced Text Editor for Android |
-| 13 | [alibaba / DataX](https://github.com/alibaba/DataX) | 17,088 | DataX是阿里云DataWorks数据集成的开源版本。 |
-| 14 | [apache / nifi](https://github.com/apache/nifi) | 5,928 | Apache NiFi |
-| 15 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,494 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 16 | [gyoogle / tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) | 17,050 | 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖 |
-| 17 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,040 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
-| 18 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,537 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 19 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,590 | Access your entire server infrastructure from your local desktop |
-| 20 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,309 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 21 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,421 | Quarkus: Supersonic Subatomic Java. |
-| 22 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 64,810 | Everything you need to know to get the job. |
+| 1 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,435 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,281 | Learn System Design concepts and prepare for interviews using free resources. |
+| 3 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,702 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 4 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,399 | JDK main-line development https://openjdk.org/projects/jdk |
+| 5 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,075 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 6 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,452 | A libre lightweight streaming front-end for Android. |
+| 7 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,026 | a fast, scalable, multi-language and extensible build system |
+| 8 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,826 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 9 | [apache / nifi](https://github.com/apache/nifi) | 5,930 | Apache NiFi |
+| 10 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 20,991 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 11 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,947 | Jenkins automation server |
+| 12 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,568 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| 13 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,279 | An Open Standard for lineage metadata collection |
+| 14 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 1,955 | Open-Source Web UI for managing Apache Kafka clusters |
+| 15 | [Gedsh / InviZible](https://github.com/Gedsh/InviZible) | 2,320 | Android application for online privacy and security |
+| 16 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,876 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 17 | [google / guava](https://github.com/google/guava) | 51,440 | Google core libraries for Java |
+| 18 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,675 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 19 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 33,935 | A browser automation framework and ecosystem. |
+| 20 | [spring-cloud / spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) | 4,811 | An API Gateway built on Spring Framework and Spring Boot providing routing and more. |
+| 21 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,271 | 🔎 Open source distributed and RESTful search engine. |
+| 22 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,853 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 23 | [unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) | 3,277 | Open, Multi-modal Catalog for Data & AI |
