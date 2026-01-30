@@ -1,26 +1,27 @@
-# Top Trending Java Repositories - 2026-01-29
+# Top Trending Java Repositories - 2026-01-30
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,174 | Agentic AI Framework for Java Developers |
-| 2 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,669 | A libre lightweight streaming front-end for Android. |
-| 3 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,491 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 4 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,107 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 5 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,127 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
-| 6 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,042 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
-| 7 | [nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) | 6,386 | High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C. |
-| 8 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,319 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
-| 9 | [apache / fineract](https://github.com/apache/fineract) | 1,989 | Apache Fineract |
-| 10 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,139 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 11 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,020 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 12 | [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | 1,719 | NewPipe's core library for extracting data from streaming sites |
-| 13 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,803 | An Application Framework for AI Engineering |
-| 14 | [apache / hadoop](https://github.com/apache/hadoop) | 15,457 | Apache Hadoop |
-| 15 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,322 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 16 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,550 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 17 | [apache / flink-cdc](https://github.com/apache/flink-cdc) | 6,335 | Flink CDC is a streaming data integration tool |
-| 18 | [polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) | 2,843 | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. |
-| 19 | [dromara / Sa-Token](https://github.com/dromara/Sa-Token) | 18,555 | 开源、免费、轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名 |
-| 20 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,865 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 21 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,562 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 22 | [alibaba / canal](https://github.com/alibaba/canal) | 29,602 | 阿里巴巴 MySQL binlog 增量订阅&消费组件 |
+| 1 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,762 | A libre lightweight streaming front-end for Android. |
+| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,293 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 3 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,189 | Agentic AI Framework for Java Developers |
+| 4 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 1,749 | 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce. |
+| 5 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,523 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 6 | [apache / hbase](https://github.com/apache/hbase) | 5,578 | Apache HBase |
+| 7 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,808 | An Application Framework for AI Engineering |
+| 8 | [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | 1,724 | NewPipe's core library for extracting data from streaming sites |
+| 9 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,390 | Telegram for Android source |
+| 10 | [apache / solr](https://github.com/apache/solr) | 1,559 | Apache Solr open-source search software |
+| 11 | [apache / iceberg](https://github.com/apache/iceberg) | 8,478 | Apache Iceberg |
+| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,770 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 13 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,518 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
+| 14 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 121,948 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 15 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 153,653 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！ |
+| 16 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,554 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 17 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,328 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| 18 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,926 | Ghidra is a software reverse engineering (SRE) framework |
+| 19 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 3,756 | Modern super user interface implementation on Android. |
+| 20 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,114 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 21 | [polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) | 2,853 | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. |
+| 22 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 622 | All Code of LLD Playlist |
+| 23 | [trinodb / trino](https://github.com/trinodb/trino) | 12,479 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
