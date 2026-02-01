@@ -1,27 +1,28 @@
-# Top Trending Java Repositories - 2026-01-31
+# Top Trending Java Repositories - 2026-02-01
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,884 | A libre lightweight streaming front-end for Android. |
-| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,291 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 3 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,205 | Agentic AI Framework for Java Developers |
-| 4 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 1,757 | 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce. |
-| 5 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,537 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 6 | [apache / hbase](https://github.com/apache/hbase) | 5,581 | Apache HBase |
-| 7 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,817 | An Application Framework for AI Engineering |
-| 8 | [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | 1,726 | NewPipe's core library for extracting data from streaming sites |
-| 9 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,391 | Telegram for Android source |
-| 10 | [apache / solr](https://github.com/apache/solr) | 1,561 | Apache Solr open-source search software |
-| 11 | [apache / iceberg](https://github.com/apache/iceberg) | 8,483 | Apache Iceberg |
-| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,774 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 13 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,524 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
-| 14 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 121,978 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 15 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 153,670 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！ |
-| 16 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,558 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 17 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,331 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
-| 18 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,943 | Ghidra is a software reverse engineering (SRE) framework |
-| 19 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 3,757 | Modern super user interface implementation on Android. |
-| 20 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,118 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 21 | [polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) | 2,868 | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. |
-| 22 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 624 | All Code of LLD Playlist |
-| 23 | [trinodb / trino](https://github.com/trinodb/trino) | 12,484 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 49,545 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 2 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,335 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 3 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,435 | Quarkus: Supersonic Subatomic Java. |
+| 4 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,557 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
+| 5 | [SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) | 5,289 | 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目) |
+| 6 | [netty / netty](https://github.com/netty/netty) | 34,760 | Netty project - an event-driven asynchronous network application framework |
+| 7 | [termux / termux-api](https://github.com/termux/termux-api) | 3,388 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 8 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,118 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 9 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,420 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
+| 10 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,253 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 11 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,055 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
+| 12 | [trinodb / trino](https://github.com/trinodb/trino) | 12,493 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 13 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,964 | Ghidra is a software reverse engineering (SRE) framework |
+| 14 | [apache / gravitino](https://github.com/apache/gravitino) | 2,721 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 15 | [apache / kafka](https://github.com/apache/kafka) | 31,809 | Mirror of Apache Kafka |
+| 16 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,904 | All Algorithms implemented in Java |
+| 17 | [apache / shardingsphere](https://github.com/apache/shardingsphere) | 20,665 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
+| 18 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,676 | Design patterns implemented in Java |
+| 19 | [apache / doris](https://github.com/apache/doris) | 14,961 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 20 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 1,188 | Plugin for JADX to integrate MCP server |
+| 21 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,683 | Apache Kafka® running on Kubernetes |
+| 22 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,937 | A libre lightweight streaming front-end for Android. |
+| 23 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,593 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 24 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 122,020 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
