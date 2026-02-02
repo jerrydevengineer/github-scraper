@@ -1,28 +1,28 @@
-# Top Trending Java Repositories - 2026-02-01
+# Top Trending Java Repositories - 2026-02-02
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 49,545 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 2 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,335 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 3 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,435 | Quarkus: Supersonic Subatomic Java. |
-| 4 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,557 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
-| 5 | [SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) | 5,289 | 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目) |
-| 6 | [netty / netty](https://github.com/netty/netty) | 34,760 | Netty project - an event-driven asynchronous network application framework |
-| 7 | [termux / termux-api](https://github.com/termux/termux-api) | 3,388 | Termux add-on app which exposes device functionality as API to command line programs. |
-| 8 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,118 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 9 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,420 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 10 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,253 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 11 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,055 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
-| 12 | [trinodb / trino](https://github.com/trinodb/trino) | 12,493 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 13 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,964 | Ghidra is a software reverse engineering (SRE) framework |
-| 14 | [apache / gravitino](https://github.com/apache/gravitino) | 2,721 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 15 | [apache / kafka](https://github.com/apache/kafka) | 31,809 | Mirror of Apache Kafka |
-| 16 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,904 | All Algorithms implemented in Java |
-| 17 | [apache / shardingsphere](https://github.com/apache/shardingsphere) | 20,665 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
-| 18 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,676 | Design patterns implemented in Java |
-| 19 | [apache / doris](https://github.com/apache/doris) | 14,961 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 20 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 1,188 | Plugin for JADX to integrate MCP server |
-| 21 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,683 | Apache Kafka® running on Kubernetes |
-| 22 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,937 | A libre lightweight streaming front-end for Android. |
-| 23 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,593 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 24 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 122,020 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 1 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 5,271 | 🧩 Patches for ReVanced |
+| 2 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,883 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 49,622 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 4 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,953 | A libre lightweight streaming front-end for Android. |
+| 5 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,402 | LSPosed Framework resuscitated |
+| 6 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 631 | All Code of LLD Playlist |
+| 7 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,186 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 8 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,919 | All Algorithms implemented in Java |
+| 9 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,394 | The automation tower defense RTS |
+| 10 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,217 | Based Minecraft utility mod. |
+| 11 | [Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) | 668 | No description available. |
+| 12 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,081 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
+| 13 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,688 | The ZAP by Checkmarx Core project |
+| 14 | [material-components / material-components-android](https://github.com/material-components/material-components-android) | 17,138 | Modular and customizable Material Design UI components for Android |
+| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,691 | LSPosed Framework |
+| 16 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,492 | Learn System Design concepts and prepare for interviews using free resources. |
+| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,594 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 18 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,842 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 19 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,992 | Ghidra is a software reverse engineering (SRE) framework |
+| 20 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 3,762 | Modern super user interface implementation on Android. |
+| 21 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,256 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 22 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,067 | a fast, scalable, multi-language and extensible build system |
+| 23 | [redis / jedis](https://github.com/redis/jedis) | 12,271 | Redis Java client |
+| 24 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,052 | No clever tagline needed. |
