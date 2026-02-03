@@ -1,28 +1,27 @@
-# Top Trending Java Repositories - 2026-02-02
+# Top Trending Java Repositories - 2026-02-03
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 5,271 | 🧩 Patches for ReVanced |
-| 2 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,883 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 49,622 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 4 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 36,953 | A libre lightweight streaming front-end for Android. |
-| 5 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,402 | LSPosed Framework resuscitated |
-| 6 | [adityatandon15 / LLD](https://github.com/adityatandon15/LLD) | 631 | All Code of LLD Playlist |
-| 7 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,186 | The main repository of Telegram X — official alternative Telegram client for Android. |
-| 8 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 64,919 | All Algorithms implemented in Java |
-| 9 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,394 | The automation tower defense RTS |
+| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 49,965 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 2 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,417 | LSPosed Framework resuscitated |
+| 3 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,412 | Telegram for Android source |
+| 4 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,891 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 5 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,412 | The automation tower defense RTS |
+| 6 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,610 | google maps for block game |
+| 7 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 24,991 | Jenkins automation server |
+| 8 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 27,929 | Browse media content with your own rules on Android TV |
+| 9 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,010 | Free and Open Source, Distributed, RESTful Search Engine |
 | 10 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,217 | Based Minecraft utility mod. |
-| 11 | [Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) | 668 | No description available. |
-| 12 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,081 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
-| 13 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 14,688 | The ZAP by Checkmarx Core project |
-| 14 | [material-components / material-components-android](https://github.com/material-components/material-components-android) | 17,138 | Modular and customizable Material Design UI components for Android |
-| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,691 | LSPosed Framework |
-| 16 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,492 | Learn System Design concepts and prepare for interviews using free resources. |
-| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,594 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 18 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,842 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 19 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 63,992 | Ghidra is a software reverse engineering (SRE) framework |
-| 20 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 3,762 | Modern super user interface implementation on Android. |
-| 21 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,256 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 22 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,067 | a fast, scalable, multi-language and extensible build system |
-| 23 | [redis / jedis](https://github.com/redis/jedis) | 12,271 | Redis Java client |
-| 24 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,052 | No clever tagline needed. |
+| 11 | [apache / flink](https://github.com/apache/flink) | 25,756 | Apache Flink |
+| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,809 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 13 | [apache / doris](https://github.com/apache/doris) | 14,978 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 14 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,012 | Ghidra is a software reverse engineering (SRE) framework |
+| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,697 | LSPosed Framework |
+| 16 | [pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) | 1,677 | Postgresql JDBC Driver |
+| 17 | [Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 2,717 | A lightweight keyboard for Android |
+| 18 | [termux / termux-api](https://github.com/termux/termux-api) | 3,402 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 19 | [languagetool-org / languagetool](https://github.com/languagetool-org/languagetool) | 14,037 | Style and Grammar Checker for 25+ Languages |
+| 20 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,192 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 21 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,344 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
+| 22 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 33,979 | A browser automation framework and ecosystem. |
+| 23 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,518 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
