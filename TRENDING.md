@@ -1,26 +1,25 @@
-# Top Trending Java Repositories - 2026-02-05
+# Top Trending Java Repositories - 2026-02-06
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,545 | Free universal database tool and SQL client |
-| 2 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,072 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 3 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,248 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 4 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,535 | The Metadata Platform for your Data and AI Stack |
-| 5 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45,172 | 【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~ |
-| 6 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,102 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 7 | [debezium / debezium](https://github.com/debezium/debezium) | 12,369 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 8 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,689 | Design patterns implemented in Java |
-| 9 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,332 | 🔎 Open source distributed and RESTful search engine. |
-| 10 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,442 | The automation tower defense RTS |
-| 11 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,015 | Free and Open Source, Distributed, RESTful Search Engine |
-| 12 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,555 | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
-| 13 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,634 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 14 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 29,560 | Learn System Design concepts and prepare for interviews using free resources. |
-| 15 | [apache / fineract](https://github.com/apache/fineract) | 2,003 | Apache Fineract |
-| 16 | [exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) | 7,734 | Leading free and open-source face recognition system |
-| 17 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,447 | No description available. |
-| 18 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,115 | Free implementation of Play Services |
-| 19 | [Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 2,739 | A lightweight keyboard for Android |
-| 20 | [ssssssss-team / spider-flow](https://github.com/ssssssss-team/spider-flow) | 11,207 | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
-| 21 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 6,746 | Digital logic design tool and simulator |
-| 22 | [antlr / antlr4](https://github.com/antlr/antlr4) | 18,701 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. |
+| 1 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,262 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,670 | Open Source Identity and Access Management For Modern Applications and Services |
+| 3 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,287 | Agentic AI Framework for Java Developers |
+| 4 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,081 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 5 | [apache / paimon](https://github.com/apache/paimon) | 3,180 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
+| 6 | [apache / kafka](https://github.com/apache/kafka) | 31,838 | Mirror of Apache Kafka |
+| 7 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,655 | IntelliJ IDEA & IntelliJ Platform |
+| 8 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,542 | The Metadata Platform for your Data and AI Stack |
+| 9 | [ssssssss-team / spider-flow](https://github.com/ssssssss-team/spider-flow) | 11,218 | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
+| 10 | [flyway / flyway](https://github.com/flyway/flyway) | 9,513 | Flyway by Redgate • Database Migrations Made Easy. |
+| 11 | [trinodb / trino](https://github.com/trinodb/trino) | 12,521 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 12 | [apache / gravitino](https://github.com/apache/gravitino) | 2,761 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 13 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,352 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 14 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 7,287 | MCP Server for Ghidra |
+| 15 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 21,849 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 16 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 6,756 | Digital logic design tool and simulator |
+| 17 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 15,848 | Graphs for Everyone |
+| 18 | [pentaho / pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | 8,299 | Pentaho Data Integration ( ETL ) a.k.a Kettle |
+| 19 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,450 | No description available. |
+| 20 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,690 | Design patterns implemented in Java |
+| 21 | [vespa-engine / vespa](https://github.com/vespa-engine/vespa) | 6,759 | AI + Data, online. https://vespa.ai |
