@@ -1,26 +1,26 @@
-# Top Trending Java Repositories - 2026-02-11
+# Top Trending Java Repositories - 2026-02-12
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 21,991 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 2 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,673 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
-| 3 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,499 | Telegram for Android source |
-| 4 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,165 | An unofficial rules engine for the world's greatest card game. |
-| 5 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,011 | All Algorithms implemented in Java |
-| 6 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 9,821 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
-| 7 | [janishar / mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) | 13,890 | MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville |
-| 8 | [eddyizm / tempus](https://github.com/eddyizm/tempus) | 624 | An open source and lightweight music client for Subsonic, designed and built natively for Android. |
-| 9 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,564 | The Metadata Platform for your Data and AI Stack |
-| 10 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,372 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 11 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,868 | Open-Source Web UI for Apache Kafka Management |
-| 12 | [apache / camel](https://github.com/apache/camel) | 6,121 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
-| 13 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,525 | The automation tower defense RTS |
-| 14 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,484 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 15 | [grpc / grpc-java](https://github.com/grpc/grpc-java) | 11,973 | The Java gRPC implementation. HTTP/2 based RPC |
-| 16 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,142 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
-| 17 | [apache / gravitino](https://github.com/apache/gravitino) | 2,798 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 18 | [micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) | 4,803 | An application observability facade for the most popular observability tools. Think SLF4J, but for observability. |
-| 19 | [TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) | 1,745 | NewPipe's core library for extracting data from streaming sites |
-| 20 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 691 | Datadog APM client for Java |
-| 21 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,789 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 22 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,718 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
+| 1 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,783 | Open Source Identity and Access Management For Modern Applications and Services |
+| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,383 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 3 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,796 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 4 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 22,034 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 5 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,692 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
+| 6 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,510 | Telegram for Android source |
+| 7 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,900 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 8 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,436 | Spring Security |
+| 9 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 2,035 | Open-Source Web UI for managing Apache Kafka clusters |
+| 10 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,369 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| 11 | [apache / nifi](https://github.com/apache/nifi) | 5,955 | Apache NiFi |
+| 12 | [Sketchware-Pro / Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) | 1,446 | Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro. |
+| 13 | [apache / polaris](https://github.com/apache/polaris) | 1,832 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
+| 14 | [synthetichealth / synthea](https://github.com/synthetichealth/synthea) | 2,959 | Synthetic Patient Population Simulator |
+| 15 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 11,870 | Open-Source Web UI for Apache Kafka Management |
+| 16 | [netty / netty](https://github.com/netty/netty) | 34,790 | Netty project - an event-driven asynchronous network application framework |
+| 17 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,168 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 18 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,571 | The Metadata Platform for your Data and AI Stack |
+| 19 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,636 | google maps for block game |
+| 20 | [google / guava](https://github.com/google/guava) | 51,460 | Google core libraries for Java |
+| 21 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,650 | Free universal database tool and SQL client |
+| 22 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,373 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
