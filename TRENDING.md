@@ -1,26 +1,24 @@
-# Top Trending Java Repositories - 2026-02-13
+# Top Trending Java Repositories - 2026-02-14
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,324 | Ghidra is a software reverse engineering (SRE) framework |
-| 2 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,009 | Jenkins automation server |
-| 3 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,371 | 🔎 Open source distributed and RESTful search engine. |
-| 4 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,372 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
-| 5 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,465 | Quarkus: Supersonic Subatomic Java. |
-| 6 | [google / gson](https://github.com/google/gson) | 24,343 | A Java serialization/deserialization library to convert Java Objects into JSON and back |
-| 7 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,466 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
-| 8 | [apache / flink](https://github.com/apache/flink) | 25,785 | Apache Flink |
-| 9 | [vespa-engine / vespa](https://github.com/vespa-engine/vespa) | 6,775 | AI + Data, online. https://vespa.ai |
-| 10 | [wildfly / wildfly](https://github.com/wildfly/wildfly) | 3,151 | WildFly Application Server |
-| 11 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,123 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,022 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 13 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,575 | The Metadata Platform for your Data and AI Stack |
-| 14 | [freerouting / freerouting](https://github.com/freerouting/freerouting) | 1,619 | Advanced PCB auto-router |
-| 15 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45,220 | 【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~ |
-| 16 | [apache / hertzbeat](https://github.com/apache/hertzbeat) | 7,080 | An AI-powered next-generation open source real-time observability system. |
-| 17 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,005 | A browser automation framework and ecosystem. |
-| 18 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,804 | Open Source Identity and Access Management For Modern Applications and Services |
-| 19 | [camunda / camunda](https://github.com/camunda/camunda) | 4,009 | Process Orchestration Framework |
-| 20 | [apache / pinot](https://github.com/apache/pinot) | 6,025 | Apache Pinot - A realtime distributed OLAP datastore |
-| 21 | [kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) | 2,038 | Open-Source Web UI for managing Apache Kafka clusters |
-| 22 | [sparrowwallet / sparrow](https://github.com/sparrowwallet/sparrow) | 1,916 | Desktop Bitcoin Wallet focused on security and privacy. Free and open source. |
+| 1 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,118 | a fast, scalable, multi-language and extensible build system |
+| 2 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,039 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 3 | [apache / cassandra](https://github.com/apache/cassandra) | 9,626 | Apache Cassandra® |
+| 4 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,613 | Spring Framework |
+| 5 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,342 | Ghidra is a software reverse engineering (SRE) framework |
+| 6 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,389 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 7 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,564 | The automation tower defense RTS |
+| 8 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,132 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 9 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,721 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
+| 10 | [eddyizm / tempus](https://github.com/eddyizm/tempus) | 646 | An open source and lightweight music client for Subsonic, designed and built natively for Android. |
+| 11 | [apache / polaris](https://github.com/apache/polaris) | 1,833 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
+| 12 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 30,164 | Learn System Design concepts and prepare for interviews using free resources. |
+| 13 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,733 | Design patterns implemented in Java |
+| 14 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,808 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 15 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,060 | Free and Open Source, Distributed, RESTful Search Engine |
+| 16 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,579 | LSPosed Framework resuscitated |
+| 17 | [apache / nifi](https://github.com/apache/nifi) | 5,961 | Apache NiFi |
+| 18 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,529 | Telegram for Android source |
+| 19 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,672 | Free universal database tool and SQL client |
+| 20 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,910 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
