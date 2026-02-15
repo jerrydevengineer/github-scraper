@@ -1,24 +1,27 @@
-# Top Trending Java Repositories - 2026-02-14
+# Top Trending Java Repositories - 2026-02-15
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,118 | a fast, scalable, multi-language and extensible build system |
-| 2 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,039 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 3 | [apache / cassandra](https://github.com/apache/cassandra) | 9,626 | Apache Cassandra® |
-| 4 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,613 | Spring Framework |
-| 5 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,342 | Ghidra is a software reverse engineering (SRE) framework |
-| 6 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,389 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 7 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,564 | The automation tower defense RTS |
-| 8 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,132 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 9 | [Archmage83 / tvapk](https://github.com/Archmage83/tvapk) | 5,721 | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 |
-| 10 | [eddyizm / tempus](https://github.com/eddyizm/tempus) | 646 | An open source and lightweight music client for Subsonic, designed and built natively for Android. |
-| 11 | [apache / polaris](https://github.com/apache/polaris) | 1,833 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 12 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 30,164 | Learn System Design concepts and prepare for interviews using free resources. |
-| 13 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,733 | Design patterns implemented in Java |
-| 14 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,808 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 15 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,060 | Free and Open Source, Distributed, RESTful Search Engine |
-| 16 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,579 | LSPosed Framework resuscitated |
-| 17 | [apache / nifi](https://github.com/apache/nifi) | 5,961 | Apache NiFi |
-| 18 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,529 | Telegram for Android source |
-| 19 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,672 | Free universal database tool and SQL client |
-| 20 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 79,910 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 1 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 30,210 | Learn System Design concepts and prepare for interviews using free resources. |
+| 2 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,616 | Spring Framework |
+| 3 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,860 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 4 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,382 | 🔎 Open source distributed and RESTful search engine. |
+| 5 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,702 | Apache Kafka® running on Kubernetes |
+| 6 | [apache / druid](https://github.com/apache/druid) | 13,937 | Apache Druid: a high performance real-time analytics database. |
+| 7 | [ikarus23 / MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | 5,708 | An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. |
+| 8 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,394 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 9 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,316 | Open-source third-party Telegram client with not many but useful modifications. |
+| 10 | [Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) | 2,840 | 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频 |
+| 11 | [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) | 10,372 | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| 12 | [camunda / camunda](https://github.com/camunda/camunda) | 4,010 | Process Orchestration Framework |
+| 13 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,842 | Open Source Identity and Access Management For Modern Applications and Services |
+| 14 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,290 | Automated mass refactoring of source code. |
+| 15 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,009 | A browser automation framework and ecosystem. |
+| 16 | [trinodb / trino](https://github.com/trinodb/trino) | 12,554 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 17 | [microsoft / typespec](https://github.com/microsoft/typespec) | 5,587 | No description available. |
+| 18 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,224 | Free implementation of Play Services |
+| 19 | [apache / kafka](https://github.com/apache/kafka) | 31,898 | Mirror of Apache Kafka |
+| 20 | [netty / netty](https://github.com/netty/netty) | 34,797 | Netty project - an event-driven asynchronous network application framework |
+| 21 | [aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | 2,543 | The official AWS SDK for Java - Version 2 |
+| 22 | [apache / cassandra](https://github.com/apache/cassandra) | 9,628 | Apache Cassandra® |
+| 23 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 9,834 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
