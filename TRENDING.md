@@ -1,26 +1,24 @@
-# Top Trending Java Repositories - 2026-02-16
+# Top Trending Java Repositories - 2026-02-17
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 50,664 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 2 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,322 | Open-source third-party Telegram client with not many but useful modifications. |
-| 3 | [questdb / questdb](https://github.com/questdb/questdb) | 16,684 | QuestDB is a high performance, open-source, time-series database |
-| 4 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,181 | Browse media content with your own rules on Android TV |
-| 5 | [Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) | 2,851 | 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频 |
-| 6 | [trinodb / trino](https://github.com/trinodb/trino) | 12,556 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 7 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,044 | Add-ons for openHAB |
-| 8 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,652 | A podcast manager for Android |
-| 9 | [PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) | 5,707 | Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet |
-| 10 | [kousen / claude-code-training](https://github.com/kousen/claude-code-training) | 113 | Slides and demos for a training course on Claude Code |
-| 11 | [apache / kafka](https://github.com/apache/kafka) | 31,907 | Mirror of Apache Kafka |
-| 12 | [ikarus23 / MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | 5,715 | An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. |
-| 13 | [apache / fineract](https://github.com/apache/fineract) | 2,031 | Apache Fineract |
-| 14 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,068 | Free and Open Source, Distributed, RESTful Search Engine |
-| 15 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 9,592 | LSPosed Framework resuscitated |
-| 16 | [dataease / dataease](https://github.com/dataease/dataease) | 23,406 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 17 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,126 | a fast, scalable, multi-language and extensible build system |
-| 18 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,404 | Ghidra is a software reverse engineering (SRE) framework |
-| 19 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,926 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 20 | [wso2 / product-is](https://github.com/wso2/product-is) | 841 | Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below. |
-| 21 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,234 | WhatsApp tools for Android |
-| 22 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,235 | Free implementation of Play Services |
+| 1 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 32,470 | Learn System Design concepts and prepare for interviews using free resources. |
+| 2 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 5,339 | 🧩 Patches for ReVanced |
+| 3 | [apache / fineract](https://github.com/apache/fineract) | 2,032 | Apache Fineract |
+| 4 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,589 | The automation tower defense RTS |
+| 5 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,863 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 6 | [termux / termux-app](https://github.com/termux/termux-app) | 50,693 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 7 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37,209 | A libre lightweight streaming front-end for Android. |
+| 8 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,870 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 9 | [Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) | 2,859 | 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频 |
+| 10 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,697 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 11 | [skylot / jadx](https://github.com/skylot/jadx) | 47,300 | Dex to Java decompiler |
+| 12 | [questdb / questdb](https://github.com/questdb/questdb) | 16,691 | QuestDB is a high performance, open-source, time-series database |
+| 13 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,262 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 14 | [crimera / piko](https://github.com/crimera/piko) | 2,692 | morphe patches for twitter |
+| 15 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,211 | Browse media content with your own rules on Android TV |
+| 16 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,166 | No clever tagline needed. |
+| 17 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,069 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 18 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,586 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 19 | [spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) | 3,239 | Simplifies the development of creating a JPA-based data access layer. |
+| 20 | [ikarus23 / MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | 5,722 | An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. |
