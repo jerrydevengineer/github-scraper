@@ -1,23 +1,22 @@
-# Top Trending Java Repositories - 2026-02-18
+# Top Trending Java Repositories - 2026-02-19
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 32,857 | Learn System Design concepts and prepare for interviews using free resources. |
-| 2 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,722 | Ghidra is a software reverse engineering (SRE) framework |
-| 3 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 5,348 | 🧩 Patches for ReVanced |
-| 4 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,237 | Browse media content with your own rules on Android TV |
-| 5 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,030 | A browser automation framework and ecosystem. |
-| 6 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,268 | Free implementation of Play Services |
-| 7 | [apache / commons-lang](https://github.com/apache/commons-lang) | 2,936 | Apache Commons Lang |
-| 8 | [apache / beam](https://github.com/apache/beam) | 8,489 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 9 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,829 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 10 | [apache / kafka](https://github.com/apache/kafka) | 31,924 | Mirror of Apache Kafka |
-| 11 | [beemdevelopment / Aegis](https://github.com/beemdevelopment/Aegis) | 11,947 | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| 12 | [Ninjabrain1 / Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) | 660 | Accurate stronghold calculator for Minecraft speedrunning. |
-| 13 | [jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) | 2,137 | A self-hosted Telegram file downloader for continuous, stable, and unattended downloads. |
-| 14 | [Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) | 4,658 | Customizable and privacy-conscious open-source keyboard |
-| 15 | [Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) | 2,864 | 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频 |
-| 16 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 7,619 | MCP Server for Ghidra |
-| 17 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,181 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
-| 18 | [cinit / QAuxiliary](https://github.com/cinit/QAuxiliary) | 5,427 | QNotified phoenix - To make OICQ great again |
-| 19 | [crimera / piko](https://github.com/crimera/piko) | 2,698 | morphe patches for twitter |
+| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,771 | Ghidra is a software reverse engineering (SRE) framework |
+| 2 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,045 | A browser automation framework and ecosystem. |
+| 3 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,665 | A podcast manager for Android |
+| 4 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,489 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 5 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,300 | Automated mass refactoring of source code. |
+| 6 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,408 | 🔎 Open source distributed and RESTful search engine. |
+| 7 | [apache / maven](https://github.com/apache/maven) | 4,962 | Apache Maven core |
+| 8 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 778 | An LoD rendering mod for minecraft |
+| 9 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 33,050 | Learn System Design concepts and prepare for interviews using free resources. |
+| 10 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,138 | a fast, scalable, multi-language and extensible build system |
+| 11 | [apache / beam](https://github.com/apache/beam) | 8,489 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 12 | [hneemann / Digital](https://github.com/hneemann/Digital) | 5,484 | A digital logic designer and circuit simulator. |
+| 13 | [uber / uForwarder](https://github.com/uber/uForwarder) | 156 | Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking. |
+| 14 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 7,635 | MCP Server for Ghidra |
+| 15 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,224 | No description available. |
+| 16 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,564 | JDK main-line development https://openjdk.org/projects/jdk |
+| 17 | [Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) | 4,664 | Customizable and privacy-conscious open-source keyboard |
+| 18 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,904 | Open Source Identity and Access Management For Modern Applications and Services |
