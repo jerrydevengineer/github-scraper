@@ -1,22 +1,24 @@
-# Top Trending Java Repositories - 2026-02-19
+# Top Trending Java Repositories - 2026-02-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 64,771 | Ghidra is a software reverse engineering (SRE) framework |
-| 2 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,045 | A browser automation framework and ecosystem. |
-| 3 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,665 | A podcast manager for Android |
-| 4 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,489 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
-| 5 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,300 | Automated mass refactoring of source code. |
-| 6 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,408 | 🔎 Open source distributed and RESTful search engine. |
-| 7 | [apache / maven](https://github.com/apache/maven) | 4,962 | Apache Maven core |
-| 8 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 778 | An LoD rendering mod for minecraft |
-| 9 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 33,050 | Learn System Design concepts and prepare for interviews using free resources. |
-| 10 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,138 | a fast, scalable, multi-language and extensible build system |
-| 11 | [apache / beam](https://github.com/apache/beam) | 8,489 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 12 | [hneemann / Digital](https://github.com/hneemann/Digital) | 5,484 | A digital logic designer and circuit simulator. |
-| 13 | [uber / uForwarder](https://github.com/uber/uForwarder) | 156 | Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking. |
-| 14 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 7,635 | MCP Server for Ghidra |
-| 15 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,224 | No description available. |
-| 16 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,564 | JDK main-line development https://openjdk.org/projects/jdk |
-| 17 | [Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) | 4,664 | Customizable and privacy-conscious open-source keyboard |
-| 18 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,904 | Open Source Identity and Access Management For Modern Applications and Services |
+| 1 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,051 | A browser automation framework and ecosystem. |
+| 2 | [prestodb / presto](https://github.com/prestodb/presto) | 16,660 | The official home of the Presto distributed SQL query engine for big data |
+| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 50,849 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 4 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,163 | Free and Open Source, Distributed, RESTful Search Engine |
+| 5 | [apache / lucene](https://github.com/apache/lucene) | 3,340 | Apache Lucene open-source search software |
+| 6 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 673 | All Code of LLD Playlist |
+| 7 | [apache / nifi](https://github.com/apache/nifi) | 5,976 | Apache NiFi |
+| 8 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,296 | Free implementation of Play Services |
+| 9 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,498 | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents |
+| 10 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 5,355 | 🧩 Patches for ReVanced |
+| 11 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,618 | JDK main-line development https://openjdk.org/projects/jdk |
+| 12 | [jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) | 2,149 | A self-hosted Telegram file downloader for continuous, stable, and unattended downloads. |
+| 13 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,305 | Automated mass refactoring of source code. |
+| 14 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,046 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 15 | [xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) | 2,157 | Vulkan renderer mod for Minecraft. |
+| 16 | [apache / tomcat](https://github.com/apache/tomcat) | 8,099 | Apache Tomcat |
+| 17 | [apache / camel](https://github.com/apache/camel) | 6,132 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
+| 18 | [debezium / debezium](https://github.com/debezium/debezium) | 12,419 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 19 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,866 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 20 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 64,945 | Everything you need to know to get the job. |
