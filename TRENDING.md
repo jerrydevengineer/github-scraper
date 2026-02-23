@@ -1,24 +1,23 @@
-# Top Trending Java Repositories - 2026-02-22
+# Top Trending Java Repositories - 2026-02-23
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,068 | A browser automation framework and ecosystem. |
-| 2 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,245 | WhatsApp tools for Android |
-| 3 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,063 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 4 | [apache / polaris](https://github.com/apache/polaris) | 1,845 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 5 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,589 | The Metadata Platform for your Data and AI Stack |
-| 6 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,190 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 7 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,493 | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents |
-| 8 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,478 | Quarkus: Supersonic Subatomic Java. |
-| 9 | [valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) | 695 | An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python |
-| 10 | [aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | 2,546 | The official AWS SDK for Java - Version 2 |
-| 11 | [xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) | 2,164 | Vulkan renderer mod for Minecraft. |
-| 12 | [oracle / graal](https://github.com/oracle/graal) | 21,478 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
-| 13 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,193 | An unofficial rules engine for the world's greatest card game. |
-| 14 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 32,939 | Open Source Identity and Access Management For Modern Applications and Services |
-| 15 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,869 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 16 | [camunda / camunda](https://github.com/camunda/camunda) | 4,021 | Process Orchestration Framework |
-| 17 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,236 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
-| 18 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,225 | No description available. |
-| 19 | [CeuiLiSA / Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | 6,627 | Pixiv第三方Android客户端 |
-| 20 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,637 | Spring Framework |
+| 1 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,679 | google maps for block game |
+| 2 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,354 | Browse media content with your own rules on Android TV |
+| 3 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,238 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
+| 4 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,871 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 5 | [Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) | 701 | Magic tool for pentest from your android device! |
+| 6 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,351 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 7 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,648 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 8 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,130 | Example Fabric mod |
+| 9 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,653 | The automation tower defense RTS |
+| 10 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 7,448 | A full-featured package manager and viewer for Android |
+| 11 | [apache / dubbo](https://github.com/apache/dubbo) | 41,741 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 12 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,507 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 13 | [libgdx / libgdx](https://github.com/libgdx/libgdx) | 24,819 | Desktop/Android/HTML5/iOS Java game development framework |
+| 14 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,590 | The Metadata Platform for your Data and AI Stack |
+| 15 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,217 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 16 | [runelite / runelite](https://github.com/runelite/runelite) | 5,296 | Open source Old School RuneScape client |
+| 17 | [termux / termux-app](https://github.com/termux/termux-app) | 50,984 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 18 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,131 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 19 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,882 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
