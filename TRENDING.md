@@ -1,23 +1,23 @@
-# Top Trending Java Repositories - 2026-02-23
+# Top Trending Java Repositories - 2026-02-24
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,679 | google maps for block game |
-| 2 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,354 | Browse media content with your own rules on Android TV |
-| 3 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,238 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
-| 4 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,871 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 5 | [Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) | 701 | Magic tool for pentest from your android device! |
-| 6 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,351 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 7 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,648 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 8 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,130 | Example Fabric mod |
-| 9 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,653 | The automation tower defense RTS |
-| 10 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 7,448 | A full-featured package manager and viewer for Android |
-| 11 | [apache / dubbo](https://github.com/apache/dubbo) | 41,741 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 12 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,507 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
-| 13 | [libgdx / libgdx](https://github.com/libgdx/libgdx) | 24,819 | Desktop/Android/HTML5/iOS Java game development framework |
-| 14 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,590 | The Metadata Platform for your Data and AI Stack |
-| 15 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,217 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 16 | [runelite / runelite](https://github.com/runelite/runelite) | 5,296 | Open source Old School RuneScape client |
-| 17 | [termux / termux-app](https://github.com/termux/termux-app) | 50,984 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 18 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,131 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 19 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,882 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 1 | [traccar / traccar](https://github.com/traccar/traccar) | 6,985 | Traccar GPS Tracking System |
+| 2 | [apache / cassandra](https://github.com/apache/cassandra) | 9,639 | Apache Cassandra® |
+| 3 | [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) | 7,927 | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
+| 4 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,040 | Jenkins automation server |
+| 5 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,860 | LSPosed Framework |
+| 6 | [apache / dubbo](https://github.com/apache/dubbo) | 41,745 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 7 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,431 | Agentic AI Framework for Java Developers |
+| 8 | [openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) | 1,769 | OpenMRS API and web application code |
+| 9 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,228 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 10 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 153,838 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！ |
+| 11 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,871 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 12 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,775 | Design patterns implemented in Java |
+| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,376 | Browse media content with your own rules on Android TV |
+| 14 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,649 | Spring Framework |
+| 15 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,974 | The API and the developer guide for Shizuku and Sui. |
+| 16 | [termux / termux-app](https://github.com/termux/termux-app) | 51,038 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 17 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,106 | All Algorithms implemented in Java |
+| 18 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,725 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 19 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 9,892 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
