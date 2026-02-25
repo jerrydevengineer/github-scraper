@@ -1,23 +1,25 @@
-# Top Trending Java Repositories - 2026-02-24
+# Top Trending Java Repositories - 2026-02-25
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [traccar / traccar](https://github.com/traccar/traccar) | 6,985 | Traccar GPS Tracking System |
-| 2 | [apache / cassandra](https://github.com/apache/cassandra) | 9,639 | Apache Cassandra® |
-| 3 | [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) | 7,927 | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
-| 4 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,040 | Jenkins automation server |
-| 5 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,860 | LSPosed Framework |
-| 6 | [apache / dubbo](https://github.com/apache/dubbo) | 41,745 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 7 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,431 | Agentic AI Framework for Java Developers |
-| 8 | [openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) | 1,769 | OpenMRS API and web application code |
-| 9 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,228 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 10 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 153,838 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！ |
-| 11 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,871 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 12 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,775 | Design patterns implemented in Java |
-| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,376 | Browse media content with your own rules on Android TV |
-| 14 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,649 | Spring Framework |
-| 15 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,974 | The API and the developer guide for Shizuku and Sui. |
-| 16 | [termux / termux-app](https://github.com/termux/termux-app) | 51,038 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 17 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,106 | All Algorithms implemented in Java |
-| 18 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,725 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 19 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 9,892 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 1 | [re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) | 2,346 | Useless LSPosed Framework Fork |
+| 2 | [traccar / traccar](https://github.com/traccar/traccar) | 7,008 | Traccar GPS Tracking System |
+| 3 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 9,937 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 4 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,242 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
+| 5 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,599 | The Metadata Platform for your Data and AI Stack |
+| 6 | [antlr / antlr4](https://github.com/antlr/antlr4) | 18,742 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. |
+| 7 | [oracle / graal](https://github.com/oracle/graal) | 21,489 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 |
+| 8 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,372 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 9 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,111 | All Algorithms implemented in Java |
+| 10 | [apache / cassandra](https://github.com/apache/cassandra) | 9,640 | Apache Cassandra® |
+| 11 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,819 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
+| 12 | [apache / nifi](https://github.com/apache/nifi) | 5,978 | Apache NiFi |
+| 13 | [exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) | 7,795 | Leading free and open-source face recognition system |
+| 14 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 7,955 | An Application Framework for AI Engineering |
+| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,870 | LSPosed Framework |
+| 16 | [apache / flink](https://github.com/apache/flink) | 25,823 | Apache Flink |
+| 17 | [apache / kafka](https://github.com/apache/kafka) | 32,044 | Mirror of Apache Kafka |
+| 18 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,523 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 19 | [Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) | 4,699 | Customizable and privacy-conscious open-source keyboard |
+| 20 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,488 | Quarkus: Supersonic Subatomic Java. |
+| 21 | [eugenp / tutorials](https://github.com/eugenp/tutorials) | 37,351 | Getting Started with Spring Boot 3: |
