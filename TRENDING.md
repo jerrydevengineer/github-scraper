@@ -1,23 +1,25 @@
-# Top Trending Java Repositories - 2026-03-02
+# Top Trending Java Repositories - 2026-03-03
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,514 | Agentic AI Framework for Java Developers |
-| 2 | [apache / skywalking](https://github.com/apache/skywalking) | 24,723 | APM, Application Performance Monitoring System |
-| 3 | [apache / doris](https://github.com/apache/doris) | 15,063 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 4 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 35,570 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 5 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,057 | Jenkins automation server |
-| 6 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,674 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 7 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,264 | No clever tagline needed. |
-| 8 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,135 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 9 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 11,956 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 10 | [termux / termux-app](https://github.com/termux/termux-app) | 51,358 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 11 | [apache / iotdb](https://github.com/apache/iotdb) | 6,287 | Apache IoTDB |
-| 12 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45,306 | 【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~ |
-| 13 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,408 | Free implementation of Play Services |
-| 14 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,659 | JDK main-line development https://openjdk.org/projects/jdk |
-| 15 | [apache / pulsar](https://github.com/apache/pulsar) | 15,143 | Apache Pulsar - distributed pub-sub messaging system |
-| 16 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 19,758 | IntelliJ IDEA & IntelliJ Platform |
-| 17 | [alibaba / arthas](https://github.com/alibaba/arthas) | 37,116 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
-| 18 | [apache / shardingsphere](https://github.com/apache/shardingsphere) | 20,697 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
-| 19 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,718 | The automation tower defense RTS |
+| 1 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,876 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 2 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,274 | Based Minecraft utility mod. |
+| 3 | [Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) | 4,733 | Customizable and privacy-conscious open-source keyboard |
+| 4 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,422 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
+| 5 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,532 | Browse media content with your own rules on Android TV |
+| 6 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,272 | No clever tagline needed. |
+| 7 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,204 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 8 | [termux / termux-app](https://github.com/termux/termux-app) | 51,397 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 9 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 3,826 | Modern super user interface implementation on Android. |
+| 10 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 15,969 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 11 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,645 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 12 | [apache / nifi](https://github.com/apache/nifi) | 5,986 | Apache NiFi |
+| 13 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 3,997 | [NeoForge Mod] Building Tools and Aesthetic Technology |
+| 14 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 1,996 | The API and the developer guide for Shizuku and Sui. |
+| 15 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 6,565 | A rewrite of Tachiyomi for the Desktop |
+| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,694 | google maps for block game |
+| 17 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,240 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
+| 18 | [NEZNAMY / TAB](https://github.com/NEZNAMY/TAB) | 1,041 | "That" TAB plugin. |
+| 19 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,044 | Add-ons for openHAB |
+| 20 | [apache / beam](https://github.com/apache/beam) | 8,501 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 21 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,919 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
