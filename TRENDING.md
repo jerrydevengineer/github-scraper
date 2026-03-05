@@ -1,23 +1,25 @@
-# Top Trending Java Repositories - 2026-03-04
+# Top Trending Java Repositories - 2026-03-05
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,535 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 2 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,657 | JDK main-line development https://openjdk.org/projects/jdk |
-| 3 | [gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) | 7,956 | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
-| 4 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 8,556 | Agentic AI Framework for Java Developers |
-| 5 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 10,925 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 6 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,949 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 7 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 35,620 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 8 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,488 | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents |
-| 9 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 65,300 | Ghidra is a software reverse engineering (SRE) framework |
-| 10 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,482 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 11 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,482 | 🔎 Open source distributed and RESTful search engine. |
-| 12 | [hapifhir / hapi-fhir](https://github.com/hapifhir/hapi-fhir) | 2,284 | 🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers |
-| 13 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 48,914 | Free universal database tool and SQL client |
-| 14 | [skylot / jadx](https://github.com/skylot/jadx) | 47,495 | Dex to Java decompiler |
-| 15 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,505 | Quarkus: Supersonic Subatomic Java. |
-| 16 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45,326 | 【AI低代码平台】“低代码+零代码”双模驱动AI智能平台 AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~ |
-| 17 | [Tornaco / Thanox](https://github.com/Tornaco/Thanox) | 2,962 | I am thanos! 😈 👌 |
-| 18 | [camunda / camunda](https://github.com/camunda/camunda) | 4,039 | Process Orchestration Framework |
-| 19 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 154,016 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！ |
+| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 65,345 | Ghidra is a software reverse engineering (SRE) framework |
+| 2 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,903 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 3 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,269 | Free and Open Source, Distributed, RESTful Search Engine |
+| 4 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,662 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 5 | [apache / iceberg](https://github.com/apache/iceberg) | 8,590 | Apache Iceberg |
+| 6 | [apache / gravitino](https://github.com/apache/gravitino) | 2,886 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 7 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,225 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 8 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,072 | Jenkins automation server |
+| 9 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,462 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 10 | [apache / fory](https://github.com/apache/fory) | 4,260 | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. |
+| 11 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,565 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 12 | [netty / netty](https://github.com/netty/netty) | 34,842 | Netty project - an event-driven asynchronous network application framework |
+| 13 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,298 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 14 | [apache / beam](https://github.com/apache/beam) | 8,504 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 15 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 698 | All Code of LLD Playlist |
+| 16 | [trinodb / trino](https://github.com/trinodb/trino) | 12,612 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 17 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 33,141 | Open Source Identity and Access Management For Modern Applications and Services |
+| 18 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 122,646 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 19 | [apache / kafka](https://github.com/apache/kafka) | 32,104 | Mirror of Apache Kafka |
+| 20 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 34,191 | Learn System Design concepts and prepare for interviews using free resources. |
+| 21 | [apache / dubbo](https://github.com/apache/dubbo) | 41,699 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
