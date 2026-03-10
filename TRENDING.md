@@ -1,26 +1,25 @@
-# Top Trending Java Repositories - 2026-03-09
+# Top Trending Java Repositories - 2026-03-10
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 26,498 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 34,633 | Learn System Design concepts and prepare for interviews using free resources. |
-| 3 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,219 | An unofficial rules engine for the world's greatest card game. |
-| 4 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,042 | Add-ons for openHAB |
-| 5 | [google / guava](https://github.com/google/guava) | 51,493 | Google core libraries for Java |
-| 6 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,708 | A podcast manager for Android |
-| 7 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,602 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
-| 8 | [gsantner / markor](https://github.com/gsantner/markor) | 5,230 | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. |
-| 9 | [portfolio-performance / portfolio](https://github.com/portfolio-performance/portfolio) | 3,708 | Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets. |
-| 10 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,248 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 11 | [eclipse / openvsx](https://github.com/eclipse/openvsx) | 1,868 | An open-source registry for VS Code extensions |
-| 12 | [apache / maven](https://github.com/apache/maven) | 4,982 | Apache Maven core |
-| 13 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,707 | google maps for block game |
-| 14 | [xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) | 2,191 | Vulkan renderer mod for Minecraft. |
-| 15 | [runelite / runelite](https://github.com/runelite/runelite) | 5,312 | Open source Old School RuneScape client |
-| 16 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 22,977 | LSPosed Framework |
-| 17 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,884 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 18 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 8,941 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
-| 19 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,800 | Design patterns implemented in Java |
-| 20 | [ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | 1,569 | Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices. |
-| 21 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,674 | Telegram for Android source |
-| 22 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,317 | No clever tagline needed. |
+| 1 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37,472 | A libre lightweight streaming front-end for Android. |
+| 2 | [sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) | 1,953 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. |
+| 3 | [crimera / piko](https://github.com/crimera/piko) | 2,787 | morphe patches for twitter |
+| 4 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,756 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 5 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 122,899 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 6 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 736 | No description available. |
+| 7 | [termux / termux-app](https://github.com/termux/termux-app) | 51,713 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 8 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,371 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 9 | [ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) | 1,570 | Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices. |
+| 10 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,779 | The automation tower defense RTS |
+| 11 | [apache / hadoop](https://github.com/apache/hadoop) | 15,500 | Apache Hadoop |
+| 12 | [freeok / so-novel](https://github.com/freeok/so-novel) | 6,285 | 小说下载｜网文下载 | 网络小说 |
+| 13 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 2,544 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
+| 14 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,683 | Telegram for Android source |
+| 15 | [Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) | 716 | No description available. |
+| 16 | [openhab / openhab-addons](https://github.com/openhab/openhab-addons) | 2,043 | Add-ons for openHAB |
+| 17 | [ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) | 5,452 | 🧩 Patches for ReVanced |
+| 18 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 22,613 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 19 | [awsdocs / aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | 10,379 | Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. |
+| 20 | [Pugmatt / BedrockConnect](https://github.com/Pugmatt/BedrockConnect) | 2,008 | Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5 |
+| 21 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,278 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
