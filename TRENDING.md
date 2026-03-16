@@ -1,22 +1,22 @@
-# Top Trending Java Repositories - 2026-03-15
+# Top Trending Java Repositories - 2026-03-16
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,558 | 🔎 Open source distributed and RESTful search engine. |
-| 2 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,840 | Browse media content with your own rules on Android TV |
-| 3 | [brettwooldridge / HikariCP](https://github.com/brettwooldridge/HikariCP) | 21,063 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. |
-| 4 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 1,863 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 5 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,183 | An Application Framework for AI Engineering |
-| 6 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,528 | Quarkus: Supersonic Subatomic Java. |
-| 7 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,856 | The automation tower defense RTS |
-| 8 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 1,007 | No description available. |
-| 9 | [google / adk-java](https://github.com/google/adk-java) | 1,358 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
-| 10 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,265 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 11 | [apache / ozone](https://github.com/apache/ozone) | 1,182 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
-| 12 | [google / guava](https://github.com/google/guava) | 51,505 | Google core libraries for Java |
-| 13 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,660 | The Metadata Platform for your Data and AI Stack |
-| 14 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 696 | Datadog APM client for Java |
-| 15 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 25,959 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 16 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,024 | The API and the developer guide for Shizuku and Sui. |
-| 17 | [googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) | 2,020 | Google Cloud Client Library for Java |
-| 18 | [apache / jmeter](https://github.com/apache/jmeter) | 9,269 | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services |
+| 1 | [trinodb / trino](https://github.com/trinodb/trino) | 12,641 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 52,018 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 3 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,455 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 4 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,025 | The API and the developer guide for Shizuku and Sui. |
+| 5 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,663 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 6 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,774 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 7 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,569 | Free implementation of Play Services |
+| 8 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,712 | Telegram for Android source |
+| 9 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 10,027 | LSPosed Framework resuscitated |
+| 10 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,474 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
+| 11 | [apache / fineract](https://github.com/apache/fineract) | 2,078 | Apache Fineract |
+| 12 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,725 | A podcast manager for Android |
+| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 28,875 | Browse media content with your own rules on Android TV |
+| 14 | [skylot / jadx](https://github.com/skylot/jadx) | 47,635 | Dex to Java decompiler |
+| 15 | [runelite / runelite](https://github.com/runelite/runelite) | 5,318 | Open source Old School RuneScape client |
+| 16 | [flyway / flyway](https://github.com/flyway/flyway) | 9,593 | Flyway by Redgate • Database Migrations Made Easy. |
+| 17 | [LSPosed / CorePatch](https://github.com/LSPosed/CorePatch) | 2,918 | Disable signature verification For Android |
+| 18 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,210 | All Algorithms implemented in Java |
