@@ -1,25 +1,25 @@
-# Top Trending Java Repositories - 2026-03-22
+# Top Trending Java Repositories - 2026-03-23
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7,948 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 2 | [openrocket / openrocket](https://github.com/openrocket/openrocket) | 2,336 | Model-rocketry aerodynamics and trajectory simulation software |
-| 3 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,613 | 🔎 Open source distributed and RESTful search engine. |
-| 4 | [apache / hadoop](https://github.com/apache/hadoop) | 15,506 | Apache Hadoop |
-| 5 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 93,821 | Design patterns implemented in Java |
-| 6 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45,487 | 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。 |
-| 7 | [apache / solr](https://github.com/apache/solr) | 1,593 | Apache Solr open-source search software |
-| 8 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,192 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 9 | [apache / iceberg](https://github.com/apache/iceberg) | 8,646 | Apache Iceberg |
-| 10 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 29,982 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 11 | [dataease / dataease](https://github.com/dataease/dataease) | 23,652 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 12 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,675 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 13 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,751 | JDK main-line development https://openjdk.org/projects/jdk |
-| 14 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,652 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
-| 15 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,750 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 16 | [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29,083 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. |
-| 17 | [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava) | 48,468 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. |
-| 18 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,345 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 19 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 1,954 | 🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。已发布 CRM Skills ，赋能 OpenClaw AI 助理 7×24 小时智能服务。 |
-| 20 | [microsoft / typespec](https://github.com/microsoft/typespec) | 5,639 | No description available. |
-| 21 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,398 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 1 | [openrocket / openrocket](https://github.com/openrocket/openrocket) | 2,346 | Model-rocketry aerodynamics and trajectory simulation software |
+| 2 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 8,344 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 3 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,167 | A browser automation framework and ecosystem. |
+| 4 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,425 | No clever tagline needed. |
+| 5 | [termux / termux-app](https://github.com/termux/termux-app) | 52,338 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 6 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,663 | Free implementation of Play Services |
+| 7 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,425 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 8 | [apache / kafka](https://github.com/apache/kafka) | 32,217 | Apache Kafka - A distributed event streaming platform |
+| 9 | [JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) | 10,165 | LSPosed Framework resuscitated |
+| 10 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 26,990 | The automation tower defense RTS |
+| 11 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 6,658 | A rewrite of Tachiyomi for the Desktop |
+| 12 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 123,683 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 13 | [Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 2,847 | A lightweight keyboard for Android |
+| 14 | [apache / iceberg](https://github.com/apache/iceberg) | 8,651 | Apache Iceberg |
+| 15 | [netty / netty](https://github.com/netty/netty) | 34,892 | Netty project - an event-driven asynchronous network application framework |
+| 16 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,478 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
+| 17 | [FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) | 2,172 | Example Fabric mod |
+| 18 | [navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) | 1,101 | No description available. |
+| 19 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 23,184 | LSPosed Framework |
+| 20 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 64,962 | Everything you need to know to get the job. |
+| 21 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,037 | The API and the developer guide for Shizuku and Sui. |
