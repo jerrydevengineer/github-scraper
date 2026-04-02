@@ -1,24 +1,22 @@
-# Top Trending Java Repositories - 2026-04-01
+# Top Trending Java Repositories - 2026-04-02
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / gravitino](https://github.com/apache/gravitino) | 2,928 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 2 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,643 | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 3 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 154,570 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
-| 4 | [questdb / questdb](https://github.com/questdb/questdb) | 16,808 | QuestDB is a high performance, open-source, time-series database |
-| 5 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,368 | An Application Framework for AI Engineering |
-| 6 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,201 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
-| 7 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,310 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 8 | [xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) | 13,949 | Access your entire server infrastructure from your local desktop |
-| 9 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 702 | Datadog APM client for Java |
-| 10 | [crimera / piko](https://github.com/crimera/piko) | 2,984 | morphe patches for twitter |
-| 11 | [maxwai / NClientV3](https://github.com/maxwai/NClientV3) | 526 | An unofficial NHentai android client |
-| 12 | [antlr / antlr4](https://github.com/antlr/antlr4) | 18,807 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. |
-| 13 | [iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) | 7,316 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
-| 14 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,754 | Apache Kafka® running on Kubernetes |
-| 15 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,492 | No clever tagline needed. |
-| 16 | [liferay / liferay-portal](https://github.com/liferay/liferay-portal) | 2,232 | No description available. |
-| 17 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 29,231 | Browse media content with your own rules on Android TV |
-| 18 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,527 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 19 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,408 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 20 | [apache / kafka](https://github.com/apache/kafka) | 32,256 | Apache Kafka - A distributed event streaming platform |
+| 1 | [google / adk-java](https://github.com/google/adk-java) | 1,432 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| 2 | [apache / iceberg](https://github.com/apache/iceberg) | 8,685 | Apache Iceberg |
+| 3 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,221 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 4 | [trinodb / trino](https://github.com/trinodb/trino) | 12,682 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 5 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 2,369 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 6 | [apache / gravitino](https://github.com/apache/gravitino) | 2,934 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 7 | [apache / kafka](https://github.com/apache/kafka) | 32,266 | Apache Kafka - A distributed event streaming platform |
+| 8 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 8,112 | MCP Server for Ghidra |
+| 9 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,158 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
+| 10 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,454 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 11 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 33,679 | Open Source Identity and Access Management For Modern Applications and Services |
+| 12 | [apache / flink-cdc](https://github.com/apache/flink-cdc) | 6,382 | Flink CDC is a streaming data integration tool |
+| 13 | [aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | 2,564 | The official AWS SDK for Java - Version 2 |
+| 14 | [Dar9586 / NClientV2](https://github.com/Dar9586/NClientV2) | 2,047 | An unofficial NHentai android client |
+| 15 | [androidx / media](https://github.com/androidx/media) | 2,752 | Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android |
+| 16 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36,124 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 17 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,305 | Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases |
+| 18 | [mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources) | 1,696 | MIT App Inventor Public Open Source |
