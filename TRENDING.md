@@ -1,25 +1,22 @@
-# Top Trending Java Repositories - 2026-04-03
+# Top Trending Java Repositories - 2026-04-04
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,713 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 2 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 1,235 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 3 | [apache / tika](https://github.com/apache/tika) | 3,675 | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
-| 4 | [apache / gravitino](https://github.com/apache/gravitino) | 2,934 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 5 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,536 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 6 | [CeuiLiSA / Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) | 6,826 | Pixiv第三方Android客户端 |
-| 7 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,578 | Quarkus: Supersonic Subatomic Java. |
-| 8 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 10,770 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
-| 9 | [prestodb / presto](https://github.com/prestodb/presto) | 16,677 | The official home of the Presto distributed SQL query engine for big data |
-| 10 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,756 | The Metadata Platform for your Data and AI Stack |
-| 11 | [google / adk-java](https://github.com/google/adk-java) | 1,437 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
-| 12 | [apache / maven](https://github.com/apache/maven) | 5,004 | Apache Maven core |
-| 13 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,759 | Apache Kafka® running on Kubernetes |
-| 14 | [maxwai / NClientV3](https://github.com/maxwai/NClientV3) | 539 | An unofficial NHentai android client |
-| 15 | [iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) | 7,314 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
-| 16 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 765 | All Code of LLD Playlist |
-| 17 | [auth0 / java-jwt](https://github.com/auth0/java-jwt) | 6,212 | Java implementation of JSON Web Token (JWT) |
-| 18 | [apache / paimon](https://github.com/apache/paimon) | 3,234 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
-| 19 | [spring-ai-community / spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) | 235 | A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications. |
-| 20 | [googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) | 2,026 | Google Cloud Client Library for Java |
-| 21 | [pinpoint-apm / pinpoint](https://github.com/pinpoint-apm/pinpoint) | 13,822 | APM, (Application Performance Management) tool for large-scale distributed systems. |
+| 1 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 10,843 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 2 | [risin42 / NagramX](https://github.com/risin42/NagramX) | 1,582 | A variant of Nagram with additional features. |
+| 3 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 154,642 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| 4 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36,182 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 5 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,690 | 🔎 Open source distributed and RESTful search engine. |
+| 6 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,605 | Open-source third-party Telegram client with not many but useful modifications. |
+| 7 | [androidx / media](https://github.com/androidx/media) | 2,755 | Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android |
+| 8 | [apache / flink](https://github.com/apache/flink) | 25,913 | Apache Flink |
+| 9 | [AsamK / signal-cli](https://github.com/AsamK/signal-cli) | 4,389 | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. |
+| 10 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,444 | Free and Open Source, Distributed, RESTful Search Engine |
+| 11 | [alibaba / nacos](https://github.com/alibaba/nacos) | 32,792 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 12 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 701 | Datadog APM client for Java |
+| 13 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 16,133 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 14 | [apache / beam](https://github.com/apache/beam) | 8,537 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 15 | [GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) | 149 | Decompiled and modified version of GT5.07.07 |
+| 16 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 880 | An LoD rendering mod for minecraft |
+| 17 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,796 | Free implementation of Play Services |
+| 18 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,971 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
