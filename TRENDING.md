@@ -1,24 +1,26 @@
-# Top Trending Java Repositories - 2026-04-08
+# Top Trending Java Repositories - 2026-04-09
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 35,997 | Learn System Design concepts and prepare for interviews using free resources. |
-| 2 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 49,465 | Free universal database tool and SQL client |
-| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 53,037 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 4 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 7,768 | A full-featured package manager and viewer for Android |
-| 5 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,340 | All Algorithms implemented in Java |
-| 6 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 23,185 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 7 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,850 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
-| 8 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 124,896 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 9 | [microg / GmsCore](https://github.com/microg/GmsCore) | 12,853 | Free implementation of Play Services |
-| 10 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37,751 | A libre lightweight streaming front-end for Android. |
-| 11 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,074 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 12 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,458 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 13 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 16,202 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 14 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,916 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 15 | [open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | 2,503 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
-| 16 | [DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) | 74 | Java client for the Datadog API |
-| 17 | [LSPosed / CorePatch](https://github.com/LSPosed/CorePatch) | 2,971 | Disable signature verification For Android |
-| 18 | [google / guava](https://github.com/google/guava) | 51,517 | Google core libraries for Java |
-| 19 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,888 | Telegram for Android source |
-| 20 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 703 | Datadog APM client for Java |
+| 1 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 12,805 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 36,060 | Learn System Design concepts and prepare for interviews using free resources. |
+| 3 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 33,785 | Open Source Identity and Access Management For Modern Applications and Services |
+| 4 | [openjdk / jdk](https://github.com/openjdk/jdk) | 22,740 | JDK main-line development https://openjdk.org/projects/jdk |
+| 5 | [iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) | 7,543 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
+| 6 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,180 | Jenkins automation server |
+| 7 | [debezium / debezium](https://github.com/debezium/debezium) | 12,594 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 8 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 124,960 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 9 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 9,146 | Agentic AI Framework for Java Developers |
+| 10 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 154,774 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| 11 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,371 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 12 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,078 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 13 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 28,892 | Telegram for Android source |
+| 14 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,453 | An Application Framework for AI Engineering |
+| 15 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,465 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 16 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 8,236 | MCP Server for Ghidra |
+| 17 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 36,291 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 18 | [metersphere / metersphere](https://github.com/metersphere/metersphere) | 13,075 | MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。 |
+| 19 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,281 | An unofficial rules engine for the world's greatest card game. |
+| 20 | [dataease / dataease](https://github.com/dataease/dataease) | 23,740 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 21 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,829 | Spring Framework |
+| 22 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,507 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
