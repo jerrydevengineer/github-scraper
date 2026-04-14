@@ -1,24 +1,26 @@
-# Top Trending Java Repositories - 2026-04-13
+# Top Trending Java Repositories - 2026-04-14
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 16,204 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 2 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,155 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 53,281 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 4 | [crimera / piko](https://github.com/crimera/piko) | 3,155 | morphe patches for twitter |
-| 5 | [polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) | 3,102 | A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike. |
-| 6 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 67,100 | Ghidra is a software reverse engineering (SRE) framework |
-| 7 | [runelite / runelite](https://github.com/runelite/runelite) | 5,350 | Open source Old School RuneScape client |
-| 8 | [termux / termux-api](https://github.com/termux/termux-api) | 3,648 | Termux add-on app which exposes device functionality as API to command line programs. |
-| 9 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 1,740 | Plugin for JADX to integrate MCP server |
-| 10 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,493 | Spring Security |
-| 11 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,192 | The automation tower defense RTS |
-| 12 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 1,510 | No description available. |
-| 13 | [JingMatrix / Vector](https://github.com/JingMatrix/Vector) | 10,688 | Modern Xposed Framework |
-| 14 | [oasisfeng / island](https://github.com/oasisfeng/island) | 3,644 | Island for Android |
-| 15 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 29,516 | Browse media content with your own rules on Android TV |
-| 16 | [freeok / so-novel](https://github.com/freeok/so-novel) | 6,535 | 小说下载｜网文下载 | 网络小说 |
-| 17 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,190 | Jenkins automation server |
-| 18 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,388 | Based Minecraft utility mod. |
-| 19 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 7,807 | A full-featured package manager and viewer for Android |
-| 20 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37,791 | A libre lightweight streaming front-end for Android. |
+| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 53,330 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 2 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,211 | The automation tower defense RTS |
+| 3 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 37,797 | A libre lightweight streaming front-end for Android. |
+| 4 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 9,091 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 5 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,162 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 6 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 1,533 | No description available. |
+| 7 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 29,529 | Browse media content with your own rules on Android TV |
+| 8 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 24,265 | A tool for reverse engineering Android apk files |
+| 9 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 23,301 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 10 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 36,328 | Learn System Design concepts and prepare for interviews using free resources. |
+| 11 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,824 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 12 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 154,924 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| 13 | [JingMatrix / Vector](https://github.com/JingMatrix/Vector) | 10,707 | Modern Xposed Framework |
+| 14 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 3,898 | 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] |
+| 15 | [google / guava](https://github.com/google/guava) | 51,506 | Google core libraries for Java |
+| 16 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,083 | The API and the developer guide for Shizuku and Sui. |
+| 17 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 704 | Datadog APM client for Java |
+| 18 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 785 | All Code of LLD Playlist |
+| 19 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,478 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 20 | [killbill / killbill](https://github.com/killbill/killbill) | 5,421 | Open-Source Subscription Billing & Payments Platform |
+| 21 | [MegaMek / megamek](https://github.com/MegaMek/megamek) | 339 | MegaMek is a networked Java clone of BattleTech, a turn-based sci-fi boardgame for 2+ players. Fight using giant robots, tanks, and/or infantry on a hex-based map. |
+| 22 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 23,421 | LSPosed Framework |
