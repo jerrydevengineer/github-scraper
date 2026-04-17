@@ -1,26 +1,22 @@
-# Top Trending Java Repositories - 2026-04-16
+# Top Trending Java Repositories - 2026-04-17
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 11,623 | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. |
-| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 33,898 | Open Source Identity and Access Management For Modern Applications and Services |
-| 3 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,578 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 4 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,602 | Quarkus: Supersonic Subatomic Java. |
-| 5 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,416 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 6 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,065 | Universal File Online Preview Project based on Spring-Boot |
-| 7 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,193 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
-| 8 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,799 | The Metadata Platform for your Data and AI Stack |
-| 9 | [apache / doris](https://github.com/apache/doris) | 15,223 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 10 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 9,258 | Agentic AI Framework for Java Developers |
-| 11 | [apache / iceberg](https://github.com/apache/iceberg) | 8,739 | Apache Iceberg |
-| 12 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,511 | The main repository of Telegram X — official alternative Telegram client for Android. |
-| 13 | [androidx / media](https://github.com/androidx/media) | 2,772 | Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android |
-| 14 | [nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) | 6,519 | High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C. |
-| 15 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,317 | a fast, scalable, multi-language and extensible build system |
-| 16 | [Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) | 1,615 | 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。 |
-| 17 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,246 | The automation tower defense RTS |
-| 18 | [awsdocs / aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | 10,392 | Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. |
-| 19 | [apache / solr](https://github.com/apache/solr) | 1,601 | Apache Solr open-source search software |
-| 20 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,110 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 21 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,640 | No description available. |
-| 22 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,489 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 1 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 33,923 | Open Source Identity and Access Management For Modern Applications and Services |
+| 2 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,225 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 3 | [debezium / debezium](https://github.com/debezium/debezium) | 12,622 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 4 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,259 | The automation tower defense RTS |
+| 5 | [apache / flink](https://github.com/apache/flink) | 25,938 | Apache Flink |
+| 6 | [datahub-project / datahub](https://github.com/datahub-project/datahub) | 11,802 | The Metadata Platform for your Data and AI Stack |
+| 7 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 12,755 | 🔎 Open source distributed and RESTful search engine. |
+| 8 | [termux / termux-app](https://github.com/termux/termux-app) | 53,515 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 9 | [apache / doris](https://github.com/apache/doris) | 15,229 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 10 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 1,570 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 11 | [dataease / dataease](https://github.com/dataease/dataease) | 23,795 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 12 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 9,277 | Agentic AI Framework for Java Developers |
+| 13 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,411 | An Open Standard for lineage metadata collection |
+| 14 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,068 | Universal File Online Preview Project based on Spring-Boot |
+| 15 | [apache / iceberg](https://github.com/apache/iceberg) | 8,742 | Apache Iceberg |
+| 16 | [ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) | 986 | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode. |
+| 17 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 31,643 | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents |
+| 18 | [apache / flink-cdc](https://github.com/apache/flink-cdc) | 6,396 | Flink CDC is a streaming data integration tool |
