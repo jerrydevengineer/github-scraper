@@ -1,24 +1,21 @@
-# Top Trending Java Repositories - 2026-05-16
+# Top Trending Java Repositories - 2026-05-17
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / kafka](https://github.com/apache/kafka) | 32,609 | Apache Kafka - A distributed event streaming platform |
-| 2 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,679 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 3 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 3,365 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 4 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,084 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 5 | [apache / tomcat](https://github.com/apache/tomcat) | 8,171 | Apache Tomcat |
-| 6 | [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) | 155,709 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
-| 7 | [apache / pulsar](https://github.com/apache/pulsar) | 15,241 | Apache Pulsar - distributed pub-sub messaging system |
-| 8 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,871 | A podcast manager for Android |
-| 9 | [kousen / claude-code-training](https://github.com/kousen/claude-code-training) | 221 | Slides and demos for a training course on Claude Code |
-| 10 | [apache / tika](https://github.com/apache/tika) | 3,756 | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
-| 11 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 59,942 | Spring Framework |
-| 12 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 46,276 | AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 |
-| 13 | [jishenghua / jshERP](https://github.com/jishenghua/jshERP) | 4,298 | 管伊佳ERP（原名华夏ERP）基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。 |
-| 14 | [exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) | 7,928 | Leading free and open-source face recognition system |
-| 15 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 68,511 | Ghidra is a software reverse engineering (SRE) framework |
-| 16 | [apache / polaris](https://github.com/apache/polaris) | 1,937 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 17 | [binarywang / WxJava](https://github.com/binarywang/WxJava) | 32,788 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
-| 18 | [trinodb / trino](https://github.com/trinodb/trino) | 12,822 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 19 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 16,457 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 20 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,056 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 1 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,082 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 37,279 | Learn System Design concepts and prepare for interviews using free resources. |
+| 3 | [apache / kafka](https://github.com/apache/kafka) | 32,616 | Apache Kafka - A distributed event streaming platform |
+| 4 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 24,031 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 5 | [freeok / so-novel](https://github.com/freeok/so-novel) | 6,793 | 小说下载｜网文下载 | 网络小说 |
+| 6 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 16,489 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 7 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,653 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 8 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 37,132 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 9 | [debezium / debezium](https://github.com/debezium/debezium) | 12,731 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 10 | [apache / iceberg](https://github.com/apache/iceberg) | 8,866 | Apache Iceberg |
+| 11 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,001 | Design patterns implemented in Java |
+| 12 | [iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) | 5,364 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
+| 13 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,664 | Quarkus: Supersonic Subatomic Java. |
+| 14 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,872 | A podcast manager for Android |
+| 15 | [adobe / aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) | 786 | Standardized components to build websites with AEM. |
+| 16 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,713 | Free and Open Source, Distributed, RESTful Search Engine |
+| 17 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,655 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
