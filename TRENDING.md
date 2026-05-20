@@ -1,26 +1,23 @@
-# Top Trending Java Repositories - 2026-05-19
+# Top Trending Java Repositories - 2026-05-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 55,143 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 2 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,869 | google maps for block game |
-| 3 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,179 | The API and the developer guide for Shizuku and Sui. |
-| 4 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 9,258 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
-| 5 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 8,963 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 6 | [iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) | 5,411 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
-| 7 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 3,973 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 8 | [apache / cassandra](https://github.com/apache/cassandra) | 9,740 | Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. |
-| 9 | [apache / maven](https://github.com/apache/maven) | 5,050 | Apache Maven core |
-| 10 | [xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) | 470 | Procedural terrain generation with diffusion models (in Minecraft) |
-| 11 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 7,885 | A podcast manager for Android |
-| 12 | [Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | 1,942 | Update for SPatch nightly |
-| 13 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,454 | WhatsApp tools for Android |
-| 14 | [j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) | 100 | Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained |
-| 15 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,823 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 16 | [apache / poi](https://github.com/apache/poi) | 2,230 | Mirror of Apache POI gitbox. The Java API for Microsoft Documents. |
-| 17 | [apache / commons-lang](https://github.com/apache/commons-lang) | 2,960 | Apache Commons Lang |
-| 18 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,597 | The automation tower defense RTS |
-| 19 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 8,041 | A full-featured package manager and viewer for Android |
-| 20 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,471 | Based Minecraft utility mod. |
-| 21 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,310 | Free implementation of Play Services |
-| 22 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 591 | A Minecraft: Java Edition launcher, based on PojavLauncher |
+| 1 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,195 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 2 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,718 | No description available. |
+| 3 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,170 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 4 | [apache / dubbo](https://github.com/apache/dubbo) | 41,521 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 5 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 34,469 | Open Source Identity and Access Management For Modern Applications and Services |
+| 6 | [graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) | 6,468 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
+| 7 | [apache / hive](https://github.com/apache/hive) | 5,967 | Apache Hive |
+| 8 | [halo-dev / halo](https://github.com/halo-dev/halo) | 38,683 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 9 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,673 | Quarkus: Supersonic Subatomic Java. |
+| 10 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,885 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 11 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,693 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 12 | [open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | 2,537 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
+| 13 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,144 | Universal File Online Preview Project based on Spring-Boot |
+| 14 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,916 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
+| 15 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,457 | WhatsApp tools for Android |
+| 16 | [mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) | 122 | 1. Wa Enhancer X | WhatsApp tools for Android |
+| 17 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,271 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
+| 18 | [camunda / camunda](https://github.com/camunda/camunda) | 4,134 | Process Orchestration Framework |
+| 19 | [apache / gravitino](https://github.com/apache/gravitino) | 2,962 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
