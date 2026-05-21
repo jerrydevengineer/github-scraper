@@ -1,23 +1,22 @@
-# Top Trending Java Repositories - 2026-05-20
+# Top Trending Java Repositories - 2026-05-21
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,195 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 2 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,718 | No description available. |
-| 3 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,170 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 4 | [apache / dubbo](https://github.com/apache/dubbo) | 41,521 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 5 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 34,469 | Open Source Identity and Access Management For Modern Applications and Services |
-| 6 | [graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) | 6,468 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
-| 7 | [apache / hive](https://github.com/apache/hive) | 5,967 | Apache Hive |
-| 8 | [halo-dev / halo](https://github.com/halo-dev/halo) | 38,683 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 9 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,673 | Quarkus: Supersonic Subatomic Java. |
-| 10 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 9,885 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 11 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,693 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 12 | [open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | 2,537 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
-| 13 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,144 | Universal File Online Preview Project based on Spring-Boot |
-| 14 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,916 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
-| 15 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,457 | WhatsApp tools for Android |
-| 16 | [mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) | 122 | 1. Wa Enhancer X | WhatsApp tools for Android |
-| 17 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,271 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
-| 18 | [camunda / camunda](https://github.com/camunda/camunda) | 4,134 | Process Orchestration Framework |
-| 19 | [apache / gravitino](https://github.com/apache/gravitino) | 2,962 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 1 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,274 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 2 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,187 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 3 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,428 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 4 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,679 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 5 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 2,201 | 🔥 Cordys CRM 是新一代开源 AI CRM 系统，融合信息化、数字化与智能化，支持私有化部署，Skills 技能现已上线，全面驱动 OpenClaw AI 助理。 |
+| 6 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,230 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 7 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,695 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 8 | [apache / flink](https://github.com/apache/flink) | 26,020 | Apache Flink |
+| 9 | [halo-dev / halo](https://github.com/halo-dev/halo) | 38,702 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 10 | [apache / gravitino](https://github.com/apache/gravitino) | 2,966 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 11 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 6,952 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
+| 12 | [apache / iceberg](https://github.com/apache/iceberg) | 8,880 | Apache Iceberg |
+| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 30,154 | Browse media content with your own rules on Android TV |
+| 14 | [201206030 / novel-plus](https://github.com/201206030/novel-plus) | 4,601 | novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。 |
+| 15 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 856 | All Code of LLD Playlist |
+| 16 | [PeterCxy / Shelter](https://github.com/PeterCxy/Shelter) | 3,397 | This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter |
+| 17 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,676 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 18 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,749 | An Application Framework for AI Engineering |
