@@ -1,22 +1,22 @@
-# Top Trending Java Repositories - 2026-05-21
+# Top Trending Java Repositories - 2026-05-22
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,274 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 2 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,187 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 3 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,428 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 4 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,679 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 5 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 2,201 | 🔥 Cordys CRM 是新一代开源 AI CRM 系统，融合信息化、数字化与智能化，支持私有化部署，Skills 技能现已上线，全面驱动 OpenClaw AI 助理。 |
-| 6 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,230 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 7 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,695 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 8 | [apache / flink](https://github.com/apache/flink) | 26,020 | Apache Flink |
-| 9 | [halo-dev / halo](https://github.com/halo-dev/halo) | 38,702 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 10 | [apache / gravitino](https://github.com/apache/gravitino) | 2,966 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 11 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 6,952 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 12 | [apache / iceberg](https://github.com/apache/iceberg) | 8,880 | Apache Iceberg |
-| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 30,154 | Browse media content with your own rules on Android TV |
-| 14 | [201206030 / novel-plus](https://github.com/201206030/novel-plus) | 4,601 | novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。 |
-| 15 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 856 | All Code of LLD Playlist |
-| 16 | [PeterCxy / Shelter](https://github.com/PeterCxy/Shelter) | 3,397 | This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter |
-| 17 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,676 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 18 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,749 | An Application Framework for AI Engineering |
+| 1 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,287 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 2 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,845 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 3 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,273 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 4 | [dataease / dataease](https://github.com/dataease/dataease) | 23,954 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 5 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,686 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 6 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,762 | An Application Framework for AI Engineering |
+| 7 | [CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) | 25,615 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 8 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,430 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 9 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 12,060 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 10 | [apache / iceberg](https://github.com/apache/iceberg) | 8,880 | Apache Iceberg |
+| 11 | [apache / beam](https://github.com/apache/beam) | 8,591 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 12 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,682 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 13 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,783 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 14 | [provectus / kafka-ui](https://github.com/provectus/kafka-ui) | 12,106 | Open-Source Web UI for Apache Kafka Management |
+| 15 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 862 | All Code of LLD Playlist |
+| 16 | [dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) | 7,555 | OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. |
+| 17 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 2,212 | 🔥 Cordys CRM 是新一代开源 AI CRM 系统，融合信息化、数字化与智能化，支持私有化部署，Skills 技能现已上线，全面驱动 OpenClaw AI 助理。 |
+| 18 | [DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) | 722 | Datadog APM client for Java |
