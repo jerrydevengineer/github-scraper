@@ -1,28 +1,28 @@
-# Top Trending Java Repositories - 2026-06-12
+# Top Trending Java Repositories - 2026-06-13
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,921 | An Application Framework for AI Engineering |
-| 2 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,395 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 3 | [questdb / questdb](https://github.com/questdb/questdb) | 17,047 | QuestDB is a high performance, open-source, time-series database |
-| 4 | [apache / flink](https://github.com/apache/flink) | 26,066 | Apache Flink |
-| 5 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,721 | Quarkus: Supersonic Subatomic Java. |
-| 6 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,468 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 7 | [firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | 2,535 | Firebase Android SDK |
-| 8 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 69,536 | Ghidra is a software reverse engineering (SRE) framework |
-| 9 | [hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) | 6,441 | Idiomatic persistence for Java and relational databases |
-| 10 | [apache / kafka](https://github.com/apache/kafka) | 32,790 | Apache Kafka - A distributed event streaming platform |
-| 11 | [apache / camel](https://github.com/apache/camel) | 6,229 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
-| 12 | [apache / druid](https://github.com/apache/druid) | 14,014 | Apache Druid: a high performance real-time analytics database. |
-| 13 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,905 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 14 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 80,874 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 15 | [googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) | 2,067 | Google Cloud Client Library for Java |
-| 16 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 16,702 | Graphs for Everyone |
-| 17 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,499 | a fast, scalable, multi-language and extensible build system |
-| 18 | [primefaces / primefaces](https://github.com/primefaces/primefaces) | 1,912 | Ultimate Component Suite for Jakarta Faces |
-| 19 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,773 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 20 | [hapifhir / hapi-fhir](https://github.com/hapifhir/hapi-fhir) | 2,338 | 🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers |
-| 21 | [halo-dev / halo](https://github.com/halo-dev/halo) | 38,959 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 22 | [wildfly / wildfly](https://github.com/wildfly/wildfly) | 3,174 | WildFly Application Server |
-| 23 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,944 | Free and Open Source, Distributed, RESTful Search Engine |
-| 24 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,887 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 1 | [apache / kafka](https://github.com/apache/kafka) | 32,806 | Apache Kafka - A distributed event streaming platform |
+| 2 | [questdb / questdb](https://github.com/questdb/questdb) | 17,057 | QuestDB is a high performance, open-source, time-series database |
+| 3 | [trinodb / trino](https://github.com/trinodb/trino) | 12,921 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 4 | [halo-dev / halo](https://github.com/halo-dev/halo) | 38,978 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 5 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 16,764 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
+| 6 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,929 | An Application Framework for AI Engineering |
+| 7 | [apache / paimon](https://github.com/apache/paimon) | 3,299 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
+| 8 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,720 | Quarkus: Supersonic Subatomic Java. |
+| 9 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,398 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 10 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,024 | Spring Framework |
+| 11 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,533 | Free universal database tool and SQL client |
+| 12 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 69,583 | Ghidra is a software reverse engineering (SRE) framework |
+| 13 | [apache / doris](https://github.com/apache/doris) | 15,465 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 14 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,837 | Apache Kafka® running on Kubernetes |
+| 15 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,380 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 16 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 34,877 | Open Source Identity and Access Management For Modern Applications and Services |
+| 17 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,161 | 🔎 Open source distributed and RESTful search engine. |
+| 18 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,895 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 19 | [apple / pkl](https://github.com/apple/pkl) | 11,403 | A configuration as code language with rich validation and tooling. |
+| 20 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,453 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 21 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,830 | All Algorithms implemented in Java |
+| 22 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,048 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 23 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,658 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| 24 | [firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | 2,536 | Firebase Android SDK |
