@@ -1,25 +1,23 @@
-# Top Trending Java Repositories - 2026-06-15
+# Top Trending Java Repositories - 2026-06-16
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / maven](https://github.com/apache/maven) | 5,135 | Apache Maven core |
-| 2 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 76,981 | Free and Open Source, Distributed, RESTful Search Engine |
-| 3 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,433 | Jenkins automation server |
-| 4 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 126,707 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 5 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 16,837 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 6 | [neoforged / NeoForge](https://github.com/neoforged/NeoForge) | 1,948 | Neo Modding API for Minecraft: Java Edition, based on Forge |
-| 7 | [apache / flink](https://github.com/apache/flink) | 26,081 | Apache Flink |
-| 8 | [vaadin / flow](https://github.com/vaadin/flow) | 742 | Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+. |
-| 9 | [apache / nifi](https://github.com/apache/nifi) | 6,123 | Apache NiFi |
-| 10 | [eugenp / tutorials](https://github.com/eugenp/tutorials) | 37,339 | Getting Started with Spring Boot 3: |
-| 11 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 22,898 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 12 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 29,344 | Telegram for Android source |
-| 13 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,376 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 14 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,461 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 15 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,938 | google maps for block game |
-| 16 | [questdb / questdb](https://github.com/questdb/questdb) | 17,059 | QuestDB is a high performance, open-source, time-series database |
-| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 24,642 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 18 | [ls1intum / Artemis](https://github.com/ls1intum/Artemis) | 776 | Artemis - Interactive Learning with Automated Feedback |
-| 19 | [apache / lucene](https://github.com/apache/lucene) | 3,466 | Apache Lucene open-source search software |
-| 20 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,597 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
-| 21 | [apache / doris](https://github.com/apache/doris) | 15,472 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 1 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 127,110 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 2 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 25,128 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 3 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,384 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 4 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 24,665 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 5 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 2,532 | No description available. |
+| 6 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,953 | No clever tagline needed. |
+| 7 | [termux / termux-app](https://github.com/termux/termux-app) | 56,450 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 8 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 23,989 | LSPosed Framework |
+| 9 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 954 | All Code of LLD Playlist |
+| 10 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 9,407 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 11 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,239 | The API and the developer guide for Shizuku and Sui. |
+| 12 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 30,621 | Browse media content with your own rules on Android TV |
+| 13 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 4,289 | [NeoForge Mod] Building Tools and Aesthetic Technology |
+| 14 | [tonikelope / megabasterd](https://github.com/tonikelope/megabasterd) | 5,573 | Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite. |
+| 15 | [JanssenProject / jans](https://github.com/JanssenProject/jans) | 633 | The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server" distributions bundle IAM components under one control plane. |
+| 16 | [halo-dev / halo](https://github.com/halo-dev/halo) | 39,049 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 17 | [apache / flink](https://github.com/apache/flink) | 26,085 | Apache Flink |
+| 18 | [NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) | 1,736 | Nightscout version of xDrip+ |
+| 19 | [castorini / anserini](https://github.com/castorini/anserini) | 1,146 | Anserini is a Lucene toolkit for reproducible information retrieval research |
