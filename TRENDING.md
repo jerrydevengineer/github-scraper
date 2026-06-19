@@ -1,25 +1,21 @@
-# Top Trending Java Repositories - 2026-06-18
+# Top Trending Java Repositories - 2026-06-19
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 127,544 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 34,965 | Open Source Identity and Access Management For Modern Applications and Services |
-| 3 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,601 | Free universal database tool and SQL client |
-| 4 | [debezium / debezium](https://github.com/debezium/debezium) | 12,829 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 5 | [bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) | 2,500 | Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. |
-| 6 | [apache / paimon](https://github.com/apache/paimon) | 3,301 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
-| 7 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,273 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 8 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,347 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
-| 9 | [google / guava](https://github.com/google/guava) | 51,476 | Google core libraries for Java |
-| 10 | [apache / fory](https://github.com/apache/fory) | 4,413 | A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange. |
-| 11 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,392 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 12 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,782 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 13 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,622 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
-| 14 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 25,764 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 15 | [vaadin / platform](https://github.com/vaadin/platform) | 667 | Vaadin platform 10+ is a Java web development platform based on Vaadin web components. If you don't know to which repository your bug report should be filed, use this and we'll move it to the right one. |
-| 16 | [apache / kafka](https://github.com/apache/kafka) | 32,853 | Apache Kafka - A distributed event streaming platform |
-| 17 | [eszdman / PhotonCamera](https://github.com/eszdman/PhotonCamera) | 1,043 | Android Camera that uses Enhanced image processing |
-| 18 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 962 | All Code of LLD Playlist |
-| 19 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,912 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 20 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 24,710 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 21 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,024 | Free and Open Source, Distributed, RESTful Search Engine |
+| 1 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,399 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 2 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,323 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 3 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,039 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 4 | [apache / maven](https://github.com/apache/maven) | 5,155 | Apache Maven core |
+| 5 | [redis / docs](https://github.com/redis/docs) | 69 | Documentation for Redis, Redis Cloud, and Redis Enterprise |
+| 6 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 8,981 | An Application Framework for AI Engineering |
+| 7 | [alibaba / DataX](https://github.com/alibaba/DataX) | 17,236 | DataX是阿里云DataWorks数据集成的开源版本。 |
+| 8 | [emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | 4,155 | No-root network monitor, firewall and PCAP dumper for Android |
+| 9 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,938 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 10 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 127,695 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 11 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,616 | Free universal database tool and SQL client |
+| 12 | [jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) | 8,043 | 一款真正的AI报表诞生了：一句话生成报表和数据大屏，支持对话式AI修改报表；类 Excel 在线报表设计，兼容国产信创 数据源。 对着AI说句话，报表就出来了——表格、图表、分组汇总全部自动配好，轻松应对各类复杂报表场景。想做大屏？同样一句话搞定。 |
+| 13 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,207 | A browser automation framework and ecosystem. |
+| 14 | [lunasaw / voglander](https://github.com/lunasaw/voglander) | 244 | Voglander 是基于 Spring Boot 3.5 + Java 17 的企业级视频监控平台，支持 GB28181、JT/T 1078、ONVIF、SIP Gateway、ZLMediaKit、IPC/NVR 接入、实时点播、录像回放、流媒体转发、NAT 穿透和国标级联。 |
+| 15 | [crimera / piko](https://github.com/crimera/piko) | 4,021 | morphe patches for twitter |
+| 16 | [google / guava](https://github.com/google/guava) | 51,478 | Google core libraries for Java |
+| 17 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,052 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
