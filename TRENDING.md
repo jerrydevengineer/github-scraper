@@ -1,26 +1,26 @@
-# Top Trending Java Repositories - 2026-06-20
+# Top Trending Java Repositories - 2026-06-21
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,071 | Free and Open Source, Distributed, RESTful Search Engine |
-| 2 | [apache / doris](https://github.com/apache/doris) | 15,506 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 3 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,405 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 4 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,802 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 5 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 127,745 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 6 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,633 | Free universal database tool and SQL client |
-| 7 | [apache / hadoop](https://github.com/apache/hadoop) | 15,568 | Apache Hadoop |
-| 8 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,224 | Digital logic design tool and simulator |
-| 9 | [redis / docs](https://github.com/redis/docs) | 69 | Documentation for Redis, Redis Cloud, and Redis Enterprise |
-| 10 | [apache / kafka](https://github.com/apache/kafka) | 32,888 | Apache Kafka - A distributed event streaming platform |
-| 11 | [eugenp / tutorials](https://github.com/eugenp/tutorials) | 37,339 | Getting Started with Spring Boot 3: |
-| 12 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,000 | Open Source Identity and Access Management For Modern Applications and Services |
-| 13 | [google / guava](https://github.com/google/guava) | 51,482 | Google core libraries for Java |
-| 14 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 64,987 | Everything you need to know to get the job. |
-| 15 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 9,300 | MCP Server for Ghidra |
-| 16 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,516 | WhatsApp tools for Android |
-| 17 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,232 | 🔎 Open source distributed and RESTful search engine. |
-| 18 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 3,943 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 19 | [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava) | 48,233 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. |
-| 20 | [apache / polaris](https://github.com/apache/polaris) | 1,977 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 21 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 2,576 | No description available. |
-| 22 | [jishenghua / jshERP](https://github.com/jishenghua/jshERP) | 4,369 | 管伊佳ERP（原名华夏ERP）基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。 |
+| 1 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 81,723 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 2 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,414 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 56,669 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 4 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,434 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
+| 5 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,652 | Free universal database tool and SQL client |
+| 6 | [questdb / questdb](https://github.com/questdb/questdb) | 17,121 | QuestDB is a high performance, open-source, time-series database |
+| 7 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,984 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
+| 8 | [apache / iceberg](https://github.com/apache/iceberg) | 8,980 | Apache Iceberg |
+| 9 | [open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | 2,558 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
+| 10 | [apache / doris](https://github.com/apache/doris) | 15,515 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 11 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,113 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 12 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,068 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 13 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,497 | Jenkins automation server |
+| 14 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,942 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 15 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,325 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 16 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,976 | The automation tower defense RTS |
+| 17 | [hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) | 6,443 | Idiomatic persistence for Java and relational databases |
+| 18 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,237 | 🔎 Open source distributed and RESTful search engine. |
+| 19 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,111 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 20 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,431 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 21 | [xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) | 1,271 | The XWiki platform |
+| 22 | [osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) | 5,798 | OsmAnd |
