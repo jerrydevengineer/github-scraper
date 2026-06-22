@@ -1,26 +1,27 @@
-# Top Trending Java Repositories - 2026-06-21
+# Top Trending Java Repositories - 2026-06-22
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 81,723 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| 2 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,414 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 56,669 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 4 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,434 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
-| 5 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,652 | Free universal database tool and SQL client |
-| 6 | [questdb / questdb](https://github.com/questdb/questdb) | 17,121 | QuestDB is a high performance, open-source, time-series database |
-| 7 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,984 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
-| 8 | [apache / iceberg](https://github.com/apache/iceberg) | 8,980 | Apache Iceberg |
-| 9 | [open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | 2,558 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
-| 10 | [apache / doris](https://github.com/apache/doris) | 15,515 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 11 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,113 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 12 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,068 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 13 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 25,497 | Jenkins automation server |
-| 14 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 3,942 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 15 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,325 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
-| 16 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 27,976 | The automation tower defense RTS |
-| 17 | [hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) | 6,443 | Idiomatic persistence for Java and relational databases |
-| 18 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,237 | 🔎 Open source distributed and RESTful search engine. |
-| 19 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,111 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 20 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,431 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 21 | [xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) | 1,271 | The XWiki platform |
-| 22 | [osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) | 5,798 | OsmAnd |
+| 1 | [google / guava](https://github.com/google/guava) | 51,488 | Google core libraries for Java |
+| 2 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82,220 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 3 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 792 | A Minecraft: Java Edition launcher, based on PojavLauncher |
+| 4 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 25,715 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 5 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,421 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 6 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,463 | An unofficial rules engine for the world's greatest card game. |
+| 7 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 9,093 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 8 | [anonfaded / FadCam](https://github.com/anonfaded/FadCam) | 2,530 | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
+| 9 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,632 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
+| 10 | [AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) | 1,632 | Run OpenClaw on Android with a single command — no proot, no Linux |
+| 11 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 9,434 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| 12 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,564 | Based Minecraft utility mod. |
+| 13 | [crimera / piko](https://github.com/crimera/piko) | 4,052 | morphe patches for twitter |
+| 14 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,887 | All Algorithms implemented in Java |
+| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,039 | LSPosed Framework |
+| 16 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,103 | Free and Open Source, Distributed, RESTful Search Engine |
+| 17 | [termux / termux-app](https://github.com/termux/termux-app) | 56,711 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 18 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 24,782 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 19 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,251 | The API and the developer guide for Shizuku and Sui. |
+| 20 | [gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) | 422 | Gravitee.io - OpenSource API Management |
+| 21 | [google / adk-java](https://github.com/google/adk-java) | 1,611 | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| 22 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 4,971 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 23 | [j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) | 149 | Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained |
