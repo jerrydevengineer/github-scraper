@@ -1,26 +1,28 @@
-# Top Trending Java Repositories - 2026-06-23
+# Top Trending Java Repositories - 2026-06-24
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 83,161 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 56,764 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 3 | [apache / fineract](https://github.com/apache/fineract) | 2,259 | Apache Fineract |
-| 4 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,001 | The automation tower defense RTS |
-| 5 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 46,838 | AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 |
-| 6 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,676 | Free implementation of Play Services |
-| 7 | [dromara / ujcms](https://github.com/dromara/ujcms) | 532 | Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。 |
-| 8 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,689 | Open-source third-party Telegram client with not many but useful modifications. |
-| 9 | [apache / doris](https://github.com/apache/doris) | 15,525 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| 10 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 9,096 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 11 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,640 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
-| 12 | [IrisShaders / Iris](https://github.com/IrisShaders/Iris) | 3,754 | A modern shaders mod for Minecraft compatible with existing OptiFine shader packs |
-| 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,120 | Free and Open Source, Distributed, RESTful Search Engine |
-| 14 | [Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | 1,524 | WhatsApp tools for Android |
-| 15 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,901 | All Algorithms implemented in Java |
-| 16 | [Querz / mcaselector](https://github.com/Querz/mcaselector) | 4,579 | A tool to select chunks from Minecraft worlds for deletion or export. |
-| 17 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,463 | An unofficial rules engine for the world's greatest card game. |
-| 18 | [karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) | 4,845 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
-| 19 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 38,902 | Learn System Design concepts and prepare for interviews using free resources. |
-| 20 | [SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) | 6,005 | 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目) |
-| 21 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,956 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 22 | [google / guava](https://github.com/google/guava) | 51,489 | Google core libraries for Java |
+| 1 | [apache / kafka](https://github.com/apache/kafka) | 32,953 | Apache Kafka - A distributed event streaming platform |
+| 2 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,029 | JDK main-line development https://openjdk.org/projects/jdk |
+| 3 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 25,784 | AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 4 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 65,908 | All Algorithms implemented in Java |
+| 5 | [apache / cassandra](https://github.com/apache/cassandra) | 9,788 | Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. |
+| 6 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 29,421 | Telegram for Android source |
+| 7 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 12,993 | No clever tagline needed. |
+| 8 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,027 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 9 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 6,255 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
+| 10 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,695 | Free implementation of Play Services |
+| 11 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,134 | Free and Open Source, Distributed, RESTful Search Engine |
+| 12 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 3,569 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
+| 13 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,055 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 14 | [anonfaded / FadCam](https://github.com/anonfaded/FadCam) | 2,552 | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
+| 15 | [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) | 5,423 | 面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。 |
+| 16 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 70,053 | Ghidra is a software reverse engineering (SRE) framework |
+| 17 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,473 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 18 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 38,795 | A libre lightweight streaming front-end for Android. |
+| 19 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 2,624 | No description available. |
+| 20 | [apache / fineract](https://github.com/apache/fineract) | 2,265 | Apache Fineract |
+| 21 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,850 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 22 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,642 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
+| 23 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,023 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 24 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 808 | A Minecraft: Java Edition launcher, based on PojavLauncher |
