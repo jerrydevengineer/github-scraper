@@ -1,25 +1,28 @@
-# Top Trending Java Repositories - 2026-06-25
+# Top Trending Java Repositories - 2026-06-26
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,056 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
-| 2 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 84,120 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| 3 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,035 | JDK main-line development https://openjdk.org/projects/jdk |
-| 4 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 9,444 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 5 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,272 | IntelliJ IDEA & IntelliJ Platform |
-| 6 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,706 | Free implementation of Play Services |
-| 7 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,091 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 8 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,162 | Free and Open Source, Distributed, RESTful Search Engine |
-| 9 | [loks666 / get_jobs](https://github.com/loks666/get_jobs) | 7,471 | 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘) |
-| 10 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 10,117 | Agentic AI Framework for Java Developers |
-| 11 | [apache / fineract](https://github.com/apache/fineract) | 2,266 | Apache Fineract |
-| 12 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 3,586 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 13 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,946 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 14 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 38,801 | A libre lightweight streaming front-end for Android. |
-| 15 | [termux / termux-app](https://github.com/termux/termux-app) | 56,851 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 16 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,510 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
-| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 24,844 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 18 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,736 | The main repository of Telegram X — official alternative Telegram client for Android. |
-| 19 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 9,019 | An Application Framework for AI Engineering |
-| 20 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 38,956 | Learn System Design concepts and prepare for interviews using free resources. |
-| 21 | [dataease / dataease](https://github.com/dataease/dataease) | 24,097 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 1 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,078 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 2 | [trinodb / trino](https://github.com/trinodb/trino) | 12,961 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 3 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,736 | Quarkus: Supersonic Subatomic Java. |
+| 4 | [Azure / azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | 2,558 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. |
+| 5 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 21,956 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 6 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 84,424 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 7 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 70,138 | Ghidra is a software reverse engineering (SRE) framework |
+| 8 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,095 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
+| 9 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,822 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 10 | [exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) | 8,014 | Leading free and open-source face recognition system |
+| 11 | [apache / dubbo](https://github.com/apache/dubbo) | 41,525 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 12 | [apache / incubator-seata](https://github.com/apache/incubator-seata) | 25,983 | 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
+| 13 | [apache / iceberg](https://github.com/apache/iceberg) | 8,989 | Apache Iceberg |
+| 14 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,391 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
+| 15 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,166 | Free and Open Source, Distributed, RESTful Search Engine |
+| 16 | [open-telemetry / opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) | 2,411 | OpenTelemetry Java SDK |
+| 17 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,088 | AgentScope Java: Agent-Oriented Programming for Building LLM Applications |
+| 18 | [apache / doris](https://github.com/apache/doris) | 15,542 | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| 19 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,268 | 🔎 Open source distributed and RESTful search engine. |
+| 20 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 39,021 | Learn System Design concepts and prepare for interviews using free resources. |
+| 21 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 9,113 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
+| 22 | [camunda / camunda](https://github.com/camunda/camunda) | 4,182 | Process Orchestration Framework |
+| 23 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,493 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 24 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,224 | A browser automation framework and ecosystem. |
