@@ -1,27 +1,21 @@
-# Top Trending Java Repositories - 2026-06-30
+# Top Trending Java Repositories - 2026-07-01
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,410 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
-| 2 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,423 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 3 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 39,234 | Learn System Design concepts and prepare for interviews using free resources. |
-| 4 | [apache / pulsar](https://github.com/apache/pulsar) | 15,284 | Apache Pulsar - distributed pub-sub messaging system |
-| 5 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,740 | Quarkus: Supersonic Subatomic Java. |
-| 6 | [languagetool-org / languagetool](https://github.com/languagetool-org/languagetool) | 14,620 | Style and Grammar Checker for 25+ Languages |
-| 7 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,434 | Open Source Identity and Access Management For Modern Applications and Services |
-| 8 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 9,130 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 9 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 30,824 | Browse media content with your own rules on Android TV |
-| 10 | [MCRcortex / voxy](https://github.com/MCRcortex/voxy) | 1,068 | An LoD rendering mod for minecraft |
-| 11 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 8,980 | google maps for block game |
-| 12 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 4,320 | [NeoForge Mod] Building Tools and Aesthetic Technology |
-| 13 | [aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | 2,593 | The official AWS SDK for Java - Version 2 |
-| 14 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,559 | a fast, scalable, multi-language and extensible build system |
-| 15 | [DataLinkDC / dinky](https://github.com/DataLinkDC/dinky) | 3,738 | Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation. |
-| 16 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 9,474 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 17 | [apache / solr](https://github.com/apache/solr) | 1,633 | Apache Solr open-source search software |
-| 18 | [crimera / piko](https://github.com/crimera/piko) | 4,142 | morphe patches for twitter |
-| 19 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,017 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 20 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 70,288 | Ghidra is a software reverse engineering (SRE) framework |
-| 21 | [apache / skywalking](https://github.com/apache/skywalking) | 24,853 | APM, Application Performance Monitoring System |
-| 22 | [bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) | 874 | Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform. |
-| 23 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 4,046 | Modern super user interface implementation on Android. |
+| 1 | [google / guava](https://github.com/google/guava) | 51,503 | Google core libraries for Java |
+| 2 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 2,951 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 3 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 8,401 | A full-featured package manager and viewer for Android |
+| 4 | [halo-dev / halo](https://github.com/halo-dev/halo) | 39,186 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 5 | [JingMatrix / Vector](https://github.com/JingMatrix/Vector) | 11,628 | Modern Xposed Framework |
+| 6 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 15,339 | The ZAP by Checkmarx Core project |
+| 7 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,792 | No description available. |
+| 8 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,024 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 9 | [Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) | 2,583 | 基于 Spring Boot 4.1 + Java 21 + Spring AI 2.0 + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。 |
+| 10 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,341 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
+| 11 | [bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) | 892 | Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform. |
+| 12 | [apache / iceberg](https://github.com/apache/iceberg) | 8,998 | Apache Iceberg |
+| 13 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,178 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 14 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 50,790 | Free universal database tool and SQL client |
+| 15 | [xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) | 596 | Procedural terrain generation with diffusion models (in Minecraft) |
+| 16 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 9,503 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 17 | [itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) | 17,093 | 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄 |
