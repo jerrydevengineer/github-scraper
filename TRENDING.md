@@ -1,25 +1,22 @@
-# Top Trending Java Repositories - 2026-07-19
+# Top Trending Java Repositories - 2026-07-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 9,877 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 2 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 10,366 | Agentic AI Framework for Java Developers |
-| 3 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,361 | Universal File Online Preview Project based on Spring-Boot |
-| 4 | [ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) | 5,533 | 面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。 |
-| 5 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 3,216 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 6 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,379 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 7 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 12,637 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
-| 8 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,381 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 9 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,968 | Free implementation of Play Services |
-| 10 | [Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) | 839 | An API/Schema registry - stores APIs and Schemas. |
-| 11 | [apache / hive](https://github.com/apache/hive) | 5,993 | Apache Hive |
-| 12 | [apache / beam](https://github.com/apache/beam) | 8,634 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 13 | [apache / fineract](https://github.com/apache/fineract) | 2,319 | Apache Fineract |
-| 14 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 4,409 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 15 | [apache / struts](https://github.com/apache/struts) | 1,362 | Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications |
-| 16 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 11,907 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 17 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,987 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
-| 18 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,271 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 19 | [apache / hbase](https://github.com/apache/hbase) | 5,548 | Apache HBase |
-| 20 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,547 | An Open Standard for lineage metadata collection |
-| 21 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,596 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 1 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 9,988 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| 2 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,971 | Free implementation of Play Services |
+| 3 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,499 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 4 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,561 | Free and Open Source, Distributed, RESTful Search Engine |
+| 5 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,013 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
+| 6 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,291 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 7 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,093 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 8 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,347 | The API and the developer guide for Shizuku and Sui. |
+| 9 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,975 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| 10 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 31,384 | Browse media content with your own rules on Android TV |
+| 11 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,523 | An unofficial rules engine for the world's greatest card game. |
+| 12 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,601 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 13 | [anonfaded / FadCam](https://github.com/anonfaded/FadCam) | 2,651 | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
+| 14 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,663 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
+| 15 | [openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) | 1,874 | OpenMRS API and web application code |
+| 16 | [apache / kafka](https://github.com/apache/kafka) | 33,290 | Apache Kafka - A distributed event streaming platform |
+| 17 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,747 | Open-source third-party Telegram client with not many but useful modifications. |
+| 18 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,990 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
