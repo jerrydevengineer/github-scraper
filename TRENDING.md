@@ -1,22 +1,24 @@
-# Top Trending Java Repositories - 2026-07-20
+# Top Trending Java Repositories - 2026-07-21
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 9,988 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 2 | [microg / GmsCore](https://github.com/microg/GmsCore) | 13,971 | Free implementation of Play Services |
-| 3 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,499 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 4 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,561 | Free and Open Source, Distributed, RESTful Search Engine |
-| 5 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,013 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
-| 6 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,291 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 7 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,093 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 8 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,347 | The API and the developer guide for Shizuku and Sui. |
-| 9 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,975 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 10 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 31,384 | Browse media content with your own rules on Android TV |
-| 11 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,523 | An unofficial rules engine for the world's greatest card game. |
-| 12 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,601 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 13 | [anonfaded / FadCam](https://github.com/anonfaded/FadCam) | 2,651 | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
-| 14 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,663 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 15 | [openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) | 1,874 | OpenMRS API and web application code |
-| 16 | [apache / kafka](https://github.com/apache/kafka) | 33,290 | Apache Kafka - A distributed event streaming platform |
-| 17 | [Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) | 3,747 | Open-source third-party Telegram client with not many but useful modifications. |
-| 18 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,990 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
+| 1 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,313 | The automation tower defense RTS |
+| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 57,891 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 3 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 4,827 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
+| 4 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,510 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 5 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 9,458 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 6 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 31,404 | Browse media content with your own rules on Android TV |
+| 7 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 25,482 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 8 | [apache / cassandra](https://github.com/apache/cassandra) | 9,873 | Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. |
+| 9 | [qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) | 2,992 | 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top https://189.qaiu.top |
+| 10 | [Nxer / Twist-Space-Technology-Mod](https://github.com/Nxer/Twist-Space-Technology-Mod) | 394 | Modded elements from GTNH players. Mainly about lategame of GTNH. |
+| 11 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,416 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 12 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 6,340 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
+| 13 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,200 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 14 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,436 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
+| 15 | [open-telemetry / opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | 2,584 | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |
+| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,027 | google maps for block game |
+| 17 | [skylot / jadx](https://github.com/skylot/jadx) | 49,703 | Dex to Java decompiler |
+| 18 | [j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) | 190 | Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained |
+| 19 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,296 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 20 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,702 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
