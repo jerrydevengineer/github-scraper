@@ -1,26 +1,27 @@
-# Top Trending Java Repositories - 2026-07-22
+# Top Trending Java Repositories - 2026-07-23
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,135 | Spring Framework |
-| 2 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 87,673 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| 3 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,091 | Free universal database tool and SQL client |
-| 4 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,148 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 5 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,429 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 6 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,781 | Open Source Identity and Access Management For Modern Applications and Services |
-| 7 | [iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) | 6,052 | Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. |
-| 8 | [flyway / flyway](https://github.com/flyway/flyway) | 9,931 | Flyway by Redgate • Database Migrations Made Easy. |
-| 9 | [Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) | 2,778 | 基于 Spring Boot 4.1 + Java 21 + Spring AI 2.0 + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。 |
-| 10 | [apache / dubbo](https://github.com/apache/dubbo) | 41,542 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 11 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,631 | Build distributed, production-grade, long-running agents. |
-| 12 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,691 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
-| 13 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,356 | 🔎 Open source distributed and RESTful search engine. |
-| 14 | [Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) | 846 | An API/Schema registry - stores APIs and Schemas. |
-| 15 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,190 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 16 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,027 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 17 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,391 | IntelliJ IDEA & IntelliJ Platform |
-| 18 | [trinodb / trino](https://github.com/trinodb/trino) | 13,059 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 19 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 10,041 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 20 | [termux / termux-app](https://github.com/termux/termux-app) | 57,943 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 21 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,596 | Free and Open Source, Distributed, RESTful Search Engine |
-| 22 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,358 | The API and the developer guide for Shizuku and Sui. |
+| 1 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 27,704 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 2 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 25,977 | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 3 | [alibaba / arthas](https://github.com/alibaba/arthas) | 37,444 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
+| 4 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,658 | Build distributed, production-grade, long-running agents. |
+| 5 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,226 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 6 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,135 | JDK main-line development https://openjdk.org/projects/jdk |
+| 7 | [google / gson](https://github.com/google/gson) | 24,224 | A Java serialization/deserialization library to convert Java Objects into JSON and back |
+| 8 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,798 | Open Source Identity and Access Management For Modern Applications and Services |
+| 9 | [apache / maven](https://github.com/apache/maven) | 5,258 | Apache Maven core |
+| 10 | [google / guava](https://github.com/google/guava) | 51,531 | Google core libraries for Java |
+| 11 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,441 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 12 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 87,778 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 13 | [apache / cloudstack](https://github.com/apache/cloudstack) | 2,991 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
+| 14 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,610 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 15 | [termux / termux-app](https://github.com/termux/termux-app) | 57,997 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 16 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,745 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
+| 17 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 9,184 | An Application Framework for AI Engineering |
+| 18 | [apache / dubbo](https://github.com/apache/dubbo) | 41,541 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 19 | [apache / paimon](https://github.com/apache/paimon) | 3,347 | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
+| 20 | [googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) | 2,072 | Google Cloud Client Library for Java |
+| 21 | [awsdocs / aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) | 10,441 | Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. |
+| 22 | [apache / gravitino](https://github.com/apache/gravitino) | 3,117 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 23 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 66,041 | All Algorithms implemented in Java |
