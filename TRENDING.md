@@ -1,24 +1,23 @@
-# Top Trending Java Repositories - 2026-07-24
+# Top Trending Java Repositories - 2026-07-25
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 26,107 | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
-| 2 | [apache / gravitino](https://github.com/apache/gravitino) | 3,130 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 3 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39,095 | A libre lightweight streaming front-end for Android. |
-| 4 | [apache / rocketmq](https://github.com/apache/rocketmq) | 22,526 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 5 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,559 | An Open Standard for lineage metadata collection |
-| 6 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,078 | All Code of LLD Playlist |
-| 7 | [apache / camel](https://github.com/apache/camel) | 6,269 | Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0. |
-| 8 | [apache / iceberg](https://github.com/apache/iceberg) | 9,075 | Apache Iceberg |
-| 9 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,394 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
-| 10 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,114 | Free universal database tool and SQL client |
-| 11 | [IAMLZY2018 / XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) | 305 | 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流 |
-| 12 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,677 | Build distributed, production-grade, long-running agents. |
-| 13 | [hiero-ledger / hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) | 400 | Crypto, token, consensus, file, and smart contract services for a Hiero based network |
-| 14 | [apache / fluss](https://github.com/apache/fluss) | 2,003 | Apache Fluss is a streaming storage built for real-time analytics. |
-| 15 | [alibaba / fastjson2](https://github.com/alibaba/fastjson2) | 4,337 | 🚄 FASTJSON2 is a Java JSON library with excellent performance. |
-| 16 | [apache / accumulo](https://github.com/apache/accumulo) | 1,157 | Apache Accumulo |
-| 17 | [apache / storm](https://github.com/apache/storm) | 6,694 | Apache Storm |
-| 18 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 128,746 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 19 | [doocs / leetcode](https://github.com/doocs/leetcode) | 36,358 | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| 20 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 9,566 | MCP Server for Ghidra |
+| 1 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 26,385 | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 2 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,042 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 3 | [apache / gravitino](https://github.com/apache/gravitino) | 3,131 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 4 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 25,647 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 5 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,317 | A browser automation framework and ecosystem. |
+| 6 | [libgdx / libgdx](https://github.com/libgdx/libgdx) | 25,252 | Desktop/Android/HTML5/iOS Java game development framework |
+| 7 | [dataease / dataease](https://github.com/dataease/dataease) | 24,240 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 8 | [hazelcast / hazelcast](https://github.com/hazelcast/hazelcast) | 6,588 | Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights. |
+| 9 | [Earthcomputer / EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) | 1,287 | Cracking the XP seed in Minecraft and choosing your enchantments |
+| 10 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 39,895 | Learn System Design concepts and prepare for interviews using free resources. |
+| 11 | [Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) | 852 | An API/Schema registry - stores APIs and Schemas. |
+| 12 | [trinodb / trino](https://github.com/trinodb/trino) | 13,071 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 13 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,575 | Spring Security |
+| 14 | [questdb / questdb](https://github.com/questdb/questdb) | 17,204 | QuestDB is a high performance, open-source, time-series database |
+| 15 | [unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) | 3,465 | Open, Multi-modal Catalog for Data & AI |
+| 16 | [openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) | 1,879 | OpenMRS API and web application code |
+| 17 | [nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) | 6,677 | High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C. |
+| 18 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,255 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 19 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,615 | Automated mass refactoring of source code. |
