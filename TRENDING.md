@@ -1,25 +1,27 @@
-# Top Trending Java Repositories - 2026-07-30
+# Top Trending Java Repositories - 2026-07-31
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,379 | Design patterns implemented in Java |
-| 2 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,199 | Jenkins automation server |
-| 3 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 71,597 | Ghidra is a software reverse engineering (SRE) framework |
-| 4 | [alibaba / fastjson2](https://github.com/alibaba/fastjson2) | 4,362 | 🚄 FASTJSON2 is a Java JSON library with excellent performance. |
-| 5 | [apache / cassandra](https://github.com/apache/cassandra) | 10,037 | Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. |
-| 6 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 65,130 | Everything you need to know to get the job. |
-| 7 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,203 | Free universal database tool and SQL client |
-| 8 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 32,044 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents |
-| 9 | [Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) | 874 | An API/Schema registry - stores APIs and Schemas. |
-| 10 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,051 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 11 | [Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) | 2,884 | 基于 Spring Boot 4.1 + Java 21 + Spring AI 2.0 + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。 |
-| 12 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,413 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 13 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,719 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 14 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 4,796 | Build distributed, production-grade, long-running agents. |
-| 15 | [apache / fineract](https://github.com/apache/fineract) | 2,341 | Apache Fineract |
-| 16 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,148 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 17 | [debezium / debezium](https://github.com/debezium/debezium) | 12,962 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 18 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,795 | Quarkus: Supersonic Subatomic Java. |
-| 19 | [TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) | 2,560 | TrackerControl Android: monitor and control trackers and ads. |
-| 20 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,765 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 21 | [Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) | 325 | OCTO Android Client — Open-source enterprise IM |
+| 1 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,321 | Jenkins automation server |
+| 2 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,617 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 3 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,434 | Design patterns implemented in Java |
+| 4 | [alibaba / fastjson2](https://github.com/alibaba/fastjson2) | 4,372 | 🚄 FASTJSON2 is a Java JSON library with excellent performance. |
+| 5 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 65,141 | Everything you need to know to get the job. |
+| 6 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,191 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 7 | [xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | 2,445 | It's a Virtual Machine App for Android Which is Based on QEMU |
+| 8 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,495 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
+| 9 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,422 | 🔎 Open source distributed and RESTful search engine. |
+| 10 | [apache / maven](https://github.com/apache/maven) | 5,290 | Apache Maven core |
+| 11 | [halo-dev / halo](https://github.com/halo-dev/halo) | 39,432 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 12 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,223 | Free universal database tool and SQL client |
+| 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,623 | Free and Open Source, Distributed, RESTful Search Engine |
+| 14 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,519 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 15 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,916 | Open Source Identity and Access Management For Modern Applications and Services |
+| 16 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 71,644 | Ghidra is a software reverse engineering (SRE) framework |
+| 17 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,541 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
+| 18 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,146 | Spring Framework |
+| 19 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,408 | Universal File Online Preview Project based on Spring-Boot |
+| 20 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,427 | The automation tower defense RTS |
+| 21 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,797 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
+| 22 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 9,652 | MCP Server for Ghidra |
+| 23 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 31,647 | Browse media content with your own rules on Android TV |
