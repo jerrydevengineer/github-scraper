@@ -1,27 +1,25 @@
-# Top Trending Java Repositories - 2026-07-31
+# Top Trending Java Repositories - 2026-08-01
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,321 | Jenkins automation server |
-| 2 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,617 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 3 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,434 | Design patterns implemented in Java |
+| 1 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 10,151 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| 2 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,763 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
+| 3 | [crimera / piko](https://github.com/crimera/piko) | 4,513 | morphe patches for twitter and instagram |
 | 4 | [alibaba / fastjson2](https://github.com/alibaba/fastjson2) | 4,372 | 🚄 FASTJSON2 is a Java JSON library with excellent performance. |
-| 5 | [kdn251 / interviews](https://github.com/kdn251/interviews) | 65,141 | Everything you need to know to get the job. |
-| 6 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,191 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 7 | [xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | 2,445 | It's a Virtual Machine App for Android Which is Based on QEMU |
-| 8 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,495 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
-| 9 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,422 | 🔎 Open source distributed and RESTful search engine. |
-| 10 | [apache / maven](https://github.com/apache/maven) | 5,290 | Apache Maven core |
-| 11 | [halo-dev / halo](https://github.com/halo-dev/halo) | 39,432 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 12 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,223 | Free universal database tool and SQL client |
-| 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,623 | Free and Open Source, Distributed, RESTful Search Engine |
-| 14 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,519 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 15 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,916 | Open Source Identity and Access Management For Modern Applications and Services |
-| 16 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 71,644 | Ghidra is a software reverse engineering (SRE) framework |
-| 17 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,541 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 18 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,146 | Spring Framework |
-| 19 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,408 | Universal File Online Preview Project based on Spring-Boot |
-| 20 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,427 | The automation tower defense RTS |
-| 21 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 15,797 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
-| 22 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 9,652 | MCP Server for Ghidra |
-| 23 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 31,647 | Browse media content with your own rules on Android TV |
+| 5 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,502 | Design patterns implemented in Java |
+| 6 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,063 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 7 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 35,936 | Open Source Identity and Access Management For Modern Applications and Services |
+| 8 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 9,229 | An Application Framework for AI Engineering |
+| 9 | [langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) | 1,837 | No description available. |
+| 10 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 9,668 | MCP Server for Ghidra |
+| 11 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 3,392 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 12 | [grpc / grpc-java](https://github.com/grpc/grpc-java) | 12,056 | The Java gRPC implementation. HTTP/2 based RPC |
+| 13 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,427 | 🔎 Open source distributed and RESTful search engine. |
+| 14 | [xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) | 2,450 | It's a Virtual Machine App for Android Which is Based on QEMU |
+| 15 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,574 | An Open Standard for lineage metadata collection |
+| 16 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,620 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 17 | [apache / maven](https://github.com/apache/maven) | 5,292 | Apache Maven core |
+| 18 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,350 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 19 | [debezium / debezium](https://github.com/debezium/debezium) | 12,969 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 20 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,638 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
+| 21 | [apache / tika](https://github.com/apache/tika) | 3,920 | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
