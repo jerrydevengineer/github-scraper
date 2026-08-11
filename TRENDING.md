@@ -1,21 +1,22 @@
-# Top Trending Java Repositories - 2026-08-10
+# Top Trending Java Repositories - 2026-08-11
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [google / guava](https://github.com/google/guava) | 51,891 | Google core libraries for Java |
-| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 58,948 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 3 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 4,424 | [NeoForge Mod] Building Tools and Aesthetic Technology |
-| 4 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39,288 | A libre lightweight streaming front-end for Android. |
-| 5 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 72,156 | Ghidra is a software reverse engineering (SRE) framework |
-| 6 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,432 | The API and the developer guide for Shizuku and Sui. |
-| 7 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,712 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
-| 8 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,167 | Free implementation of Play Services |
-| 9 | [termux / termux-boot](https://github.com/termux/termux-boot) | 1,707 | Termux add-on app allowing programs to be run at boot. |
-| 10 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 8,990 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 11 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,557 | The automation tower defense RTS |
-| 12 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 32,068 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents |
-| 13 | [languagetool-org / languagetool](https://github.com/languagetool-org/languagetool) | 14,780 | Style and Grammar Checker for 25+ Languages |
-| 14 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,329 | LSPosed Framework |
-| 15 | [navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) | 1,300 | No description available. |
-| 16 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,842 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
-| 17 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,044 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
+| 1 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,450 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,743 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 59,010 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 4 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 13,298 | No clever tagline needed. |
+| 5 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,176 | Free implementation of Play Services |
+| 6 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,596 | An Open Standard for lineage metadata collection |
+| 7 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,165 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 8 | [fish2018 / webhtv](https://github.com/fish2018/webhtv) | 1,139 | WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。 |
+| 9 | [Audiveris / audiveris](https://github.com/Audiveris/audiveris) | 2,693 | Latest generation of Audiveris OMR engine |
+| 10 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,710 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
+| 11 | [hanxinhao000 / ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 2,891 | No description available. |
+| 12 | [booklore-app / booklore](https://github.com/booklore-app/booklore) | 813 | BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. |
+| 13 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39,302 | A libre lightweight streaming front-end for Android. |
+| 14 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 25,254 | A tool for reverse engineering Android apk files |
+| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,339 | LSPosed Framework |
+| 16 | [objectionary / eo](https://github.com/objectionary/eo) | 1,399 | EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus |
+| 17 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,436 | The API and the developer guide for Shizuku and Sui. |
+| 18 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,039 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
