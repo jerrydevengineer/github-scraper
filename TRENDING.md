@@ -1,22 +1,24 @@
-# Top Trending Java Repositories - 2026-08-11
+# Top Trending Java Repositories - 2026-08-12
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,450 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,743 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 59,010 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 4 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 13,298 | No clever tagline needed. |
-| 5 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,176 | Free implementation of Play Services |
-| 6 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,596 | An Open Standard for lineage metadata collection |
-| 7 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,165 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 8 | [fish2018 / webhtv](https://github.com/fish2018/webhtv) | 1,139 | WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。 |
-| 9 | [Audiveris / audiveris](https://github.com/Audiveris/audiveris) | 2,693 | Latest generation of Audiveris OMR engine |
-| 10 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,710 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
-| 11 | [hanxinhao000 / ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 2,891 | No description available. |
-| 12 | [booklore-app / booklore](https://github.com/booklore-app/booklore) | 813 | BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. |
-| 13 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39,302 | A libre lightweight streaming front-end for Android. |
-| 14 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 25,254 | A tool for reverse engineering Android apk files |
-| 15 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,339 | LSPosed Framework |
-| 16 | [objectionary / eo](https://github.com/objectionary/eo) | 1,399 | EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus |
-| 17 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,436 | The API and the developer guide for Shizuku and Sui. |
-| 18 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,039 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 1 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 27,939 | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| 2 | [mateaix / mateclaw](https://github.com/mateaix/mateclaw) | 936 | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba. |
+| 3 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,777 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 4 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 10,573 | Agentic AI Framework for Java Developers |
+| 5 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 3,118 | No description available. |
+| 6 | [freeok / so-novel](https://github.com/freeok/so-novel) | 7,690 | 小说下载｜网文下载 | 网络小说 |
+| 7 | [exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) | 8,212 | Leading free and open-source face recognition system |
+| 8 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,362 | A browser automation framework and ecosystem. |
+| 9 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,049 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
+| 10 | [micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) | 4,882 | An application observability facade for the most popular observability tools. Think SLF4J, but for observability. |
+| 11 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,201 | Spring Framework |
+| 12 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,597 | An Open Standard for lineage metadata collection |
+| 13 | [questdb / questdb](https://github.com/questdb/questdb) | 17,249 | QuestDB is a high performance, open-source, time-series database |
+| 14 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 12,845 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 15 | [elder-plinius / V3SP3R](https://github.com/elder-plinius/V3SP3R) | 1,367 | AI Flipper control |
+| 16 | [crimera / piko](https://github.com/crimera/piko) | 4,643 | morphe patches for twitter and instagram |
+| 17 | [freeplane / freeplane](https://github.com/freeplane/freeplane) | 4,290 | Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way. |
+| 18 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 25,264 | A tool for reverse engineering Android apk files |
+| 19 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,104 | google maps for block game |
+| 20 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,017 | Build distributed, production-grade, long-running agents. |
