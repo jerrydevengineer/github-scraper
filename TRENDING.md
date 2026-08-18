@@ -1,23 +1,21 @@
-# Top Trending Java Repositories - 2026-08-17
+# Top Trending Java Repositories - 2026-08-18
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [crimera / piko](https://github.com/crimera/piko) | 4,710 | morphe patches for twitter and instagram |
-| 2 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,212 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 3 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,910 | The main repository of Telegram X — official alternative Telegram client for Android. |
-| 4 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,606 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
-| 5 | [OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) | 102 | OWASP Foundation web repository |
-| 6 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,403 | LSPosed Framework |
-| 7 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,719 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
-| 8 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 3,176 | No description available. |
-| 9 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,176 | All Code of LLD Playlist |
-| 10 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 9,312 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 11 | [Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) | 530 | OCTO Android Client — Open-source enterprise IM |
-| 12 | [termux / termux-app](https://github.com/termux/termux-app) | 59,323 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 13 | [7723mod / NPatch](https://github.com/7723mod/NPatch) | 2,052 | NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架 |
-| 14 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,748 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
-| 15 | [ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) | 278 | an unofficial sts2 mobile launcher that support mods,optimized mobile control |
-| 16 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,606 | An unofficial rules engine for the world's greatest card game. |
-| 17 | [ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) | 1,397 | An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode. |
-| 18 | [doocs / leetcode](https://github.com/doocs/leetcode) | 36,464 | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| 19 | [apache / beam](https://github.com/apache/beam) | 8,644 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
+| 1 | [eddyizm / tempus](https://github.com/eddyizm/tempus) | 1,206 | An open source and lightweight music client for Subsonic, designed and built natively for Android. |
+| 2 | [crimera / piko](https://github.com/crimera/piko) | 4,740 | morphe patches for twitter and instagram |
+| 3 | [traccar / traccar](https://github.com/traccar/traccar) | 7,623 | Traccar GPS Tracking System |
+| 4 | [OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) | 113 | OWASP Foundation web repository |
+| 5 | [termux / termux-app](https://github.com/termux/termux-app) | 59,360 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 6 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 40,715 | Learn System Design concepts and prepare for interviews using free resources. |
+| 7 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,054 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
+| 8 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,201 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 9 | [apache / cassandra](https://github.com/apache/cassandra) | 10,070 | Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. |
+| 10 | [magefree / mage](https://github.com/magefree/mage) | 2,336 | XMage - Magic Another Game Engine |
+| 11 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,558 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 12 | [aklivity / zilla](https://github.com/aklivity/zilla) | 1,282 | 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP. |
+| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 32,011 | Browse media content with your own rules on Android TV |
+| 14 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 6,433 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
+| 15 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,645 | The automation tower defense RTS |
+| 16 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 4,899 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
+| 17 | [Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) | 550 | OCTO Android Client — Open-source enterprise IM |
