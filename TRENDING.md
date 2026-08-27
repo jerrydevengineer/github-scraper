@@ -1,23 +1,24 @@
-# Top Trending Java Repositories - 2026-08-26
+# Top Trending Java Repositories - 2026-08-27
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,763 | a fast, scalable, multi-language and extensible build system |
-| 2 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 90,424 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| 3 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,412 | Open Source Identity and Access Management For Modern Applications and Services |
-| 4 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,797 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 5 | [booklore-app / booklore](https://github.com/booklore-app/booklore) | 972 | BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. |
-| 6 | [skylot / jadx](https://github.com/skylot/jadx) | 50,212 | Dex to Java decompiler |
-| 7 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,213 | Spring Framework |
-| 8 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,847 | Quarkus: Supersonic Subatomic Java. |
-| 9 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,485 | IntelliJ IDEA & IntelliJ Platform |
-| 10 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,686 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 11 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,261 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 12 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 32,127 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents |
-| 13 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 72,800 | Ghidra is a software reverse engineering (SRE) framework |
-| 14 | [apache / camel](https://github.com/apache/camel) | 6,299 | Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0. |
-| 15 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,922 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 16 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,300 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 17 | [apache / ozone](https://github.com/apache/ozone) | 1,264 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
-| 18 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,605 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 19 | [Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) | 618 | OCTO Android Client — Open-source enterprise IM |
+| 1 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,413 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 2 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,592 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 3 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,314 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
+| 4 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 4,890 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
+| 5 | [apache / flink](https://github.com/apache/flink) | 26,294 | Apache Flink |
+| 6 | [YunaiV / yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 19,453 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| 7 | [OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) | 2,627 | An Open Standard for lineage metadata collection |
+| 8 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,830 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 9 | [airbnb / lottie-android](https://github.com/airbnb/lottie-android) | 35,712 | Render After Effects animations natively on Android and iOS, Web, and React Native |
+| 10 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,309 | Build distributed, production-grade, long-running agents. |
+| 11 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,444 | Open Source Identity and Access Management For Modern Applications and Services |
+| 12 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,400 | A browser automation framework and ecosystem. |
+| 13 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,372 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 14 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 27,934 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 15 | [doocs / leetcode](https://github.com/doocs/leetcode) | 36,514 | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| 16 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 11,117 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
+| 17 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,868 | Free and Open Source, Distributed, RESTful Search Engine |
+| 18 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 12,967 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 19 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,319 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 20 | [apache / iceberg](https://github.com/apache/iceberg) | 9,178 | Apache Iceberg |
