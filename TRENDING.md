@@ -1,25 +1,20 @@
-# Top Trending Java Repositories - 2026-09-03
+# Top Trending Java Repositories - 2026-09-04
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,701 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 2 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 9,525 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-| 3 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,607 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 4 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,219 | Spring Framework |
-| 5 | [TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39,575 | A libre lightweight streaming front-end for Android. |
-| 6 | [sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) | 2,728 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. |
-| 7 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 129,784 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 8 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,022 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 9 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,516 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 10 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,413 | Build distributed, production-grade, long-running agents. |
-| 11 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 10,453 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 12 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,010 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
-| 13 | [apache / kafka](https://github.com/apache/kafka) | 33,669 | Apache Kafka - A distributed event streaming platform |
-| 14 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,317 | JDK main-line development https://openjdk.org/projects/jdk |
-| 15 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 17,184 | Graphs for Everyone |
-| 16 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 32,170 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents |
-| 17 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 2,684 | 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。 |
-| 18 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,071 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 19 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,647 | 🔎 Open source distributed and RESTful search engine. |
-| 20 | [apereo / cas](https://github.com/apereo/cas) | 11,360 | Apereo CAS - Identity & Single Sign On for all earthlings and beyond. |
-| 21 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,126 | Learn System Design concepts and prepare for interviews using free resources. |
+| 1 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,524 | Digital logic design tool and simulator |
+| 2 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 10,457 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| 3 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 3,884 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
+| 4 | [jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) | 8,359 | 一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。 |
+| 5 | [freerouting / freerouting](https://github.com/freerouting/freerouting) | 1,933 | Advanced PCB auto-router |
+| 6 | [sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) | 2,739 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. |
+| 7 | [zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 5,778 | Jetbrains Claude Code and Codex GUI Plugin |
+| 8 | [testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8,730 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| 9 | [micronaut-projects / micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6,424 | Micronaut Application Framework |
+| 10 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,830 | The automation tower defense RTS |
+| 11 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 4,969 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
+| 12 | [Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) | 137 | No description available. |
+| 13 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,571 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 14 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,431 | Build distributed, production-grade, long-running agents. |
+| 15 | [Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3,227 | A lightweight keyboard for Android |
+| 16 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,616 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
