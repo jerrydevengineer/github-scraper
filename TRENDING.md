@@ -1,26 +1,26 @@
-# Top Trending Java Repositories - 2026-09-06
+# Top Trending Java Repositories - 2026-09-07
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,107 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 2 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,657 | Design patterns implemented in Java |
-| 3 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,294 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 4 | [zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) | 1,503 | Magic tool for pentest from your android device! |
-| 5 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,523 | IntelliJ IDEA & IntelliJ Platform |
-| 6 | [spring-ai-alibaba / DataAgent](https://github.com/spring-ai-alibaba/DataAgent) | 2,610 | Spring AI Alibaba DataAgent |
-| 7 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,527 | Digital logic design tool and simulator |
-| 8 | [netty / netty](https://github.com/netty/netty) | 35,045 | Netty project - an event-driven asynchronous network application framework |
-| 9 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,675 | Free universal database tool and SQL client |
-| 10 | [MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) | 8,902 | A full-featured package manager and viewer for Android |
-| 11 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 6,482 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
-| 12 | [termux / termux-app](https://github.com/termux/termux-app) | 60,385 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 13 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 3,901 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 14 | [termux / termux-api](https://github.com/termux/termux-api) | 4,266 | Termux add-on app which exposes device functionality as API to command line programs. |
-| 15 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 2,697 | 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。 |
-| 16 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,723 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 17 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 968 | A Minecraft: Java Edition launcher, based on PojavLauncher |
-| 18 | [zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 5,843 | Jetbrains Claude Code and Codex GUI Plugin |
-| 19 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 129,896 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 20 | [trinodb / trino](https://github.com/trinodb/trino) | 13,207 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 21 | [alibaba / nacos](https://github.com/alibaba/nacos) | 33,348 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. |
-| 22 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 66,218 | All Algorithms implemented in Java |
+| 1 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,666 | Design patterns implemented in Java |
+| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 60,443 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 3 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,679 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 4 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,518 | The API and the developer guide for Shizuku and Sui. |
+| 5 | [termux / termux-api](https://github.com/termux/termux-api) | 4,272 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 6 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,725 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 7 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,930 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 8 | [crimera / piko](https://github.com/crimera/piko) | 5,141 | morphe patches for twitter and instagram |
+| 9 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,639 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 10 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,997 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 11 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 32,660 | Browse media content with your own rules on Android TV |
+| 12 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 4,492 | [NeoForge Mod] Building Tools and Aesthetic Technology |
+| 13 | [Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3,234 | A lightweight keyboard for Android |
+| 14 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,695 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
+| 15 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 969 | A Minecraft: Java Edition launcher, based on PojavLauncher |
+| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,187 | google maps for block game |
+| 17 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,636 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 18 | [jishenghua / jshERP](https://github.com/jishenghua/jshERP) | 4,560 | 管伊佳ERP（原名华夏ERP）基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。 |
+| 19 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,944 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
+| 20 | [SlimeKnights / TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct) | 1,403 | Tinker a little, build a little, tinker a little more... |
+| 21 | [skylot / jadx](https://github.com/skylot/jadx) | 50,364 | Dex to Java decompiler |
+| 22 | [zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) | 1,517 | Magic tool for pentest from your android device! |
