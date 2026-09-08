@@ -1,26 +1,23 @@
-# Top Trending Java Repositories - 2026-09-07
+# Top Trending Java Repositories - 2026-09-08
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,666 | Design patterns implemented in Java |
-| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 60,443 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 3 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,679 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 4 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,518 | The API and the developer guide for Shizuku and Sui. |
-| 5 | [termux / termux-api](https://github.com/termux/termux-api) | 4,272 | Termux add-on app which exposes device functionality as API to command line programs. |
-| 6 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,725 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 7 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,930 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
-| 8 | [crimera / piko](https://github.com/crimera/piko) | 5,141 | morphe patches for twitter and instagram |
-| 9 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,639 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 10 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 28,997 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 11 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 32,660 | Browse media content with your own rules on Android TV |
-| 12 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 4,492 | [NeoForge Mod] Building Tools and Aesthetic Technology |
-| 13 | [Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) | 3,234 | A lightweight keyboard for Android |
-| 14 | [JabRef / jabref](https://github.com/JabRef/jabref) | 4,695 | Desktop app for managing BibTeX and BibLaTeX (.bib) libraries |
-| 15 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 969 | A Minecraft: Java Edition launcher, based on PojavLauncher |
-| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,187 | google maps for block game |
-| 17 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,636 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 18 | [jishenghua / jshERP](https://github.com/jishenghua/jshERP) | 4,560 | 管伊佳ERP（原名华夏ERP）基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。 |
-| 19 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,944 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
-| 20 | [SlimeKnights / TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct) | 1,403 | Tinker a little, build a little, tinker a little more... |
-| 21 | [skylot / jadx](https://github.com/skylot/jadx) | 50,364 | Dex to Java decompiler |
-| 22 | [zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) | 1,517 | Magic tool for pentest from your android device! |
+| 1 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,961 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 2 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,016 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 3 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,655 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
+| 4 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 13,473 | No clever tagline needed. |
+| 5 | [termux / termux-app](https://github.com/termux/termux-app) | 60,486 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 6 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 25,496 | A tool for reverse engineering Android apk files |
+| 7 | [termux / termux-api](https://github.com/termux/termux-api) | 4,279 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 8 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,750 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
+| 9 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,498 | Free implementation of Play Services |
+| 10 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 29,837 | Telegram for Android source |
+| 11 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,624 | LSPosed Framework |
+| 12 | [beemdevelopment / Aegis](https://github.com/beemdevelopment/Aegis) | 13,038 | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| 13 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 10,022 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
+| 14 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 32,685 | Browse media content with your own rules on Android TV |
+| 15 | [karma9874 / AndroRAT](https://github.com/karma9874/AndroRAT) | 5,091 | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| 16 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,356 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,650 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 18 | [libgdx / libgdx](https://github.com/libgdx/libgdx) | 25,378 | Desktop/Android/HTML5/iOS Java game development framework |
+| 19 | [Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) | 156 | No description available. |
