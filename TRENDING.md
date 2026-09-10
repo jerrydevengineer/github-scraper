@@ -1,24 +1,22 @@
-# Top Trending Java Repositories - 2026-09-09
+# Top Trending Java Repositories - 2026-09-10
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / fineract](https://github.com/apache/fineract) | 2,467 | Apache Fineract |
-| 2 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,304 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 3 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,506 | Build distributed, production-grade, long-running agents. |
-| 4 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,955 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
-| 5 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 91,573 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| 6 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 7,582 | A rewrite of Tachiyomi for the Desktop |
-| 7 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 10,821 | Agentic AI Framework for Java Developers |
-| 8 | [alibaba / DataX](https://github.com/alibaba/DataX) | 17,346 | DataX是阿里云DataWorks数据集成的开源版本。 |
-| 9 | [termux / termux-app](https://github.com/termux/termux-app) | 60,543 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 10 | [AutoMQ / automq](https://github.com/AutoMQ/automq) | 10,667 | Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. |
-| 11 | [trinodb / trino](https://github.com/trinodb/trino) | 13,213 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 12 | [runelite / runelite](https://github.com/runelite/runelite) | 5,454 | Open source Old School RuneScape client |
-| 13 | [mateaix / mateclaw](https://github.com/mateaix/mateclaw) | 1,095 | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba. |
-| 14 | [zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 6,002 | Jetbrains Claude Code and Codex GUI Plugin |
-| 15 | [iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) | 4,761 | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows. |
-| 16 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,671 | Design patterns implemented in Java |
-| 17 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,626 | Spring Security |
-| 18 | [quarkusio / quarkus](https://github.com/quarkusio/quarkus) | 15,876 | Quarkus: Supersonic Subatomic Java. |
-| 19 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 3,370 | No description available. |
-| 20 | [shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) | 2,948 | The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021. |
+| 1 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 28,940 | The automation tower defense RTS |
+| 2 | [apache / fineract](https://github.com/apache/fineract) | 2,468 | Apache Fineract |
+| 3 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 28,066 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 4 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 91,631 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 5 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,285 | Learn System Design concepts and prepare for interviews using free resources. |
+| 6 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,254 | All Code of LLD Playlist |
+| 7 | [fish2018 / webhtv](https://github.com/fish2018/webhtv) | 1,384 | WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。 |
+| 8 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 13,485 | No clever tagline needed. |
+| 9 | [alibaba / arthas](https://github.com/alibaba/arthas) | 37,527 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
+| 10 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,058 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 11 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,089 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 12 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,970 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
+| 13 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 74,713 | Ghidra is a software reverse engineering (SRE) framework |
+| 14 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,693 | Open Source Identity and Access Management For Modern Applications and Services |
+| 15 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 26,696 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 16 | [apache / fesod](https://github.com/apache/fesod) | 6,203 | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. |
+| 17 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 66,235 | All Algorithms implemented in Java |
+| 18 | [tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) | 5,072 | SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms. |
