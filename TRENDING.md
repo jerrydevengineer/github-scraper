@@ -1,23 +1,24 @@
-# Top Trending Java Repositories - 2026-09-12
+# Top Trending Java Repositories - 2026-09-13
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 33,045 | Browse media content with your own rules on Android TV |
-| 2 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 74,845 | Ghidra is a software reverse engineering (SRE) framework |
-| 3 | [apache / flink](https://github.com/apache/flink) | 26,333 | Apache Flink |
-| 4 | [AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) | 1,317 | No description available. |
-| 5 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,730 | Open Source Identity and Access Management For Modern Applications and Services |
-| 6 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,352 | Learn System Design concepts and prepare for interviews using free resources. |
-| 7 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 28,094 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 8 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,573 | Build distributed, production-grade, long-running agents. |
-| 9 | [iflytek / astron-agent](https://github.com/iflytek/astron-agent) | 8,991 | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. |
-| 10 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,547 | Free implementation of Play Services |
-| 11 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 10,471 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 12 | [spring-projects / spring-security](https://github.com/spring-projects/spring-security) | 9,626 | Spring Security |
-| 13 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 8,145 | A podcast manager for Android |
-| 14 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,100 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 15 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 51,735 | Free universal database tool and SQL client |
-| 16 | [apache / doris](https://github.com/apache/doris) | 15,889 | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
-| 17 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,100 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
-| 18 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,837 | a fast, scalable, multi-language and extensible build system |
-| 19 | [ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) | 1,150 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings. |
+| 1 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 33,252 | Browse media content with your own rules on Android TV |
+| 2 | [apache / doris](https://github.com/apache/doris) | 15,898 | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
+| 3 | [sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) | 2,875 | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. |
+| 4 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,347 | JDK main-line development https://openjdk.org/projects/jdk |
+| 5 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,541 | Jenkins automation server |
+| 6 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,372 | Learn System Design concepts and prepare for interviews using free resources. |
+| 7 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,580 | Build distributed, production-grade, long-running agents. |
+| 8 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 28,099 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 9 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,746 | Open Source Identity and Access Management For Modern Applications and Services |
+| 10 | [hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) | 6,472 | Idiomatic persistence for Java and relational databases |
+| 11 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,553 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 12 | [apache / gravitino](https://github.com/apache/gravitino) | 3,218 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
+| 13 | [osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) | 5,995 | OsmAnd |
+| 14 | [bazelbuild / bazel](https://github.com/bazelbuild/bazel) | 25,842 | a fast, scalable, multi-language and extensible build system |
+| 15 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,704 | 🔎 Open source distributed and RESTful search engine. |
+| 16 | [trinodb / trino](https://github.com/trinodb/trino) | 13,225 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 17 | [apache / iceberg](https://github.com/apache/iceberg) | 9,228 | Apache Iceberg |
+| 18 | [Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 91,853 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 19 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,643 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 20 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,425 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
