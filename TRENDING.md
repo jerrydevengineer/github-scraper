@@ -1,24 +1,23 @@
-# Top Trending Java Repositories - 2026-09-19
+# Top Trending Java Repositories - 2026-09-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78,943 | Ghidra is a software reverse engineering (SRE) framework |
-| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,859 | Open Source Identity and Access Management For Modern Applications and Services |
-| 3 | [apache / doris](https://github.com/apache/doris) | 15,963 | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
-| 4 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,472 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 5 | [booklore-app / booklore](https://github.com/booklore-app/booklore) | 1,222 | BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. |
-| 6 | [GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) | 5,800 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
-| 7 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 130,269 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 8 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,600 | Digital logic design tool and simulator |
-| 9 | [neo4j / neo4j](https://github.com/neo4j/neo4j) | 17,244 | Graphs for Everyone |
-| 10 | [OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,753 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) |
-| 11 | [apache / fineract](https://github.com/apache/fineract) | 2,493 | Apache Fineract |
-| 12 | [rstudio / rstudio](https://github.com/rstudio/rstudio) | 5,070 | RStudio is an integrated development environment (IDE) for R |
-| 13 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,329 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 14 | [halo-dev / halo](https://github.com/halo-dev/halo) | 39,813 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 15 | [apache / iceberg](https://github.com/apache/iceberg) | 9,251 | Apache Iceberg |
-| 16 | [ViaVersion / ViaVersion](https://github.com/ViaVersion/ViaVersion) | 1,634 | Allows of newer clients to connect to older server versions for Minecraft servers. |
-| 17 | [nageoffer / ragent](https://github.com/nageoffer/ragent) | 4,059 | 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 |
-| 18 | [trinodb / trino](https://github.com/trinodb/trino) | 13,254 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 19 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,710 | An unofficial rules engine for the world's greatest card game. |
-| 20 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,934 | Free and Open Source, Distributed, RESTful Search Engine |
+| 1 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 5,994 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 2 | [fish2018 / webhtv](https://github.com/fish2018/webhtv) | 1,503 | WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。 |
+| 3 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,473 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 4 | [traccar / traccar](https://github.com/traccar/traccar) | 7,776 | Open source GPS tracking platform - self-hosted or managed, 200+ device protocols |
+| 5 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,251 | Spring Framework |
+| 6 | [bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) | 3,919 | Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. |
+| 7 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,703 | Build distributed, production-grade, long-running agents. |
+| 8 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 24,753 | LSPosed Framework |
+| 9 | [1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) | 2,730 | 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。 |
+| 10 | [apache / maven](https://github.com/apache/maven) | 5,352 | Apache Maven core |
+| 11 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,224 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 12 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,876 | Open Source Identity and Access Management For Modern Applications and Services |
+| 13 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,940 | Free and Open Source, Distributed, RESTful Search Engine |
+| 14 | [apache / doris](https://github.com/apache/doris) | 15,969 | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
+| 15 | [trinodb / trino](https://github.com/trinodb/trino) | 13,258 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
+| 16 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,162 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support. |
+| 17 | [CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) | 5,773 | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter |
+| 18 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 130,297 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 19 | [apache / ozone](https://github.com/apache/ozone) | 1,299 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
