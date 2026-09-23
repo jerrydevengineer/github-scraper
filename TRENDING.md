@@ -1,22 +1,19 @@
-# Top Trending Java Repositories - 2026-09-22
+# Top Trending Java Repositories - 2026-09-23
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,854 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,616 | Learn System Design concepts and prepare for interviews using free resources. |
-| 3 | [emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | 4,794 | No-root network monitor, firewall and PCAP dumper for Android |
-| 4 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,734 | Build distributed, production-grade, long-running agents. |
-| 5 | [Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | 2,300 | Update for SPatch nightly |
-| 6 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,234 | google maps for block game |
-| 7 | [kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) | 1,956 | TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
-| 8 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 29,070 | The automation tower defense RTS |
-| 9 | [PojavLauncherTeam / PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) | 9,383 | A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android |
-| 10 | [PhilJay / MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 38,170 | A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. |
-| 11 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,574 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 12 | [osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) | 6,033 | OsmAnd |
-| 13 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,582 | IntelliJ IDEA & IntelliJ Platform |
-| 14 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,637 | Digital logic design tool and simulator |
-| 15 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 5,142 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 16 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,174 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support. |
-| 17 | [IrisShaders / Iris](https://github.com/IrisShaders/Iris) | 3,846 | A modern shaders mod for Minecraft compatible with existing OptiFine shader packs |
-| 18 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 6,007 | The main repository of Telegram X — official alternative Telegram client for Android. |
+| 1 | [dataease / dataease](https://github.com/dataease/dataease) | 24,540 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 2 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 41,668 | Learn System Design concepts and prepare for interviews using free resources. |
+| 3 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 28,277 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 4 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,464 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| 5 | [aeron-io / aeron](https://github.com/aeron-io/aeron) | 8,888 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
+| 6 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,185 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support. |
+| 7 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 77,965 | Free and Open Source, Distributed, RESTful Search Engine |
+| 8 | [Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) | 2,302 | Update for SPatch nightly |
+| 9 | [kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) | 14,723 | Universal File Online Preview Project based on Spring-Boot |
+| 10 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 36,950 | Open Source Identity and Access Management For Modern Applications and Services |
+| 11 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,726 | An unofficial rules engine for the world's greatest card game. |
+| 12 | [termux / termux-api](https://github.com/termux/termux-api) | 4,357 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 13 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,138 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 14 | [Stonewuu / ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) | 1,518 | 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0. |
+| 15 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,575 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
