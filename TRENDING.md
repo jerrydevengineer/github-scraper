@@ -1,21 +1,21 @@
-# Top Trending Java Repositories - 2026-10-01
+# Top Trending Java Repositories - 2026-10-02
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,797 | 🔎 Open source distributed and RESTful search engine. |
-| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 28,567 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 3 | [SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) | 34,525 | A browser automation framework and ecosystem. |
-| 4 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,078 | Open Source Identity and Access Management For Modern Applications and Services |
-| 5 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,716 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 6 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,600 | IntelliJ IDEA & IntelliJ Platform |
-| 7 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,170 | Free and Open Source, Distributed, RESTful Search Engine |
-| 8 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 5,197 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 9 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 16,226 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
-| 10 | [debezium / debezium](https://github.com/debezium/debezium) | 13,173 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 11 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,537 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 12 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,682 | Digital logic design tool and simulator |
-| 13 | [AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) | 1,378 | No description available. |
-| 14 | [ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | 17,945 | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. |
-| 15 | [ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) | 411 | an unofficial sts2 mobile launcher that support mods,optimized mobile control |
-| 16 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,185 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
-| 17 | [nroduit / Weasis](https://github.com/nroduit/Weasis) | 1,371 | Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration. |
+| 1 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,093 | Open Source Identity and Access Management For Modern Applications and Services |
+| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 28,727 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 3 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,453 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 4 | [zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) | 115 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access. |
+| 5 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13,800 | 🔎 Open source distributed and RESTful search engine. |
+| 6 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 9,507 | An Application Framework for AI Engineering |
+| 7 | [woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) | 3,535 | No description available. |
+| 8 | [apache / fineract](https://github.com/apache/fineract) | 2,522 | Apache Fineract |
+| 9 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 7,787 | A rewrite of Tachiyomi for the Desktop |
+| 10 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,192 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 11 | [questdb / questdb](https://github.com/questdb/questdb) | 17,403 | QuestDB is a high performance, open-source, time-series database |
+| 12 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,267 | Spring Framework |
+| 13 | [AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) | 1,381 | No description available. |
+| 14 | [Azure / azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | 2,563 | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. |
+| 15 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,501 | All-in-one IoT Platform - Device management, data collection, processing and visualization. |
+| 16 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,182 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
+| 17 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,257 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
