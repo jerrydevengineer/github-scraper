@@ -1,20 +1,23 @@
-# Top Trending Java Repositories - 2026-10-16
+# Top Trending Java Repositories - 2026-10-17
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 88,981 | Ghidra is a software reverse engineering (SRE) framework |
-| 2 | [skylot / jadx](https://github.com/skylot/jadx) | 50,991 | Dex to Java decompiler |
-| 3 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,288 | Learn System Design concepts and prepare for interviews using free resources. |
-| 4 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5,999 | Build distributed, production-grade, long-running agents. |
-| 5 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 130,753 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| 6 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 39,829 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 7 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 5,226 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 8 | [dataease / dataease](https://github.com/dataease/dataease) | 24,613 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 9 | [termux / termux-app](https://github.com/termux/termux-app) | 62,707 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 10 | [spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) | 9,540 | An Application Framework for AI Engineering |
-| 11 | [apache / cloudstack](https://github.com/apache/cloudstack) | 3,103 | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform |
-| 12 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,673 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 13 | [apache / kafka](https://github.com/apache/kafka) | 33,992 | Apache Kafka - A distributed event streaming platform |
-| 14 | [OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,317 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support. |
-| 15 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 29,635 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 16 | [apache / calcite](https://github.com/apache/calcite) | 5,193 | Apache Calcite |
+| 1 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 89,737 | Ghidra is a software reverse engineering (SRE) framework |
+| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,404 | Open Source Identity and Access Management For Modern Applications and Services |
+| 3 | [yash-srivastava / Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) | 366 | Advanced Sentry Mode for BYD Vehicles |
+| 4 | [bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) | 2,399 | Android VNC remote desktop server for local networks |
+| 5 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,444 | Learn System Design concepts and prepare for interviews using free resources. |
+| 6 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,740 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 7 | [zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 2,908 | Plugin for JADX to integrate MCP server |
+| 8 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 5,235 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
+| 9 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 29,663 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 10 | [zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 7,049 | Jetbrains Claude Code and Codex GUI Plugin |
+| 11 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,566 | All-in-one IoT Platform - Device management, data collection, processing and visualization. |
+| 12 | [freeok / so-novel](https://github.com/freeok/so-novel) | 8,605 | 小说下载｜网文下载 | 网络小说 |
+| 13 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,733 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 14 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,376 | All Code of LLD Playlist |
+| 15 | [debezium / debezium](https://github.com/debezium/debezium) | 13,233 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 16 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,292 | Spring Framework |
+| 17 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,299 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 18 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,183 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 19 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,365 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
