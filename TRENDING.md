@@ -1,20 +1,19 @@
-# Top Trending Java Repositories - 2026-10-19
+# Top Trending Java Repositories - 2026-10-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [termux / termux-app](https://github.com/termux/termux-app) | 62,937 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 2 | [AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | 303 | Dual pane Android file manager with focus on APKs |
-| 3 | [PaperMC / Paper](https://github.com/PaperMC/Paper) | 12,742 | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
-| 4 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,553 | Learn System Design concepts and prepare for interviews using free resources. |
-| 5 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,667 | The API and the developer guide for Shizuku and Sui. |
-| 6 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,920 | Free implementation of Play Services |
-| 7 | [freeok / so-novel](https://github.com/freeok/so-novel) | 8,679 | 小说下载｜网文下载 | 网络小说 |
-| 8 | [apache / shenyu](https://github.com/apache/shenyu) | 8,892 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. |
-| 9 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 35,140 | Browse media content with your own rules on Android TV |
-| 10 | [MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) | 3,949 | Based Minecraft utility mod. |
-| 11 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 4,972 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 12 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 27,452 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 13 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 30,113 | Telegram for Android source |
-| 14 | [Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 7,899 | A rewrite of Tachiyomi for the Desktop |
-| 15 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,533 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 16 | [yash-srivastava / Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) | 373 | Advanced Sentry Mode for BYD Vehicles |
+| 1 | [iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) | 26,250 | A tool for reverse engineering Android apk files |
+| 2 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 29,896 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 3 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,540 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 4 | [termux / termux-app](https://github.com/termux/termux-app) | 63,011 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 5 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,319 | Free and Open Source, Distributed, RESTful Search Engine |
+| 6 | [freeok / so-novel](https://github.com/freeok/so-novel) | 8,691 | 小说下载｜网文下载 | 网络小说 |
+| 7 | [microg / GmsCore](https://github.com/microg/GmsCore) | 14,934 | Free implementation of Play Services |
+| 8 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 3,167 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
+| 9 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 1,044 | A Minecraft: Java Edition launcher, based on PojavLauncher |
+| 10 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,316 | google maps for block game |
+| 11 | [zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) | 254 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access. |
+| 12 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 52,142 | Free universal database tool and SQL client |
+| 13 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,671 | The API and the developer guide for Shizuku and Sui. |
+| 14 | [IrisShaders / Iris](https://github.com/IrisShaders/Iris) | 3,875 | A modern shaders mod for Minecraft compatible with existing OptiFine shader packs |
+| 15 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,819 | An unofficial rules engine for the world's greatest card game. |
