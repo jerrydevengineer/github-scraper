@@ -1,20 +1,16 @@
-# Top Trending Java Repositories - 2026-10-25
+# Top Trending Java Repositories - 2026-10-26
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [apache / gravitino](https://github.com/apache/gravitino) | 3,322 | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. |
-| 2 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,991 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 3 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,369 | Free and Open Source, Distributed, RESTful Search Engine |
-| 4 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,808 | Learn System Design concepts and prepare for interviews using free resources. |
-| 5 | [halo-dev / halo](https://github.com/halo-dev/halo) | 39,997 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 6 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 16,024 | The ZAP by Checkmarx Core project |
-| 7 | [648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 7,384 | 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。 |
-| 8 | [apache / flink](https://github.com/apache/flink) | 26,424 | Apache Flink |
-| 9 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 5,283 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 10 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,658 | IntelliJ IDEA & IntelliJ Platform |
-| 11 | [apache / tomcat](https://github.com/apache/tomcat) | 8,262 | Apache Tomcat |
-| 12 | [crimera / piko](https://github.com/crimera/piko) | 5,757 | morphe patches for twitter and instagram |
-| 13 | [floci-io / floci](https://github.com/floci-io/floci) | 27,102 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 14 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 24,050 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
-| 15 | [flowable / flowable-engine](https://github.com/flowable/flowable-engine) | 9,620 | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
-| 16 | [apache / kafka](https://github.com/apache/kafka) | 34,115 | Apache Kafka - A distributed event streaming platform |
+| 1 | [crimera / piko](https://github.com/crimera/piko) | 5,785 | morphe patches for twitter and instagram |
+| 2 | [apache / camel](https://github.com/apache/camel) | 6,380 | Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0. |
+| 3 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,662 | IntelliJ IDEA & IntelliJ Platform |
+| 4 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 35,546 | Browse media content with your own rules on Android TV |
+| 5 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 30,163 | Telegram for Android source |
+| 6 | [apache / pulsar](https://github.com/apache/pulsar) | 15,355 | Apache Pulsar - distributed pub-sub messaging system |
+| 7 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 8,248 | A podcast manager for Android |
+| 8 | [AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | 403 | Dual pane Android file manager with focus on APKs |
+| 9 | [Card-Forge / forge](https://github.com/Card-Forge/forge) | 2,848 | An unofficial rules engine for the world's greatest card game. |
+| 10 | [krahets / hello-algo](https://github.com/krahets/hello-algo) | 131,217 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| 11 | [OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) | 12,071 | OpenRefine is a free, open source power tool for working with messy data and improving it |
+| 12 | [checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) | 9,621 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
