@@ -1,19 +1,20 @@
-# Top Trending Java Repositories - 2026-11-01
+# Top Trending Java Repositories - 2026-11-02
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [floci-io / floci](https://github.com/floci-io/floci) | 27,465 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,622 | Open Source Identity and Access Management For Modern Applications and Services |
-| 3 | [github / copilot-sdk](https://github.com/github/copilot-sdk) | 10,646 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 4 | [apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14,549 | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code |
-| 5 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 66,694 | All Algorithms implemented in Java |
-| 6 | [freerouting / freerouting](https://github.com/freerouting/freerouting) | 2,161 | Advanced PCB auto-router |
-| 7 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 13,832 | No clever tagline needed. |
-| 8 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,222 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 9 | [skylot / jadx](https://github.com/skylot/jadx) | 51,429 | Dex to Java decompiler |
-| 10 | [emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | 5,034 | No-root network monitor, firewall and PCAP dumper for Android |
-| 11 | [openrewrite / rewrite](https://github.com/openrewrite/rewrite) | 3,837 | Automated mass refactoring of source code. |
-| 12 | [cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) | 16,402 | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. |
-| 13 | [apache / doris](https://github.com/apache/doris) | 16,161 | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
-| 14 | [conductor-oss / conductor](https://github.com/conductor-oss/conductor) | 32,398 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents |
-| 15 | [termux / termux-app](https://github.com/termux/termux-app) | 63,855 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 1 | [floci-io / floci](https://github.com/floci-io/floci) | 27,602 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 63,924 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 3 | [LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) | 9,450 | LSPatch: A non-root Xposed framework extending from LSPosed |
+| 4 | [zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) | 295 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access. |
+| 5 | [appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) | 535 | Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All. |
+| 6 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,727 | The API and the developer guide for Shizuku and Sui. |
+| 7 | [kunal-kushwaha / DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 24,095 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. |
+| 8 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 5,125 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 9 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,452 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
+| 10 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,457 | Free and Open Source, Distributed, RESTful Search Engine |
+| 11 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 35,830 | Browse media content with your own rules on Android TV |
+| 12 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 3,314 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
+| 13 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,160 | Free implementation of Play Services |
+| 14 | [termux / termux-api](https://github.com/termux/termux-api) | 4,573 | Termux add-on app which exposes device functionality as API to command line programs. |
+| 15 | [emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | 5,044 | No-root network monitor, firewall and PCAP dumper for Android |
+| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,334 | google maps for block game |
