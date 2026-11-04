@@ -1,23 +1,23 @@
-# Top Trending Java Repositories - 2026-11-03
+# Top Trending Java Repositories - 2026-11-04
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [floci-io / floci](https://github.com/floci-io/floci) | 28,027 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 2 | [termux / termux-app](https://github.com/termux/termux-app) | 63,990 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 3 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,461 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 4 | [termux / termux-api](https://github.com/termux/termux-api) | 4,582 | Termux add-on app which exposes device functionality as API to command line programs. |
-| 5 | [mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) | 644 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی |
-| 6 | [LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) | 672 | A launcher designed for Minecraft Bedrock Edition on Android |
-| 7 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,424 | All Code of LLD Playlist |
-| 8 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 5,127 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
-| 9 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,639 | HyperOS enhancement module - Make HyperOS Great Again! |
-| 10 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,736 | The API and the developer guide for Shizuku and Sui. |
-| 11 | [Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) | 1,091 | A fork of NagramX with additional features. |
-| 12 | [debezium / debezium](https://github.com/debezium/debezium) | 13,308 | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 13 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,173 | Free implementation of Play Services |
-| 14 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 25,311 | LSPosed Framework |
-| 15 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 3,347 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
-| 16 | [AndroidCSOfficial / android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) | 1,388 | Android Code Studio is an IDE for Android to develop full featured Android apps. |
-| 17 | [emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | 5,059 | No-root network monitor, firewall and PCAP dumper for Android |
-| 18 | [jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) | 1,154 | Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories. |
-| 19 | [JetBrains / intellij-community](https://github.com/JetBrains/intellij-community) | 20,705 | IntelliJ IDEA & IntelliJ Platform |
+| 1 | [floci-io / floci](https://github.com/floci-io/floci) | 29,056 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 2 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 97,619 | Ghidra is a software reverse engineering (SRE) framework |
+| 3 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,510 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
+| 4 | [floci-io / floci-az](https://github.com/floci-io/floci-az) | 841 | Light, fluffy, and always free - Local Azure Emulator |
+| 5 | [skylot / jadx](https://github.com/skylot/jadx) | 51,571 | Dex to Java decompiler |
+| 6 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,762 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| 7 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 6,241 | Build distributed, production-grade, long-running agents. |
+| 8 | [apache / iceberg](https://github.com/apache/iceberg) | 9,405 | Apache Iceberg |
+| 9 | [termux / termux-app](https://github.com/termux/termux-app) | 64,056 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 10 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 11,753 | MCP Server for Ghidra |
+| 11 | [zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 7,472 | Jetbrains Claude Code and Codex GUI Plugin |
+| 12 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,691 | Open Source Identity and Access Management For Modern Applications and Services |
+| 13 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 3,370 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
+| 14 | [kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) | 2,122 | TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
+| 15 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,425 | All Code of LLD Playlist |
+| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,340 | google maps for block game |
+| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 27,737 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 18 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 11,737 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
+| 19 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,183 | Free implementation of Play Services |
