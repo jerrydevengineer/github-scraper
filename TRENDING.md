@@ -1,23 +1,23 @@
-# Top Trending Java Repositories - 2026-11-04
+# Top Trending Java Repositories - 2026-11-05
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [floci-io / floci](https://github.com/floci-io/floci) | 29,056 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 2 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 97,619 | Ghidra is a software reverse engineering (SRE) framework |
-| 3 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,510 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
-| 4 | [floci-io / floci-az](https://github.com/floci-io/floci-az) | 841 | Light, fluffy, and always free - Local Azure Emulator |
-| 5 | [skylot / jadx](https://github.com/skylot/jadx) | 51,571 | Dex to Java decompiler |
-| 6 | [modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3,762 | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
-| 7 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 6,241 | Build distributed, production-grade, long-running agents. |
-| 8 | [apache / iceberg](https://github.com/apache/iceberg) | 9,405 | Apache Iceberg |
-| 9 | [termux / termux-app](https://github.com/termux/termux-app) | 64,056 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 10 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 11,753 | MCP Server for Ghidra |
-| 11 | [zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | 7,472 | Jetbrains Claude Code and Codex GUI Plugin |
-| 12 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,691 | Open Source Identity and Access Management For Modern Applications and Services |
-| 13 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 3,370 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
-| 14 | [kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) | 2,122 | TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
-| 15 | [adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) | 1,425 | All Code of LLD Playlist |
-| 16 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,340 | google maps for block game |
-| 17 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 27,737 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 18 | [ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) | 11,737 | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 |
-| 19 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,183 | Free implementation of Play Services |
+| 1 | [floci-io / floci](https://github.com/floci-io/floci) | 29,838 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 2 | [LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 11,765 | MCP Server for Ghidra |
+| 3 | [NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | 5,536 | 🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides. |
+| 4 | [floci-io / floci-az](https://github.com/floci-io/floci-az) | 854 | Light, fluffy, and always free - Local Azure Emulator |
+| 5 | [kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) | 2,126 | TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展 |
+| 6 | [ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) | 5,658 | HyperOS enhancement module - Make HyperOS Great Again! |
+| 7 | [skylot / jadx](https://github.com/skylot/jadx) | 51,601 | Dex to Java decompiler |
+| 8 | [FIRST-Tech-Challenge / FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | 1,392 | FTC Android Studio Workspace for robot programming in Android Studio |
+| 9 | [bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) | 6,124 | Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. |
+| 10 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 97,928 | Ghidra is a software reverse engineering (SRE) framework |
+| 11 | [logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7,896 | Digital logic design tool and simulator |
+| 12 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,195 | Free implementation of Play Services |
+| 13 | [apache / iceberg](https://github.com/apache/iceberg) | 9,412 | Apache Iceberg |
+| 14 | [cyberkaida / reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | 944 | MCP server for reverse engineering tasks in Ghidra 👩‍💻 |
+| 15 | [dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) | 273 | Turn any android phone into Desktop class experience including full linux environment without root |
+| 16 | [jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) | 8,586 | 一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。 |
+| 17 | [zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) | 312 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access. |
+| 18 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,712 | Open Source Identity and Access Management For Modern Applications and Services |
+| 19 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,239 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
