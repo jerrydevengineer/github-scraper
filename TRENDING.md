@@ -1,19 +1,15 @@
-# Top Trending Java Repositories - 2026-11-11
+# Top Trending Java Repositories - 2026-11-12
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 66,833 | All Algorithms implemented in Java |
-| 2 | [jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) | 1,219 | Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories. |
-| 3 | [Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) | 1,139 | A fork of NagramX with additional features. |
-| 4 | [AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | 543 | Dual pane Android file manager with focus on APKs |
-| 5 | [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) | 99,426 | Ghidra is a software reverse engineering (SRE) framework |
-| 6 | [zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) | 338 | Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access. |
-| 7 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 4,364 | Modern super user interface implementation on Android. |
-| 8 | [LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) | 25,427 | LSPosed Framework |
-| 9 | [zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) | 2,033 | Magic tool for pentest from your android device! |
-| 10 | [AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) | 1,499 | No description available. |
-| 11 | [graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) | 6,806 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
-| 12 | [iflytek / skillhub](https://github.com/iflytek/skillhub) | 5,394 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. |
-| 13 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 30,255 | Telegram for Android source |
-| 14 | [AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) | 8,289 | A podcast manager for Android |
-| 15 | [kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) | 4,141 | Mac.apk: Run Android apps natively on Apple Silicon Macs |
+| 1 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 67,158 | All Algorithms implemented in Java |
+| 2 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48,436 | 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型 |
+| 3 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,765 | Jenkins automation server |
+| 4 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 16,171 | The ZAP by Checkmarx Core project |
+| 5 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,314 | Spring Framework |
+| 6 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 6,345 | Build distributed, production-grade, long-running agents. |
+| 7 | [apache / kafka](https://github.com/apache/kafka) | 34,213 | Apache Kafka - A distributed event streaming platform |
+| 8 | [iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) | 4,909 | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows. |
+| 9 | [mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) | 690 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی |
+| 10 | [apache / fineract](https://github.com/apache/fineract) | 2,621 | Apache Fineract |
+| 11 | [aleixrodriala / newtube](https://github.com/aleixrodriala/newtube) | 741 | SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in. |
