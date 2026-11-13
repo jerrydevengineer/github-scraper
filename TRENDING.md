@@ -1,15 +1,21 @@
-# Top Trending Java Repositories - 2026-11-12
+# Top Trending Java Repositories - 2026-11-13
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 67,158 | All Algorithms implemented in Java |
-| 2 | [jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48,436 | 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型 |
-| 3 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,765 | Jenkins automation server |
-| 4 | [zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) | 16,171 | The ZAP by Checkmarx Core project |
-| 5 | [spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) | 60,314 | Spring Framework |
-| 6 | [agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 6,345 | Build distributed, production-grade, long-running agents. |
-| 7 | [apache / kafka](https://github.com/apache/kafka) | 34,213 | Apache Kafka - A distributed event streaming platform |
-| 8 | [iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) | 4,909 | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows. |
-| 9 | [mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) | 690 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی |
-| 10 | [apache / fineract](https://github.com/apache/fineract) | 2,621 | Apache Fineract |
-| 11 | [aleixrodriala / newtube](https://github.com/aleixrodriala/newtube) | 741 | SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in. |
+| 1 | [ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 43,345 | Learn System Design concepts and prepare for interviews using free resources. |
+| 2 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,683 | Free and Open Source, Distributed, RESTful Search Engine |
+| 3 | [TheAlgorithms / Java](https://github.com/TheAlgorithms/Java) | 67,222 | All Algorithms implemented in Java |
+| 4 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,910 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 5 | [apache / flink](https://github.com/apache/flink) | 26,468 | Apache Flink |
+| 6 | [termux / termux-x11](https://github.com/termux/termux-x11) | 5,132 | Termux X-server add-on. |
+| 7 | [AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) | 1,511 | No description available. |
+| 8 | [xuxueli / xxl-job](https://github.com/xuxueli/xxl-job) | 30,662 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 9 | [apache / solr](https://github.com/apache/solr) | 1,700 | Apache Solr open-source search software |
+| 10 | [jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) | 26,772 | Jenkins automation server |
+| 11 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,291 | Free implementation of Play Services |
+| 12 | [dataease / dataease](https://github.com/dataease/dataease) | 24,694 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 13 | [jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) | 1,258 | Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories. |
+| 14 | [DrKLO / Telegram](https://github.com/DrKLO/Telegram) | 30,272 | Telegram for Android source |
+| 15 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,525 | JDK main-line development https://openjdk.org/projects/jdk |
+| 16 | [apache / ozone](https://github.com/apache/ozone) | 1,334 | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. |
+| 17 | [TGX-Android / Telegram-X](https://github.com/TGX-Android/Telegram-X) | 6,191 | The main repository of Telegram X — official alternative Telegram client for Android. |
