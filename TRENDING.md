@@ -1,17 +1,21 @@
-# Top Trending Java Repositories - 2026-11-16
+# Top Trending Java Repositories - 2026-11-17
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 28,093 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 2 | [HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) | 10,997 | A Minecraft Launcher which is multi-functional, cross-platform and popular |
-| 3 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,256 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 4 | [freeok / so-novel](https://github.com/freeok/so-novel) | 9,038 | 小说下载｜网文下载 | 网络小说 |
-| 5 | [MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | 1,087 | A Minecraft: Java Edition launcher, based on PojavLauncher |
-| 6 | [termux / termux-app](https://github.com/termux/termux-app) | 64,977 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 7 | [Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) | 4,620 | [NeoForge Mod] Building Tools and Aesthetic Technology |
-| 8 | [FIRST-Tech-Challenge / FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | 1,403 | FTC Android Studio Workspace for robot programming in Android Studio |
-| 9 | [ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) | 602 | an unofficial sts2 mobile launcher that support mods,optimized mobile control |
-| 10 | [Anuken / Mindustry](https://github.com/Anuken/Mindustry) | 29,867 | The automation tower defense RTS |
-| 11 | [MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) | 3,562 | [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。 |
-| 12 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,360 | google maps for block game |
-| 13 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 36,379 | Browse media content with your own rules on Android TV |
+| 1 | [cabaletta / baritone](https://github.com/cabaletta/baritone) | 9,360 | google maps for block game |
+| 2 | [FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | 5,215 | Fold Craft Launcher, an Android Minecraft : Java Edition launcher. |
+| 3 | [termux / termux-app](https://github.com/termux/termux-app) | 65,042 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 4 | [LiteLDev / LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) | 721 | LeviLauncher for Android |
+| 5 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,681 | Free and Open Source, Distributed, RESTful Search Engine |
+| 6 | [ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 28,126 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 7 | [jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) | 1,376 | Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories. |
+| 8 | [LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) | 13,957 | No clever tagline needed. |
+| 9 | [mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) | 734 | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی |
+| 10 | [RikkaApps / Sui](https://github.com/RikkaApps/Sui) | 4,387 | Modern super user interface implementation on Android. |
+| 11 | [yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) | 36,406 | Browse media content with your own rules on Android TV |
+| 12 | [microg / GmsCore](https://github.com/microg/GmsCore) | 15,349 | Free implementation of Play Services |
+| 13 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 6,813 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
+| 14 | [apache / maven](https://github.com/apache/maven) | 5,376 | Apache Maven core |
+| 15 | [RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) | 2,795 | The API and the developer guide for Shizuku and Sui. |
+| 16 | [TelegramMessenger / Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) | 30,312 | Telegram for Android source |
+| 17 | [floci-io / floci](https://github.com/floci-io/floci) | 31,862 | Light, fluffy, and always free - The AWS Local Emulator alternative |
