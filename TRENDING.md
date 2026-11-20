@@ -1,21 +1,22 @@
-# Top Trending Java Repositories - 2026-11-19
+# Top Trending Java Repositories - 2026-11-20
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [elastic / elasticsearch](https://github.com/elastic/elasticsearch) | 78,658 | Free and Open Source, Distributed, RESTful Search Engine |
-| 2 | [spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) | 81,887 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 3 | [TelegramMessenger / Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) | 30,336 | Telegram for Android source |
-| 4 | [YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 40,532 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 5 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,545 | JDK main-line development https://openjdk.org/projects/jdk |
-| 6 | [microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) | 10,694 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 7 | [apache / doris](https://github.com/apache/doris) | 16,242 | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
-| 8 | [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) | 22,696 | All-in-one IoT Platform - Device management, data collection, processing and visualization. |
-| 9 | [Aizistral-Studios / No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) | 1,160 | Disable Player Chat Reporting and make user messages untrackable. |
-| 10 | [Aizistral-Studios / No-Chat-Restrictions](https://github.com/Aizistral-Studios/No-Chat-Restrictions) | 214 | A Minecraft mod dedicated to removing restrictions around the use of multiplayer features, including in-game chat. |
-| 11 | [AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) | 3,404 | AndroidIDE is an IDE for Android to develop full featured Android apps. |
-| 12 | [zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) | 2,095 | Magic tool for pentest from your android device! |
-| 13 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 30,286 | Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. |
-| 14 | [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,887 | Design patterns implemented in Java |
-| 15 | [dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) | 348 | Turn any android phone into Desktop class experience including full linux environment without root |
-| 16 | [00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 6,828 | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou. |
-| 17 | [alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 11,162 | Agentic AI Framework for Java Developers |
+| 1 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,552 | JDK main-line development https://openjdk.org/projects/jdk |
+| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 37,976 | Open Source Identity and Access Management For Modern Applications and Services |
+| 3 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 14,038 | 🔎 Open source distributed and RESTful search engine. |
+| 4 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 52,489 | Free universal database tool and SQL client |
+| 5 | [microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) | 10,699 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| 6 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,484 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 7 | [Aizistral-Studios / No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) | 1,166 | Disable Player Chat Reporting and make user messages untrackable. |
+| 8 | [AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | 603 | Dual pane Android file manager with focus on APKs |
+| 9 | [apache / polaris](https://github.com/apache/polaris) | 2,123 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
+| 10 | [apache / skywalking](https://github.com/apache/skywalking) | 25,015 | APM, Application Performance Monitoring System |
+| 11 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,981 | Apache Kafka® running on Kubernetes |
+| 12 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,423 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 13 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,819 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 14 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,272 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 15 | [apache / nifi](https://github.com/apache/nifi) | 6,329 | Apache NiFi |
+| 16 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 30,290 | Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. |
+| 17 | [apache / fineract](https://github.com/apache/fineract) | 2,637 | Apache Fineract |
+| 18 | [apache / solr](https://github.com/apache/solr) | 1,705 | Apache Solr open-source search software |
