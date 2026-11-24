@@ -1,22 +1,22 @@
-# Top Trending Java Repositories - 2026-11-23
+# Top Trending Java Repositories - 2026-11-24
 
 | Rank | Name | Stars | Description |
 |------|------|-------|-------------|
-| 1 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,565 | JDK main-line development https://openjdk.org/projects/jdk |
-| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 38,005 | Open Source Identity and Access Management For Modern Applications and Services |
-| 3 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 14,053 | 🔎 Open source distributed and RESTful search engine. |
-| 4 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 52,513 | Free universal database tool and SQL client |
-| 5 | [microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) | 10,704 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| 6 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,502 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 7 | [Aizistral-Studios / No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) | 1,211 | Disable Player Chat Reporting and make user messages untrackable. |
-| 8 | [AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | 667 | Dual pane Android file manager with focus on APKs |
+| 1 | [openjdk / jdk](https://github.com/openjdk/jdk) | 23,568 | JDK main-line development https://openjdk.org/projects/jdk |
+| 2 | [keycloak / keycloak](https://github.com/keycloak/keycloak) | 38,026 | Open Source Identity and Access Management For Modern Applications and Services |
+| 3 | [opensearch-project / OpenSearch](https://github.com/opensearch-project/OpenSearch) | 14,067 | 🔎 Open source distributed and RESTful search engine. |
+| 4 | [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) | 52,521 | Free universal database tool and SQL client |
+| 5 | [microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) | 10,708 | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| 6 | [DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) | 4,514 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
+| 7 | [Aizistral-Studios / No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) | 1,216 | Disable Player Chat Reporting and make user messages untrackable. |
+| 8 | [AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | 683 | Dual pane Android file manager with focus on APKs |
 | 9 | [apache / polaris](https://github.com/apache/polaris) | 2,124 | Apache Polaris, the interoperable, open source catalog for Apache Iceberg |
-| 10 | [apache / skywalking](https://github.com/apache/skywalking) | 25,022 | APM, Application Performance Monitoring System |
-| 11 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,982 | Apache Kafka® running on Kubernetes |
-| 12 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,437 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
-| 13 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,826 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
-| 14 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,279 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
-| 15 | [apache / nifi](https://github.com/apache/nifi) | 6,332 | Apache NiFi |
-| 16 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 30,322 | Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. |
-| 17 | [apache / fineract](https://github.com/apache/fineract) | 2,644 | Apache Fineract |
+| 10 | [apache / skywalking](https://github.com/apache/skywalking) | 25,026 | APM, Application Performance Monitoring System |
+| 11 | [strimzi / strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | 5,981 | Apache Kafka® running on Kubernetes |
+| 12 | [langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) | 13,439 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot. |
+| 13 | [apache / seatunnel](https://github.com/apache/seatunnel) | 9,830 | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| 14 | [StarRocks / starrocks](https://github.com/StarRocks/starrocks) | 12,281 | The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. |
+| 15 | [apache / nifi](https://github.com/apache/nifi) | 6,333 | Apache NiFi |
+| 16 | [kestra-io / kestra](https://github.com/kestra-io/kestra) | 30,328 | Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. |
+| 17 | [apache / fineract](https://github.com/apache/fineract) | 2,653 | Apache Fineract |
 | 18 | [apache / solr](https://github.com/apache/solr) | 1,706 | Apache Solr open-source search software |
